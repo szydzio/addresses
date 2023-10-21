@@ -1,0 +1,2001 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-25357' action='modify' lat='46.391468' lon='12.291994'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25358' action='modify' lat='46.391761' lon='12.29152'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25359' action='modify' lat='46.394695' lon='12.295504'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25360' action='modify' lat='46.394417' lon='12.295009'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25361' action='modify' lat='46.394387' lon='12.294948'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25362' action='modify' lat='46.394394' lon='12.294985'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25363' action='modify' lat='46.396279' lon='12.295797'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25364' action='modify' lat='46.394666' lon='12.295595'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25365' action='modify' lat='46.394405' lon='12.294924'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25366' action='modify' lat='46.39466' lon='12.294795'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25367' action='modify' lat='46.395712' lon='12.295665'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25368' action='modify' lat='46.394616' lon='12.295883'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25369' action='modify' lat='46.384815' lon='12.283921'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25370' action='modify' lat='46.387393' lon='12.284546'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='63a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25371' action='modify' lat='46.389923' lon='12.285505'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25372' action='modify' lat='46.3973' lon='12.295184'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25373' action='modify' lat='46.396992' lon='12.295036'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25374' action='modify' lat='46.389352' lon='12.288362'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25377' action='modify' lat='46.388522' lon='12.285344'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25378' action='modify' lat='46.393782' lon='12.29325'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='158' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25381' action='modify' lat='46.398078' lon='12.296463'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25382' action='modify' lat='46.389357' lon='12.28576'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25383' action='modify' lat='46.397627' lon='12.295536'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25385' action='modify' lat='46.392225' lon='12.291557'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25386' action='modify' lat='46.391538' lon='12.291585'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25388' action='modify' lat='46.388794' lon='12.287596'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25389' action='modify' lat='46.392949' lon='12.29269'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25390' action='modify' lat='46.389039' lon='12.288991'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25391' action='modify' lat='46.389492' lon='12.285775'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25392' action='modify' lat='46.391626' lon='12.29159'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25393' action='modify' lat='46.394506' lon='12.295664'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25394' action='modify' lat='46.39673' lon='12.295568'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25395' action='modify' lat='46.389129' lon='12.28903'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25396' action='modify' lat='46.386815' lon='12.284455'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25397' action='modify' lat='46.389415' lon='12.285466'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25400' action='modify' lat='46.388972' lon='12.285552'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25403' action='modify' lat='46.393218' lon='12.293967'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25404' action='modify' lat='46.390984' lon='12.290526'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25405' action='modify' lat='46.394592' lon='12.294795'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='76a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25406' action='modify' lat='46.394356' lon='12.294818'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25407' action='modify' lat='46.393691' lon='12.293657'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25408' action='modify' lat='46.39447' lon='12.294749'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25409' action='modify' lat='46.393854' lon='12.294193'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='39a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25410' action='modify' lat='46.394205' lon='12.294819'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25411' action='modify' lat='46.394194' lon='12.294698'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25412' action='modify' lat='46.394212' lon='12.294494'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25413' action='modify' lat='46.393577' lon='12.294209'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25414' action='modify' lat='46.393445' lon='12.294612'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25415' action='modify' lat='46.386639' lon='12.285259'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25416' action='modify' lat='46.386534' lon='12.284847'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25417' action='modify' lat='46.392324' lon='12.292045'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25418' action='modify' lat='46.386952' lon='12.284125'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25419' action='modify' lat='46.393409' lon='12.292363'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='159' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25421' action='modify' lat='46.388669' lon='12.285449'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25423' action='modify' lat='46.39182' lon='12.291503'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25425' action='modify' lat='46.393562' lon='12.294404'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25426' action='modify' lat='46.397942' lon='12.295117'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25427' action='modify' lat='46.388694' lon='12.288057'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25428' action='modify' lat='46.387841' lon='12.285738'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25430' action='modify' lat='46.397396' lon='12.294538'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25432' action='modify' lat='46.387975' lon='12.286128'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25434' action='modify' lat='46.393941' lon='12.294075'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25435' action='modify' lat='46.389137' lon='12.28805'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25436' action='modify' lat='46.391207' lon='12.290899'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25437' action='modify' lat='46.389669' lon='12.288451'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25439' action='modify' lat='46.388849' lon='12.288355'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25440' action='modify' lat='46.398368' lon='12.292163'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25442' action='modify' lat='46.392961' lon='12.29261'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25445' action='modify' lat='46.397268' lon='12.295137'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25446' action='modify' lat='46.389889' lon='12.286164'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25447' action='modify' lat='46.393976' lon='12.29396'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25448' action='modify' lat='46.393558' lon='12.293288'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25450' action='modify' lat='46.387023' lon='12.285436'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25452' action='modify' lat='46.388767' lon='12.286193'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25455' action='modify' lat='46.394217' lon='12.294931'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25456' action='modify' lat='46.393434' lon='12.292973'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25457' action='modify' lat='46.392658' lon='12.291671'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='166' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25458' action='modify' lat='46.393253' lon='12.292811'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25460' action='modify' lat='46.38882' lon='12.28542'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25462' action='modify' lat='46.399359' lon='12.295329'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='139f' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25463' action='modify' lat='46.387976' lon='12.285435'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25465' action='modify' lat='46.393359' lon='12.293694'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25466' action='modify' lat='46.398637' lon='12.294737'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25467' action='modify' lat='46.389398' lon='12.289444'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25468' action='modify' lat='46.387615' lon='12.285857'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25469' action='modify' lat='46.388537' lon='12.286369'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25470' action='modify' lat='46.386154' lon='12.284834'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25472' action='modify' lat='46.387393' lon='12.28584'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25474' action='modify' lat='46.39382' lon='12.293216'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='157' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25476' action='modify' lat='46.400058' lon='12.294076'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='135a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25477' action='modify' lat='46.388909' lon='12.288463'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25478' action='modify' lat='46.388915' lon='12.285754'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25479' action='modify' lat='46.388921' lon='12.285923'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25482' action='modify' lat='46.389077' lon='12.289042'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25483' action='modify' lat='46.388791' lon='12.288616'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25484' action='modify' lat='46.39519' lon='12.295515'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='149' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25487' action='modify' lat='46.389988' lon='12.288792'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25488' action='modify' lat='46.389085' lon='12.288218'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25489' action='modify' lat='46.399929' lon='12.293773'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='135' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25490' action='modify' lat='46.395087' lon='12.294952'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='151' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25492' action='modify' lat='46.389376' lon='12.289476'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25493' action='modify' lat='46.398962' lon='12.293518'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='135' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25495' action='modify' lat='46.389036' lon='12.285611'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25496' action='modify' lat='46.389102' lon='12.288002'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25497' action='modify' lat='46.387846' lon='12.285224'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25498' action='modify' lat='46.387758' lon='12.285429'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25501' action='modify' lat='46.398378' lon='12.295034'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25503' action='modify' lat='46.392339' lon='12.291626'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='173' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25504' action='modify' lat='46.397544' lon='12.294899'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25505' action='modify' lat='46.39483' lon='12.2946'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25506' action='modify' lat='46.390058' lon='12.286067'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25507' action='modify' lat='46.389344' lon='12.289403'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25508' action='modify' lat='46.388052' lon='12.285371'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25509' action='modify' lat='46.386185' lon='12.285002'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25513' action='modify' lat='46.389289' lon='12.288195'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25514' action='modify' lat='46.389091' lon='12.285733'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25515' action='modify' lat='46.394137' lon='12.294664'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25516' action='modify' lat='46.389516' lon='12.289396'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25517' action='modify' lat='46.386853' lon='12.285245'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='32a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25518' action='modify' lat='46.389145' lon='12.289265'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25519' action='modify' lat='46.398638' lon='12.294871'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25520' action='modify' lat='46.394216' lon='12.294652'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25522' action='modify' lat='46.392726' lon='12.293546'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25523' action='modify' lat='46.400163' lon='12.295175'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='139b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25525' action='modify' lat='46.387075' lon='12.285806'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25526' action='modify' lat='46.389502' lon='12.285924'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25529' action='modify' lat='46.389453' lon='12.289358'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25531' action='modify' lat='46.397462' lon='12.295536'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25535' action='modify' lat='46.38884' lon='12.286169'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25536' action='modify' lat='46.394481' lon='12.296213'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25537' action='modify' lat='46.400397' lon='12.295369'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25538' action='modify' lat='46.398322' lon='12.295403'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25539' action='modify' lat='46.387751' lon='12.285667'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25540' action='modify' lat='46.389008' lon='12.288524'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25543' action='modify' lat='46.39907' lon='12.295719'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='144' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25545' action='modify' lat='46.388956' lon='12.289018'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25546' action='modify' lat='46.394363' lon='12.295143'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25547' action='modify' lat='46.389388' lon='12.289356'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25548' action='modify' lat='46.389477' lon='12.285635'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25549' action='modify' lat='46.389189' lon='12.285531'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25552' action='modify' lat='46.388964' lon='12.288443'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25553' action='modify' lat='46.394702' lon='12.29508'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25555' action='modify' lat='46.392613' lon='12.291655'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25557' action='modify' lat='46.397645' lon='12.295606'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25558' action='modify' lat='46.383696' lon='12.284647'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25563' action='modify' lat='46.398434' lon='12.294143'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='131' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25564' action='modify' lat='46.384098' lon='12.284659'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25566' action='modify' lat='46.389189' lon='12.288149'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25567' action='modify' lat='46.38656' lon='12.284823'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25569' action='modify' lat='46.38898' lon='12.289336'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25571' action='modify' lat='46.397164' lon='12.295683'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='148' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25572' action='modify' lat='46.39747' lon='12.295592'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25578' action='modify' lat='46.388971' lon='12.285863'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25583' action='modify' lat='46.398999' lon='12.296076'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='145' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25584' action='modify' lat='46.388971' lon='12.285717'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25586' action='modify' lat='46.387454' lon='12.285599'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25587' action='modify' lat='46.398807' lon='12.296926'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='147' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25588' action='modify' lat='46.389422' lon='12.285534'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25589' action='modify' lat='46.389211' lon='12.285804'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25590' action='modify' lat='46.388885' lon='12.288041'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25592' action='modify' lat='46.390247' lon='12.2859'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25593' action='modify' lat='46.389187' lon='12.288505'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25594' action='modify' lat='46.389221' lon='12.285725'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25595' action='modify' lat='46.389635' lon='12.285668'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25597' action='modify' lat='46.388725' lon='12.286861'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25598' action='modify' lat='46.389181' lon='12.288842'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25600' action='modify' lat='46.387654' lon='12.28588'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25601' action='modify' lat='46.398464' lon='12.29342'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25602' action='modify' lat='46.38895' lon='12.288221'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25603' action='modify' lat='46.389266' lon='12.289057'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25606' action='modify' lat='46.394044' lon='12.294576'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25607' action='modify' lat='46.388248' lon='12.285746'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25608' action='modify' lat='46.388881' lon='12.288514'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25610' action='modify' lat='46.394224' lon='12.294462'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25611' action='modify' lat='46.394501' lon='12.294648'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25612' action='modify' lat='46.388625' lon='12.285766'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25613' action='modify' lat='46.392637' lon='12.291662'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='167' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25615' action='modify' lat='46.397286' lon='12.294517'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25616' action='modify' lat='46.389424' lon='12.289171'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25617' action='modify' lat='46.389943' lon='12.285826'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25618' action='modify' lat='46.394916' lon='12.294063'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25620' action='modify' lat='46.393792' lon='12.294673'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25621' action='modify' lat='46.38921' lon='12.288341'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25622' action='modify' lat='46.389196' lon='12.28824'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25624' action='modify' lat='46.389769' lon='12.285794'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25625' action='modify' lat='46.3945' lon='12.294573'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25626' action='modify' lat='46.386797' lon='12.285149'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='32b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25627' action='modify' lat='46.394453' lon='12.294669'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25628' action='modify' lat='46.389174' lon='12.288378'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25629' action='modify' lat='46.392367' lon='12.291585'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25632' action='modify' lat='46.389699' lon='12.288937'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25633' action='modify' lat='46.397556' lon='12.295335'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25634' action='modify' lat='46.389474' lon='12.289396'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25635' action='modify' lat='46.398936' lon='12.294629'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='142' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25637' action='modify' lat='46.395201' lon='12.296295'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25639' action='modify' lat='46.388698' lon='12.285381'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25641' action='modify' lat='46.398988' lon='12.296458'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25642' action='modify' lat='46.38955' lon='12.285809'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25643' action='modify' lat='46.398312' lon='12.295345'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='126' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25646' action='modify' lat='46.397876' lon='12.296222'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25647' action='modify' lat='46.386039' lon='12.284811'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25649' action='modify' lat='46.394561' lon='12.295175'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25650' action='modify' lat='46.38889' lon='12.28557'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25651' action='modify' lat='46.39732' lon='12.295414'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25655' action='modify' lat='46.388807' lon='12.288392'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25656' action='modify' lat='46.393335' lon='12.291959'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='161' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25657' action='modify' lat='46.39462' lon='12.295039'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='86' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25658' action='modify' lat='46.399423' lon='12.295013'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='139g' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25661' action='modify' lat='46.39215' lon='12.291528'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='176' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25662' action='modify' lat='46.3983' lon='12.294204'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='131a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25664' action='modify' lat='46.39003' lon='12.289124'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25665' action='modify' lat='46.388391' lon='12.286254'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25667' action='modify' lat='46.389223' lon='12.287813'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25668' action='modify' lat='46.393685' lon='12.294993'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25669' action='modify' lat='46.392716' lon='12.291443'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='165' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25670' action='modify' lat='46.397769' lon='12.294616'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25671' action='modify' lat='46.395122' lon='12.294618'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='152' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25672' action='modify' lat='46.393263' lon='12.292926'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25673' action='modify' lat='46.398233' lon='12.296009'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25674' action='modify' lat='46.386612' lon='12.285276'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25676' action='modify' lat='46.391587' lon='12.291563'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25677' action='modify' lat='46.394568' lon='12.294916'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25678' action='modify' lat='46.393344' lon='12.293467'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25679' action='modify' lat='46.394289' lon='12.294233'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25681' action='modify' lat='46.393404' lon='12.293394'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25682' action='modify' lat='46.394252' lon='12.294522'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25683' action='modify' lat='46.38924' lon='12.288741'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25684' action='modify' lat='46.38757' lon='12.285913'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25686' action='modify' lat='46.387697' lon='12.285898'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25687' action='modify' lat='46.389364' lon='12.285314'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25688' action='modify' lat='46.386707' lon='12.2841'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25689' action='modify' lat='46.386119' lon='12.28486'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25690' action='modify' lat='46.388771' lon='12.286302'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25692' action='modify' lat='46.389011' lon='12.288959'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25693' action='modify' lat='46.386473' lon='12.284362'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25694' action='modify' lat='46.389602' lon='12.286015'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25696' action='modify' lat='46.394914' lon='12.295273'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25697' action='modify' lat='46.397218' lon='12.294787'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25699' action='modify' lat='46.389673' lon='12.286068'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25700' action='modify' lat='46.391232' lon='12.290913'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25702' action='modify' lat='46.389809' lon='12.285765'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25703' action='modify' lat='46.393922' lon='12.294143'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25705' action='modify' lat='46.388882' lon='12.288145'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25706' action='modify' lat='46.399782' lon='12.293423'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='135c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25707' action='modify' lat='46.387861' lon='12.285557'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25708' action='modify' lat='46.388572' lon='12.286146'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25713' action='modify' lat='46.392865' lon='12.291773'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25714' action='modify' lat='46.388389' lon='12.285894'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25715' action='modify' lat='46.386859' lon='12.285813'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25716' action='modify' lat='46.389272' lon='12.289632'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25717' action='modify' lat='46.387504' lon='12.286213'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25718' action='modify' lat='46.398247' lon='12.2956'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25720' action='modify' lat='46.388486' lon='12.28631'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25721' action='modify' lat='46.389004' lon='12.285834'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='87' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25722' action='modify' lat='46.387461' lon='12.2859'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25724' action='modify' lat='46.389097' lon='12.28878'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25725' action='modify' lat='46.398187' lon='12.293884'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='131b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25728' action='modify' lat='46.393054' lon='12.292793'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25729' action='modify' lat='46.397688' lon='12.295792'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25730' action='modify' lat='46.386373' lon='12.285236'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25732' action='modify' lat='46.389295' lon='12.289712'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25733' action='modify' lat='46.387035' lon='12.285807'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25734' action='modify' lat='46.394525' lon='12.294374'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25735' action='modify' lat='46.398755' lon='12.294286'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25736' action='modify' lat='46.392587' lon='12.291646'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='169' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25737' action='modify' lat='46.39842' lon='12.295576'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25740' action='modify' lat='46.394049' lon='12.294627'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25742' action='modify' lat='46.392268' lon='12.29165'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25743' action='modify' lat='46.392296' lon='12.292031'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25744' action='modify' lat='46.394082' lon='12.295553'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25746' action='modify' lat='46.389036' lon='12.28579'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25749' action='modify' lat='46.388433' lon='12.286271'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25750' action='modify' lat='46.387802' lon='12.285611'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25751' action='modify' lat='46.39304' lon='12.292461'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25753' action='modify' lat='46.393667' lon='12.293619'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25754' action='modify' lat='46.398567' lon='12.294781'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='129' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25755' action='modify' lat='46.396864' lon='12.29535'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25757' action='modify' lat='46.393197' lon='12.292153'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='160' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25758' action='modify' lat='46.388882' lon='12.288711'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25759' action='modify' lat='46.389983' lon='12.28611'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25761' action='modify' lat='46.391629' lon='12.291659'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25762' action='modify' lat='46.392888' lon='12.291506'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='164' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25766' action='modify' lat='46.391242' lon='12.290969'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25769' action='modify' lat='46.390354' lon='12.285887'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25771' action='modify' lat='46.38873' lon='12.287855'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25772' action='modify' lat='46.398003' lon='12.295439'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25774' action='modify' lat='46.392532' lon='12.291905'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25775' action='modify' lat='46.386649' lon='12.284981'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25778' action='modify' lat='46.39024' lon='12.285834'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25780' action='modify' lat='46.389435' lon='12.285592'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25781' action='modify' lat='46.389064' lon='12.28889'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25782' action='modify' lat='46.389123' lon='12.289109'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25783' action='modify' lat='46.388854' lon='12.288526'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25784' action='modify' lat='46.389114' lon='12.288401'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25787' action='modify' lat='46.389096' lon='12.28564'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25791' action='modify' lat='46.388579' lon='12.286382'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25792' action='modify' lat='46.391888' lon='12.291553'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25793' action='modify' lat='46.394335' lon='12.295191'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25795' action='modify' lat='46.38352' lon='12.284744'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25796' action='modify' lat='46.389947' lon='12.285991'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25797' action='modify' lat='46.387693' lon='12.285465'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25798' action='modify' lat='46.388685' lon='12.287896'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25799' action='modify' lat='46.390065' lon='12.285983'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25800' action='modify' lat='46.38951' lon='12.289246'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25801' action='modify' lat='46.393117' lon='12.293549'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25802' action='modify' lat='46.392427' lon='12.291586'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25803' action='modify' lat='46.394674' lon='12.294513'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25804' action='modify' lat='46.398469' lon='12.293782'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25806' action='modify' lat='46.387709' lon='12.286279'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25808' action='modify' lat='46.393578' lon='12.294659'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25811' action='modify' lat='46.395658' lon='12.295243'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25812' action='modify' lat='46.389165' lon='12.28848'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25813' action='modify' lat='46.394218' lon='12.294429'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25814' action='modify' lat='46.388319' lon='12.28668'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25815' action='modify' lat='46.389032' lon='12.289235'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25817' action='modify' lat='46.396585' lon='12.295891'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25819' action='modify' lat='46.389267' lon='12.288388'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25820' action='modify' lat='46.386549' lon='12.284457'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25821' action='modify' lat='46.389196' lon='12.285687'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25822' action='modify' lat='46.394539' lon='12.294636'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25824' action='modify' lat='46.394696' lon='12.295183'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='87' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25827' action='modify' lat='46.39773' lon='12.295098'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25830' action='modify' lat='46.394349' lon='12.294557'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25831' action='modify' lat='46.390919' lon='12.291948'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25833' action='modify' lat='46.392398' lon='12.291585'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='171' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25834' action='modify' lat='46.394369' lon='12.295051'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25835' action='modify' lat='46.394562' lon='12.294838'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25837' action='modify' lat='46.388663' lon='12.286412'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25838' action='modify' lat='46.39314' lon='12.292878'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25839' action='modify' lat='46.389009' lon='12.285658'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pianezze' />
+  </node>
+  <node id='-25840' action='modify' lat='46.389285' lon='12.289251'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cibiana Di Sotto' />
+  </node>
+  <node id='-25841' action='modify' lat='46.39341' lon='12.293006'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+  <node id='-25842' action='modify' lat='46.39455' lon='12.294442'>
+    <tag k='addr:city' v='Cibiana di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Masarié' />
+  </node>
+</osm>
