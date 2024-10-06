@@ -474,12 +474,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Vallesina' />
   </node>
-  <node id='-30102' action='modify' visible='true' lat='46.416267' lon='12.31725'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='8' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Vallesina' />
-  </node>
   <node id='-30103' action='modify' visible='true' lat='46.414303' lon='12.319695'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='8' />
@@ -786,12 +780,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Maestra' />
   </node>
-  <node id='-30154' action='modify' visible='true' lat='46.409513' lon='12.297277'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='18' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Maestra' />
-  </node>
   <node id='-30155' action='modify' visible='true' lat='46.410402' lon='12.299282'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='30' />
@@ -867,12 +855,6 @@
   <node id='-30167' action='modify' visible='true' lat='46.410317' lon='12.298657'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='24' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Maestra' />
-  </node>
-  <node id='-30168' action='modify' visible='true' lat='46.40999' lon='12.297978'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='18' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Maestra' />
   </node>
@@ -1182,12 +1164,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Pier Fortunato Calvi' />
   </node>
-  <node id='-30220' action='modify' visible='true' lat='46.420125' lon='12.334335'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='32' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Pier Fortunato Calvi' />
-  </node>
   <node id='-30221' action='modify' visible='true' lat='46.417634' lon='12.330391'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='46' />
@@ -1221,12 +1197,6 @@
   <node id='-30226' action='modify' visible='true' lat='46.417244' lon='12.333825'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='83' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via 20 Settembre' />
-  </node>
-  <node id='-30227' action='modify' visible='true' lat='46.417121' lon='12.331877'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='68a' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via 20 Settembre' />
   </node>
@@ -2664,12 +2634,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via della Stazione' />
   </node>
-  <node id='-30467' action='modify' visible='true' lat='46.417233' lon='12.334579'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='3' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via E. De Amicis' />
-  </node>
   <node id='-30468' action='modify' visible='true' lat='46.41958' lon='12.333654'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='43' />
@@ -2799,12 +2763,6 @@
   <node id='-30489' action='modify' visible='true' lat='46.417133' lon='12.334056'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='4' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via E. De Amicis' />
-  </node>
-  <node id='-30490' action='modify' visible='true' lat='46.417152' lon='12.334201'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='3' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via E. De Amicis' />
   </node>
@@ -3180,23 +3138,11 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Chiemis' />
   </node>
-  <node id='-30553' action='modify' visible='true' lat='46.419697' lon='12.341123'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='35' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Rusecco' />
-  </node>
   <node id='-30554' action='modify' visible='true' lat='46.419926' lon='12.337599'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='23a' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Dante' />
-  </node>
-  <node id='-30555' action='modify' visible='true' lat='46.4192' lon='12.334271'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='4' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via O. M. Olivo' />
   </node>
   <node id='-30556' action='modify' visible='true' lat='46.41545' lon='12.326585'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -3215,12 +3161,6 @@
     <tag k='addr:housenumber' v='69' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Anderica' />
-  </node>
-  <node id='-30559' action='modify' visible='true' lat='46.421302' lon='12.338536'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='12' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Ferrovia' />
   </node>
   <node id='-30560' action='modify' visible='true' lat='46.418008' lon='12.3337'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -3371,12 +3311,6 @@
     <tag k='addr:housenumber' v='16' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Girolamo Costantini' />
-  </node>
-  <node id='-30585' action='modify' visible='true' lat='46.420671' lon='12.337476'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='12' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Ferrovia' />
   </node>
   <node id='-30586' action='modify' visible='true' lat='46.415416' lon='12.326281'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -3624,12 +3558,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Rusecco' />
   </node>
-  <node id='-30627' action='modify' visible='true' lat='46.418902' lon='12.34143'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='1' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Rusecco' />
-  </node>
   <node id='-30628' action='modify' visible='true' lat='46.41872' lon='12.337062'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='20c' />
@@ -3761,12 +3689,6 @@
     <tag k='addr:housenumber' v='12' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Dante' />
-  </node>
-  <node id='-30650' action='modify' visible='true' lat='46.418963' lon='12.338663'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Rusecco' />
   </node>
   <node id='-30651' action='modify' visible='true' lat='46.41818' lon='12.333672'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -3972,21 +3894,9 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via in Col' />
   </node>
-  <node id='-30685' action='modify' visible='true' lat='46.410028' lon='12.298996'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='14' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via in Col' />
-  </node>
   <node id='-30686' action='modify' visible='true' lat='46.410118' lon='12.299478'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='12' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via in Col' />
-  </node>
-  <node id='-30687' action='modify' visible='true' lat='46.409956' lon='12.298844'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='14' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via in Col' />
   </node>
@@ -4266,12 +4176,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Lasta' />
   </node>
-  <node id='-30734' action='modify' visible='true' lat='46.409265' lon='12.295609'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Lasta' />
-  </node>
   <node id='-30735' action='modify' visible='true' lat='46.407525' lon='12.290561'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='50' />
@@ -4325,12 +4229,6 @@
     <tag k='addr:housenumber' v='11' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Maestra' />
-  </node>
-  <node id='-30744' action='modify' visible='true' lat='46.408929' lon='12.295904'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Lasta' />
   </node>
   <node id='-30745' action='modify' visible='true' lat='46.407595' lon='12.290273'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -5154,12 +5052,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Girolamo Costantini' />
   </node>
-  <node id='-30882' action='modify' visible='true' lat='46.420743' lon='12.340048'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='10' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Ferrovia' />
-  </node>
   <node id='-30883' action='modify' visible='true' lat='46.417826' lon='12.333234'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='33' />
@@ -5303,12 +5195,6 @@
     <tag k='addr:housenumber' v='6' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Piazza San Rocco' />
-  </node>
-  <node id='-30907' action='modify' visible='true' lat='46.417891' lon='12.333219'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='37' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via G. Carducci' />
   </node>
   <node id='-30908' action='modify' visible='true' lat='46.421254' lon='12.338541'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -5538,23 +5424,11 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Ferrovia' />
   </node>
-  <node id='-30946' action='modify' visible='true' lat='46.414998' lon='12.32331'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='24' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Tiziano' />
-  </node>
   <node id='-30947' action='modify' visible='true' lat='46.418903' lon='12.335225'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='7' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Piazza San Rocco' />
-  </node>
-  <node id='-30948' action='modify' visible='true' lat='46.414963' lon='12.323242'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='23' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Tiziano' />
   </node>
   <node id='-30949' action='modify' visible='true' lat='46.418482' lon='12.330268'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -5682,12 +5556,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Tiziano' />
   </node>
-  <node id='-30970' action='modify' visible='true' lat='46.40842' lon='12.295585'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='5' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Gei' />
-  </node>
   <node id='-30971' action='modify' visible='true' lat='46.415494' lon='12.325597'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='7' />
@@ -5808,12 +5676,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Rusecco' />
   </node>
-  <node id='-30991' action='modify' visible='true' lat='46.41957' lon='12.338012'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='26' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Dante' />
-  </node>
   <node id='-30992' action='modify' visible='true' lat='46.41906' lon='12.33608'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='2' />
@@ -5903,12 +5765,6 @@
     <tag k='addr:housenumber' v='3' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Rusecco' />
-  </node>
-  <node id='-31007' action='modify' visible='true' lat='46.415041' lon='12.32338'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='25' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Tiziano' />
   </node>
   <node id='-31008' action='modify' visible='true' lat='46.409582' lon='12.295038'>
     <tag k='addr:city' v='Valle di Cadore' />
@@ -6000,12 +5856,6 @@
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Tiziano' />
   </node>
-  <node id='-31023' action='modify' visible='true' lat='46.417897' lon='12.333636'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='37' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via G. Carducci' />
-  </node>
   <node id='-31024' action='modify' visible='true' lat='46.420345' lon='12.337625'>
     <tag k='addr:city' v='Valle di Cadore' />
     <tag k='addr:housenumber' v='23b' />
@@ -6089,12 +5939,6 @@
     <tag k='addr:housenumber' v='65' />
     <tag k='addr:postcode' v='32040' />
     <tag k='addr:street' v='Via Rusecco' />
-  </node>
-  <node id='-31038' action='modify' visible='true' lat='46.408901' lon='12.296323'>
-    <tag k='addr:city' v='Valle di Cadore' />
-    <tag k='addr:housenumber' v='3a' />
-    <tag k='addr:postcode' v='32040' />
-    <tag k='addr:street' v='Via Gei' />
   </node>
   <node id='-31039' action='modify' visible='true' lat='46.415106' lon='12.32711'>
     <tag k='addr:city' v='Valle di Cadore' />
