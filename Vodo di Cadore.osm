@@ -1,0 +1,2913 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-43237' action='modify' lat='46.419802' lon='12.243635'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43238' action='modify' lat='46.420953' lon='12.241115'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43239' lat='46.41405' lon='12.257957'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43240' action='modify' lat='46.420939' lon='12.241504'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43241' lat='46.415111' lon='12.258868'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43242' action='modify' lat='46.41680712571' lon='12.27171969636'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='46/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43243' action='modify' lat='46.421028' lon='12.241305'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43244' lat='46.413412' lon='12.258684'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43245' action='modify' lat='46.41752' lon='12.246699'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43246' action='modify' lat='46.413769' lon='12.258759'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43247' lat='46.415931' lon='12.271168'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43248' action='modify' lat='46.416146' lon='12.272407'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43249' lat='46.420378' lon='12.243298'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43250' lat='46.419448' lon='12.243019'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43251' lat='46.417174' lon='12.267116'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43252' lat='46.414729' lon='12.260878'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43253' lat='46.413821' lon='12.257546'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43254' action='modify' lat='46.420513' lon='12.242191'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43255' action='modify' lat='46.418169' lon='12.248445'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43256' lat='46.415846' lon='12.270627'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43257' action='modify' lat='46.420503' lon='12.241743'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43258' lat='46.41802' lon='12.248935'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43259' lat='46.414135' lon='12.25785'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43260' lat='46.413019' lon='12.259538'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43261' lat='46.41411' lon='12.257841'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43262' lat='46.414195' lon='12.25786'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43263' lat='46.413124' lon='12.25912'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43264' lat='46.413634' lon='12.257854'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43265' action='modify' lat='46.420568' lon='12.241628'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43266' action='modify' lat='46.420692' lon='12.241824'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43267' action='modify' lat='46.420411' lon='12.242295'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43268' action='modify' lat='46.420782' lon='12.240956'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43269' action='modify' lat='46.421478' lon='12.24177'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43270' action='modify' lat='46.420959' lon='12.241156'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43271' action='modify' lat='46.420017' lon='12.242554'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43272' lat='46.413924' lon='12.258597'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43273' action='modify' lat='46.41714510516' lon='12.26777035225'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43274' action='modify' lat='46.42124096128' lon='12.24161668221'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43275' lat='46.421637' lon='12.243363'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43276' action='modify' lat='46.41644884563' lon='12.26914455008'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43277' action='modify' lat='46.419892' lon='12.246025'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='56/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43278' action='modify' lat='46.417287' lon='12.269166'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43279' action='modify' lat='46.418798' lon='12.247674'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43280' lat='46.420701' lon='12.244374'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43281' lat='46.418835' lon='12.248825'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43282' action='modify' lat='46.420856' lon='12.241634'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43283' action='modify' lat='46.417056' lon='12.268867'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43284' lat='46.42135' lon='12.242764'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43285' lat='46.413299' lon='12.259054'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43286' lat='46.418194' lon='12.249668'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43287' action='modify' lat='46.414668' lon='12.260155'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43288' action='modify' lat='46.41864723588' lon='12.24714458895'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Maria Antonia Talamini' />
+  </node>
+  <node id='-43289' lat='46.418755' lon='12.248512'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43290' action='modify' lat='46.420223' lon='12.242294'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43291' action='modify' lat='46.42013501864' lon='12.24225010797'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='58/4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43292' action='modify' lat='46.418869' lon='12.245187'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43293' action='modify' lat='46.418276' lon='12.245867'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43294' action='modify' lat='46.418678' lon='12.245988'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43295' action='modify' lat='46.419477' lon='12.242826'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43296' lat='46.417221' lon='12.26775'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43297' lat='46.419776' lon='12.242859'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43298' action='modify' lat='46.419508' lon='12.242836'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43299' lat='46.416776' lon='12.268008'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43300' action='modify' lat='46.41688094638' lon='12.26802061018'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43301' lat='46.416626' lon='12.267994'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43302' action='modify' lat='46.41682352366' lon='12.2681073581'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43303' lat='46.417029' lon='12.267727'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43304' action='modify' lat='46.419252' lon='12.242852'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43305' action='modify' lat='46.416486' lon='12.268508'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43306' action='modify' lat='46.416449' lon='12.268235'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43307' action='modify' lat='46.416561' lon='12.268976'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43308' lat='46.417157' lon='12.246474'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43309' lat='46.418192' lon='12.241321'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43310' action='modify' lat='46.418435' lon='12.245839'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43311' lat='46.41847' lon='12.242802'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43312' lat='46.419207' lon='12.242919'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43313' action='modify' lat='46.418781' lon='12.245819'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43314' lat='46.419282' lon='12.243371'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43315' lat='46.41714' lon='12.246856'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43316' lat='46.418041' lon='12.247748'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43317' action='modify' lat='46.417338' lon='12.268931'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43318' action='modify' lat='46.4166874721' lon='12.26831671619'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43319' lat='46.421643' lon='12.241138'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43320' action='modify' lat='46.418393' lon='12.245925'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43321' lat='46.416202' lon='12.268353'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43322' lat='46.417839' lon='12.246137'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43323' lat='46.416874' lon='12.267907'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43324' action='modify' lat='46.41709758547' lon='12.26743959015'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43325' lat='46.417649' lon='12.250851'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43326' action='modify' lat='46.421621' lon='12.241731'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='105/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43327' lat='46.419767' lon='12.242933'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43328' lat='46.41312' lon='12.259661'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43329' action='modify' lat='46.420285' lon='12.242534'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43330' action='modify' lat='46.42016401863' lon='12.24227710797'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='58/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43331' action='modify' lat='46.413782' lon='12.258711'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43332' action='modify' lat='46.420448' lon='12.241516'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43333' action='modify' lat='46.419948' lon='12.242427'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='64/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43334' lat='46.413865' lon='12.259151'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strada Vecchia' />
+  </node>
+  <node id='-43335' lat='46.416551' lon='12.271944'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43336' action='modify' lat='46.42124396128' lon='12.24158168221'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43337' action='modify' lat='46.415735' lon='12.24863'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='32/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43338' lat='46.421833' lon='12.24226'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43339' action='modify' lat='46.417578' lon='12.246429'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43340' action='modify' lat='46.417578' lon='12.246376'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43341' action='modify' lat='46.41730352971' lon='12.2504869828'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43342' action='modify' lat='46.419032' lon='12.245143'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43343' lat='46.419876' lon='12.245399'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43344' action='modify' lat='46.415288' lon='12.259659'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43345' action='modify' lat='46.418473' lon='12.246314'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43346' action='modify' lat='46.420812' lon='12.241303'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43347' lat='46.414183' lon='12.259374'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43348' action='modify' lat='46.420765' lon='12.241737'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43349' lat='46.414064' lon='12.259659'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43350' action='modify' lat='46.419045' lon='12.245194'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43351' action='modify' lat='46.417479' lon='12.266106'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43352' action='modify' lat='46.418907' lon='12.245215'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43353' action='modify' lat='46.416125' lon='12.272388'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43354' action='modify' lat='46.41615' lon='12.272384'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43355' lat='46.414962' lon='12.262696'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43356' action='modify' lat='46.41502661059' lon='12.25975446379'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43357' lat='46.420794' lon='12.245036'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43358' action='modify' lat='46.418748' lon='12.245282'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43359' action='modify' lat='46.417098' lon='12.247109'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43360' action='modify' lat='46.41494289253' lon='12.26025992146'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43361' lat='46.419428' lon='12.243456'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43362' lat='46.419295' lon='12.243534'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43363' action='modify' lat='46.416571' lon='12.270688'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43364' action='modify' lat='46.420917' lon='12.244629'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='73/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43365' lat='46.42176' lon='12.242425'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43367' action='modify' lat='46.420972' lon='12.241306'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43368' action='modify' lat='46.420449' lon='12.241722'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43369' action='modify' lat='46.42015701863' lon='12.24224610797'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='58/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43370' action='modify' lat='46.420387' lon='12.242031'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43371' action='modify' lat='46.420648' lon='12.241853'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43372' action='modify' lat='46.41998633929' lon='12.24256195337'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43373' action='modify' lat='46.418671' lon='12.246206'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43374' action='modify' lat='46.419918' lon='12.24224'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43375' action='modify' lat='46.420621' lon='12.241596'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='32/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43376' action='modify' lat='46.420908' lon='12.241304'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43377' action='modify' lat='46.420876' lon='12.241629'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='25/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43379' action='modify' lat='46.420541' lon='12.242099'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='51/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43380' action='modify' lat='46.418924' lon='12.245412'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43381' action='modify' lat='46.421165' lon='12.241877'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43382' action='modify' lat='46.420395' lon='12.241558'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43383' action='modify' lat='46.419298' lon='12.244374'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43385' action='modify' lat='46.418841' lon='12.244943'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43386' action='modify' lat='46.416558' lon='12.270711'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43387' action='modify' lat='46.419798' lon='12.243532'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43388' action='modify' lat='46.420847' lon='12.241386'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43389' action='modify' lat='46.41639284565' lon='12.26910855008'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43390' action='modify' lat='46.420606' lon='12.241746'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43391' action='modify' lat='46.419989' lon='12.24241'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='64/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43392' action='modify' lat='46.420236' lon='12.242792'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43393' action='modify' lat='46.418925' lon='12.244546'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='38/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43394' action='modify' lat='46.420069' lon='12.24252'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43395' action='modify' lat='46.419335' lon='12.244935'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='36/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43396' action='modify' lat='46.420364' lon='12.241948'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43397' action='modify' lat='46.420877' lon='12.2416'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43398' action='modify' lat='46.42014201864' lon='12.24228010797'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='58/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43399' action='modify' lat='46.420214' lon='12.24179'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43400' action='modify' lat='46.420765' lon='12.240898'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rezzuò' />
+  </node>
+  <node id='-43401' lat='46.416621' lon='12.271326'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43402' lat='46.416475' lon='12.271601'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43403' action='modify' lat='46.419339' lon='12.244898'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='36/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43404' action='modify' lat='46.418485' lon='12.24535'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43405' action='modify' lat='46.419435' lon='12.244325'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43406' action='modify' lat='46.418896' lon='12.244531'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='38/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43407' lat='46.414243' lon='12.257984'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43408' action='modify' lat='46.419315' lon='12.244426'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='40/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43409' action='modify' lat='46.41924' lon='12.245405'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43410' lat='46.414243' lon='12.258032'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43411' action='modify' lat='46.419077' lon='12.244885'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43412' action='modify' lat='46.419186' lon='12.244589'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43413' action='modify' lat='46.419426' lon='12.244356'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43414' lat='46.415678' lon='12.258834'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43415' action='modify' lat='46.418612' lon='12.24625'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43416' action='modify' lat='46.418745' lon='12.245316'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43417' action='modify' lat='46.418497' lon='12.246078'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43418' action='modify' lat='46.418437' lon='12.246703'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43419' lat='46.419791' lon='12.242675'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43420' lat='46.417888' lon='12.250688'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43421' action='modify' lat='46.418741' lon='12.245351'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43422' lat='46.419829' lon='12.243758'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43423' action='modify' lat='46.420138' lon='12.245564'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='63/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43424' lat='46.416028' lon='12.258447'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43425' action='modify' lat='46.417229' lon='12.24657'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43426' action='modify' lat='46.417959' lon='12.246388'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43427' lat='46.415655' lon='12.2579'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43428' lat='46.419651' lon='12.247219'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43429' lat='46.41742' lon='12.251431'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43430' action='modify' lat='46.416948' lon='12.270343'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43431' action='modify' lat='46.41592826643' lon='12.26985022621'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43432' action='modify' lat='46.4170588381' lon='12.26913233109'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43433' action='modify' lat='46.419328' lon='12.244286'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='41/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43434' lat='46.416214' lon='12.27206'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43435' lat='46.415477' lon='12.247962'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43436' action='modify' lat='46.418879' lon='12.244816'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43437' lat='46.416574' lon='12.269586'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43438' lat='46.416428' lon='12.269885'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43439' action='modify' lat='46.41681562505' lon='12.27087629017'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43440' action='modify' lat='46.416924' lon='12.270745'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43441' action='modify' lat='46.41676105151' lon='12.2710001803'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43442' lat='46.414695' lon='12.258693'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43443' action='modify' lat='46.41654116102' lon='12.26926667028'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43444' lat='46.41465' lon='12.258347'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43445' lat='46.415366' lon='12.258958'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43446' lat='46.414658' lon='12.258778'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43447' lat='46.414559' lon='12.258295'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43448' lat='46.41471' lon='12.258656'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43449' lat='46.416771' lon='12.269486'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43450' action='modify' lat='46.416907' lon='12.270719'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43451' action='modify' lat='46.41680234063' lon='12.27085435151'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43452' lat='46.415098' lon='12.258886'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monte Rite' />
+  </node>
+  <node id='-43453' lat='46.416327' lon='12.269658'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43454' action='modify' lat='46.41675405151' lon='12.2710201803'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pias' />
+  </node>
+  <node id='-43455' action='modify' lat='46.418681' lon='12.245779'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43456' lat='46.416617' lon='12.25203'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43457' action='modify' lat='46.417152' lon='12.247149'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43458' lat='46.416893' lon='12.24724'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43459' lat='46.416325' lon='12.272018'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43460' action='modify' lat='46.41607336794' lon='12.27093029115'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43461' action='modify' lat='46.421456' lon='12.244164'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='83/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43462' action='modify' lat='46.421342' lon='12.243093'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43463' lat='46.417798' lon='12.249247'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43464' lat='46.418493' lon='12.24281'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Fornas' />
+  </node>
+  <node id='-43465' lat='46.420935' lon='12.244604'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43466' lat='46.416307' lon='12.248297'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43467' action='modify' lat='46.416437' lon='12.271867'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='33/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43468' lat='46.41705' lon='12.250182'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43469' action='modify' lat='46.418584' lon='12.246766'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43470' action='modify' lat='46.417541' lon='12.249368'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43471' action='modify' lat='46.418578' lon='12.245739'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. P. Talamini' />
+  </node>
+  <node id='-43472' action='modify' lat='46.41622139662' lon='12.26912854844'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43473' lat='46.418086' lon='12.246933'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Santa Lucia' />
+  </node>
+  <node id='-43474' action='modify' lat='46.417279' lon='12.270434'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43475' action='modify' lat='46.418637' lon='12.246956'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Santa Lucia' />
+  </node>
+  <node id='-43476' action='modify' lat='46.41864885855' lon='12.24711964724'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Maria Antonia Talamini' />
+  </node>
+  <node id='-43477' action='modify' lat='46.417505' lon='12.267828'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43478' lat='46.421414' lon='12.242314'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43479' lat='46.41618' lon='12.271054'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43480' lat='46.418375' lon='12.247763'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43481' lat='46.420932' lon='12.242085'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43482' lat='46.414033' lon='12.261875'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43483' lat='46.417298' lon='12.248779'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43484' lat='46.41423' lon='12.261982'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43485' lat='46.422009' lon='12.241937'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43486' lat='46.418138' lon='12.247176'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Santa Lucia' />
+  </node>
+  <node id='-43487' action='modify' lat='46.4170781619' lon='12.26913166891'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43488' action='modify' lat='46.41600905375' lon='12.2713148222'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43489' lat='46.421212' lon='12.242576'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43490' action='modify' lat='46.416941' lon='12.269604'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43491' lat='46.418234' lon='12.247637'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43492' lat='46.415884' lon='12.271711'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43493' lat='46.419606' lon='12.245186'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43494' lat='46.421016' lon='12.2445'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43495' lat='46.420599' lon='12.242799'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43496' lat='46.421122' lon='12.244664'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43497' action='modify' lat='46.419905' lon='12.246034'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='56/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43498' lat='46.4159' lon='12.259047'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43499' action='modify' lat='46.421424' lon='12.244196'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='83/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43500' action='modify' lat='46.417011' lon='12.269625'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43501' lat='46.421053' lon='12.244443'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43502' lat='46.420853' lon='12.242389'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43503' lat='46.421692' lon='12.242163'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43504' lat='46.416765' lon='12.272038'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43505' action='modify' lat='46.417617' lon='12.249595'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43506' lat='46.416381' lon='12.271832'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43507' lat='46.416551' lon='12.252217'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43508' action='modify' lat='46.420905' lon='12.244618'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='73/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43509' lat='46.417974' lon='12.248469'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43510' lat='46.414364' lon='12.262909'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43511' lat='46.418153' lon='12.24668'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Santa Lucia' />
+  </node>
+  <node id='-43512' lat='46.420811' lon='12.242019'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43513' action='modify' lat='46.417242' lon='12.269719'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43514' action='modify' lat='46.420126' lon='12.245591'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='63/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43515' lat='46.416843' lon='12.251408'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43516' action='modify' lat='46.418599' lon='12.246941'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Santa Lucia' />
+  </node>
+  <node id='-43517' action='modify' lat='46.417284' lon='12.26941'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43518' lat='46.419714' lon='12.244067'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43519' lat='46.415688' lon='12.260409'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43520' action='modify' lat='46.416162' lon='12.272382'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43521' action='modify' lat='46.417284' lon='12.268511'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43522' lat='46.416216' lon='12.271429'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43523' lat='46.421167' lon='12.244612'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43524' action='modify' lat='46.417264' lon='12.271115'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43525' lat='46.421679' lon='12.242267'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43526' action='modify' lat='46.417153' lon='12.271377'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43527' lat='46.415437' lon='12.25911'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43528' action='modify' lat='46.41603605375' lon='12.2713198222'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43529' action='modify' lat='46.41495089252' lon='12.26018192146'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13/4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43530' lat='46.417535' lon='12.250916'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43531' lat='46.415066' lon='12.262378'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43532' action='modify' lat='46.417742' lon='12.248751'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43533' action='modify' lat='46.41618549155' lon='12.26914337053'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43534' lat='46.419366' lon='12.244034'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43535' lat='46.416986' lon='12.250642'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43536' lat='46.41852' lon='12.249031'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43537' lat='46.41766' lon='12.25021'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43538' lat='46.420296' lon='12.244599'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43539' lat='46.417441' lon='12.250968'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43540' action='modify' lat='46.416158' lon='12.272404'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43541' lat='46.419774' lon='12.246197'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43542' lat='46.416164' lon='12.271825'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43543' action='modify' lat='46.416133' lon='12.272409'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43544' lat='46.414274' lon='12.26165'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43545' lat='46.421709' lon='12.24235'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43546' lat='46.419895' lon='12.246082'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43547' lat='46.419482' lon='12.24787'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43548' lat='46.420415' lon='12.242946'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43549' action='modify' lat='46.418181' lon='12.24841'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43550' lat='46.417935' lon='12.248185'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43551' lat='46.419145' lon='12.248481'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43552' lat='46.418237' lon='12.24935'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43553' lat='46.421778' lon='12.242413'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43554' action='modify' lat='46.418302' lon='12.24795'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43555' action='modify' lat='46.419934' lon='12.245995'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='57/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43556' lat='46.419967' lon='12.244118'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43557' lat='46.415936' lon='12.27172'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43558' action='modify' lat='46.417753' lon='12.248734'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43559' lat='46.421232' lon='12.242682'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43560' lat='46.420674' lon='12.242963'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43561' action='modify' lat='46.41988289577' lon='12.24615454233'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43562' action='modify' lat='46.418327' lon='12.247958'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43563' action='modify' lat='46.41495872192' lon='12.25982151042'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43564' lat='46.421566' lon='12.244036'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43565' lat='46.42164' lon='12.24139'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43566' lat='46.420894' lon='12.242854'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43567' lat='46.420447' lon='12.245468'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43568' lat='46.41887' lon='12.248796'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43569' lat='46.416553' lon='12.252077'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43570' action='modify' lat='46.41613707542' lon='12.26932204415'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43571' lat='46.417399' lon='12.250227'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43572' lat='46.421875' lon='12.242609'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43573' action='modify' lat='46.41969715044' lon='12.24646723619'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43574' lat='46.415505' lon='12.25906'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43575' lat='46.419962' lon='12.246896'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43576' lat='46.414539' lon='12.261712'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43577' lat='46.420741' lon='12.245101'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43578' lat='46.419884' lon='12.246507'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43579' action='modify' lat='46.417077' lon='12.270867'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43580' lat='46.415011' lon='12.262038'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43581' lat='46.415441' lon='12.261963'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43582' lat='46.414823' lon='12.261311'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43583' action='modify' lat='46.417074' lon='12.270701'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43584' lat='46.415722' lon='12.262656'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43585' action='modify' lat='46.417278' lon='12.270618'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43586' lat='46.414782' lon='12.261311'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43587' action='modify' lat='46.41682529913' lon='12.27173593969'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='46/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43588' lat='46.420797' lon='12.242223'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43589' action='modify' lat='46.421346' lon='12.243121'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43590' lat='46.420628' lon='12.243423'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43591' lat='46.415048' lon='12.260167'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43592' lat='46.421598' lon='12.242586'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43593' lat='46.420678' lon='12.245233'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43594' lat='46.417768' lon='12.25078'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43595' action='modify' lat='46.420078' lon='12.24615'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='59/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43596' action='modify' lat='46.41594326642' lon='12.26994022621'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43597' action='modify' lat='46.421252' lon='12.24465'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='77/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43598' lat='46.414982' lon='12.261087'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43599' lat='46.415386' lon='12.2601'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43600' lat='46.417264' lon='12.249903'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43601' action='modify' lat='46.417063' lon='12.269663'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43602' action='modify' lat='46.417579' lon='12.268214'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43603' lat='46.416451' lon='12.272499'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43604' action='modify' lat='46.417405' lon='12.267324'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='10/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43605' action='modify' lat='46.416138' lon='12.272385'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43606' action='modify' lat='46.421236' lon='12.244623'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='77/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43607' lat='46.417147' lon='12.249207'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43608' action='modify' lat='46.415031' lon='12.259336'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43609' lat='46.418164' lon='12.246996'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Santa Lucia' />
+  </node>
+  <node id='-43610' lat='46.414316' lon='12.263257'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43611' lat='46.418664' lon='12.249111'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43612' lat='46.415427' lon='12.261955'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43613' lat='46.418172' lon='12.2504'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43614' lat='46.421359' lon='12.242162'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43615' lat='46.417537' lon='12.24881'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43616' lat='46.417674' lon='12.247041'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43617' action='modify' lat='46.417555' lon='12.246421'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43618' action='modify' lat='46.417343' lon='12.246863'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43619' action='modify' lat='46.417508' lon='12.24673'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43620' lat='46.417098' lon='12.247366'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43621' action='modify' lat='46.417205' lon='12.246558'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43622' lat='46.417805' lon='12.247977'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43623' lat='46.417592' lon='12.247712'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43624' lat='46.417504' lon='12.247221'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43625' lat='46.420634' lon='12.244337'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43626' lat='46.419527' lon='12.247518'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43627' lat='46.42117' lon='12.243035'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43628' lat='46.417085' lon='12.250104'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43629' action='modify' lat='46.42015' lon='12.245531'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='63/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43630' action='modify' lat='46.41591526644' lon='12.26976922621'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43631' action='modify' lat='46.417536' lon='12.249385'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43632' lat='46.422077' lon='12.242206'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43633' action='modify' lat='46.416969' lon='12.269714'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43634' lat='46.415909' lon='12.270333'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43635' lat='46.421271' lon='12.24306'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43636' action='modify' lat='46.418351' lon='12.247967'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43637' lat='46.418105' lon='12.250504'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43638' lat='46.420743' lon='12.242076'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43639' lat='46.418976' lon='12.248796'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43640' action='modify' lat='46.41611525987' lon='12.27077253659'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43641' action='modify' lat='46.417496' lon='12.246757'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='22/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43642' lat='46.417771' lon='12.246799'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43643' action='modify' lat='46.417364' lon='12.246893'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43644' lat='46.416291' lon='12.268294'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43645' action='modify' lat='46.41700463298' lon='12.26774398831'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43646' action='modify' lat='46.41685894638' lon='12.26804461018'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43647' action='modify' lat='46.41671147211' lon='12.26826071619'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='21/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43648' action='modify' lat='46.415676' lon='12.248631'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='32/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43649' lat='46.417229' lon='12.267324'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43650' action='modify' lat='46.41710094641' lon='12.26685099415'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43651' action='modify' lat='46.416499' lon='12.268483'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='26/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43652' lat='46.416709' lon='12.247593'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43653' action='modify' lat='46.416439' lon='12.268261'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43654' lat='46.416671' lon='12.267719'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43655' action='modify' lat='46.416459' lon='12.26821'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43656' lat='46.416903' lon='12.267754'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43657' action='modify' lat='46.417469' lon='12.246115'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43658' action='modify' lat='46.41693768662' lon='12.26803284223'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43659' action='modify' lat='46.417496' lon='12.246094'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43660' lat='46.417322' lon='12.248714'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43661' lat='46.421446' lon='12.243923'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43662' lat='46.41803' lon='12.251'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43663' lat='46.415413' lon='12.261947'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43664' lat='46.419131' lon='12.248151'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43665' lat='46.416455' lon='12.267903'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43666' action='modify' lat='46.41696' lon='12.270414'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43667' action='modify' lat='46.42161' lon='12.24405'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='85/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43668' lat='46.41654' lon='12.268964'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Festin' />
+  </node>
+  <node id='-43669' action='modify' lat='46.417425' lon='12.2668'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43670' lat='46.41623' lon='12.27216'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43671' lat='46.418112' lon='12.25042'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43672' action='modify' lat='46.417602' lon='12.246385'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43673' action='modify' lat='46.41590231781' lon='12.26942423205'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43674' lat='46.419303' lon='12.248312'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43675' action='modify' lat='46.417439' lon='12.266983'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43676' lat='46.421735' lon='12.242403'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43677' action='modify' lat='46.417278' lon='12.2701'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43678' lat='46.419118' lon='12.248537'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43679' action='modify' lat='46.42161' lon='12.24169'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='105/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43680' lat='46.419731' lon='12.246203'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43681' lat='46.421034' lon='12.244472'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43682' lat='46.415737' lon='12.258242'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43683' lat='46.418288' lon='12.249382'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43684' lat='46.414201' lon='12.261366'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43685' action='modify' lat='46.417032' lon='12.270342'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via alla Grotta' />
+  </node>
+  <node id='-43686' action='modify' lat='46.419916' lon='12.246042'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='56/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43687' lat='46.41833' lon='12.249094'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43688' lat='46.420092' lon='12.246116'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43689' lat='46.420634' lon='12.244426'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Chianesia' />
+  </node>
+  <node id='-43690' lat='46.416959' lon='12.246804'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43691' action='modify' lat='46.417988' lon='12.246405'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43692' lat='46.417013' lon='12.246844'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43693' lat='46.417017' lon='12.246654'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43694' lat='46.41716' lon='12.246878'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43695' lat='46.419083' lon='12.248584'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43696' lat='46.417094' lon='12.246698'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Chiarediego' />
+  </node>
+  <node id='-43697' lat='46.421847' lon='12.242714'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43698' lat='46.420647' lon='12.243062'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43699' lat='46.416495' lon='12.272163'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43700' action='modify' lat='46.417548' lon='12.249353'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='6/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43701' action='modify' lat='46.41611125988' lon='12.27081753659'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='11/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43702' action='modify' lat='46.41494889253' lon='12.26020992146'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43703' lat='46.418951' lon='12.248357'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43704' action='modify' lat='46.41750465979' lon='12.24981820734'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43705' lat='46.416143' lon='12.271234'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43706' lat='46.4145' lon='12.262109'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43707' lat='46.420929' lon='12.242442'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43708' action='modify' lat='46.418783' lon='12.247638'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='12/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramo' />
+  </node>
+  <node id='-43709' lat='46.41539' lon='12.261529'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Antelao' />
+  </node>
+  <node id='-43710' lat='46.415857' lon='12.271432'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Savilla' />
+  </node>
+  <node id='-43711' lat='46.414705' lon='12.262319'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='8bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43712' action='modify' lat='46.414673' lon='12.260124'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='14/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43713' lat='46.418652' lon='12.249019'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43714' action='modify' lat='46.41494489253' lon='12.26023592146'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='13/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-43715' lat='46.420477' lon='12.245422'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43716' lat='46.42036' lon='12.24335'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43717' action='modify' lat='46.42016336281' lon='12.24595670185'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Nazionale' />
+  </node>
+  <node id='-43718' action='modify' lat='46.41922477554' lon='12.2472020454'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Maria Antonia Talamini' />
+  </node>
+  <node id='-43719' action='modify' lat='46.41922487228' lon='12.2472158071'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='3/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Maria Antonia Talamini' />
+  </node>
+  <node id='-43720' action='modify' lat='46.41875013044' lon='12.24701462821'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Maria Antonia Talamini' />
+  </node>
+  <node id='-43721' action='modify' lat='46.42045934703' lon='12.24312549081'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pardel' />
+  </node>
+  <node id='-43722' action='modify' lat='46.41644324473' lon='12.26869156564'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='1/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza San Giovanni Battista' />
+  </node>
+  <node id='-43725' action='modify' lat='46.4174802488' lon='12.24984775215'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='15/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+  <node id='-43726' action='modify' lat='46.41774607458' lon='12.24850058287'>
+    <tag k='addr:city' v='Vodo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Strabain' />
+  </node>
+</osm>
