@@ -2478,119 +2478,71 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Vissà' />
   </node>
-  <node id='-31835' lat='46.422905' lon='12.356889'>
+  <node id='-31835' action='modify' lat='46.422905' lon='12.356889'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='14b' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31836' lat='46.42288' lon='12.357173'>
+  <node id='-31836' action='modify' lat='46.42288' lon='12.357173'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='16' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31837' lat='46.422702' lon='12.357083'>
+  <node id='-31837' action='modify' lat='46.422702' lon='12.357083'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='18' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31838' lat='46.423101' lon='12.357775'>
+  <node id='-31838' action='modify' lat='46.42313612948' lon='12.3577454957'>
     <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:housenumber' v='15' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31839' lat='46.422931' lon='12.357389'>
+  <node id='-31839' action='modify' lat='46.422931' lon='12.357389'>
     <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:housenumber' v='19' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31840' lat='46.422953' lon='12.356865'>
+  <node id='-31840' action='modify' lat='46.422953' lon='12.356865'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='14a' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31841' lat='46.423324' lon='12.35822'>
+  <node id='-31841' action='modify' lat='46.423324' lon='12.35822'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='1a' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31842' lat='46.422945' lon='12.357441'>
+  <node id='-31842' action='modify' lat='46.42272312846' lon='12.35749196197'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='9' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31843' lat='46.423485' lon='12.37789'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='1' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Deslona' />
-  </node>
-  <node id='-31844' lat='46.422559' lon='12.357233'>
+  <node id='-31844' action='modify' lat='46.422559' lon='12.357233'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='20' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31845' lat='46.423061' lon='12.357799'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='3' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
-  </node>
-  <node id='-31846' lat='46.423031' lon='12.357613'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='5' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
-  </node>
-  <node id='-31847' lat='46.42337' lon='12.358035'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='6' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
-  </node>
-  <node id='-31848' lat='46.422978' lon='12.357394'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='7' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
-  </node>
-  <node id='-31849' lat='46.423349' lon='12.357834'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='8' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Moneghi' />
-  </node>
-  <node id='-31850' lat='46.423288' lon='12.377886'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='2' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Deslona' />
-  </node>
-  <node id='-31851' lat='46.423453' lon='12.377991'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='3' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Deslona' />
-  </node>
-  <node id='-31852' lat='46.423309' lon='12.377996'>
+  <node id='-31847' action='modify' lat='46.42337' lon='12.358035'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='4' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Deslona' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
-  <node id='-31853' lat='46.423313' lon='12.378098'>
+  <node id='-31849' action='modify' lat='46.423349' lon='12.357834'>
     <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:housenumber' v='8' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Deslona' />
+    <tag k='addr:street' v='Vicolo dei Moneghi' />
   </node>
   <node id='-31854' action='modify' lat='46.433499' lon='12.369112'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -8310,11 +8262,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Regia' />
   </node>
-  <node id='-32807' lat='46.423911' lon='12.378719'>
+  <node id='-32807' action='modify' lat='46.423911' lon='12.378719'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='2' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Tamari&apos;' />
+    <tag k='addr:street' v='Vicolo Tamarì' />
   </node>
   <node id='-32808' lat='46.425676' lon='12.360256'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -8400,11 +8352,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Regia' />
   </node>
-  <node id='-32822' lat='46.425429' lon='12.374478'>
+  <node id='-32822' action='modify' lat='46.425429' lon='12.374478'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='8' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Via Vittime Del Vajont' />
+    <tag k='addr:street' v='Via Vittime del Vajont' />
   </node>
   <node id='-32823' lat='46.424968' lon='12.357324'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -8532,11 +8484,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Regia' />
   </node>
-  <node id='-32844' lat='46.425483' lon='12.374385'>
+  <node id='-32844' action='modify' lat='46.425483' lon='12.374385'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='4' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Via Vittime Del Vajont' />
+    <tag k='addr:street' v='Via Vittime del Vajont' />
   </node>
   <node id='-32845' lat='46.426039' lon='12.360732'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -8574,11 +8526,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Regia' />
   </node>
-  <node id='-32851' lat='46.425734' lon='12.374158'>
+  <node id='-32851' action='modify' lat='46.425734' lon='12.374158'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='2' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Via Vittime Del Vajont' />
+    <tag k='addr:street' v='Via Vittime del Vajont' />
   </node>
   <node id='-32852' lat='46.426333' lon='12.362846'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -8622,11 +8574,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Regia' />
   </node>
-  <node id='-32859' lat='46.425449' lon='12.374427'>
+  <node id='-32859' action='modify' lat='46.425449' lon='12.374427'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='6' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Via Vittime Del Vajont' />
+    <tag k='addr:street' v='Via Vittime del Vajont' />
   </node>
   <node id='-32860' lat='46.427731' lon='12.374308'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -10410,17 +10362,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Giovanni Palatucci' />
   </node>
-  <node id='-33157' lat='46.432508' lon='12.374557'>
-    <tag k='addr:city' v='Pieve di Cadore' />
-    <tag k='addr:housenumber' v='13' />
-    <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Privata Bersaglio' />
-  </node>
-  <node id='-33158' lat='46.424306' lon='12.379207'>
+  <node id='-33158' action='modify' lat='46.424306' lon='12.379207'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='1' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Chei' />
+    <tag k='addr:street' v='Vicolo dei Chei' />
   </node>
   <node id='-33159' lat='46.43118' lon='12.374785'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -10458,23 +10404,23 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Vicolo dei Galli' />
   </node>
-  <node id='-33165' lat='46.423916' lon='12.379461'>
+  <node id='-33165' action='modify' lat='46.423916' lon='12.379461'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='8' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Chei' />
+    <tag k='addr:street' v='Vicolo dei Chei' />
   </node>
-  <node id='-33166' lat='46.424133' lon='12.379138'>
+  <node id='-33166' action='modify' lat='46.424133' lon='12.379138'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='4' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Chei' />
+    <tag k='addr:street' v='Vicolo dei Chei' />
   </node>
-  <node id='-33167' lat='46.423967' lon='12.37916'>
+  <node id='-33167' action='modify' lat='46.423967' lon='12.37916'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='6' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Chei' />
+    <tag k='addr:street' v='Vicolo dei Chei' />
   </node>
   <node id='-33168' action='modify' lat='46.428626' lon='12.376031'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -10488,17 +10434,17 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Vicolo dei Galli' />
   </node>
-  <node id='-33170' lat='46.424149' lon='12.379111'>
+  <node id='-33170' action='modify' lat='46.424149' lon='12.379111'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='2' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Chei' />
+    <tag k='addr:street' v='Vicolo dei Chei' />
   </node>
-  <node id='-33171' lat='46.424077' lon='12.379463'>
+  <node id='-33171' action='modify' lat='46.424077' lon='12.379463'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='3' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vicolo Dei Chei' />
+    <tag k='addr:street' v='Vicolo dei Chei' />
   </node>
   <node id='-33172' lat='46.425868' lon='12.363545'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -11076,11 +11022,11 @@
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Villanova' />
   </node>
-  <node id='-33268' lat='46.424159' lon='12.373204'>
+  <node id='-33268' action='modify' lat='46.424159' lon='12.373204'>
     <tag k='addr:city' v='Pieve di Cadore' />
     <tag k='addr:housenumber' v='71' />
     <tag k='addr:postcode' v='32044' />
-    <tag k='addr:street' v='Vis Villanova' />
+    <tag k='addr:street' v='Via Villanova' />
   </node>
   <node id='-33269' lat='46.424282' lon='12.373883'>
     <tag k='addr:city' v='Pieve di Cadore' />
@@ -13667,5 +13613,53 @@
     <tag k='addr:housenumber' v='36' />
     <tag k='addr:postcode' v='32044' />
     <tag k='addr:street' v='Via Vissà' />
+  </node>
+  <node id='-34599' action='modify' lat='46.422977394' lon='12.35955208506'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Piazzale Dolomiti' />
+  </node>
+  <node id='-34602' action='modify' lat='46.42293718057' lon='12.3593871282'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Piazzale Dolomiti' />
+  </node>
+  <node id='-34631' action='modify' lat='46.4239522315' lon='12.37866952881'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='18a' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Via Giovanni XXIII' />
+  </node>
+  <node id='-36919' action='modify' lat='46.423485' lon='12.37789'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Vicolo Deslona' />
+  </node>
+  <node id='-36920' action='modify' lat='46.423288' lon='12.377886'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Vicolo Deslona' />
+  </node>
+  <node id='-36921' action='modify' lat='46.423453' lon='12.377991'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Vicolo Deslona' />
+  </node>
+  <node id='-36922' action='modify' lat='46.423309' lon='12.377996'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Vicolo Deslona' />
+  </node>
+  <node id='-36923' action='modify' lat='46.423313' lon='12.378098'>
+    <tag k='addr:city' v='Pieve di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32044' />
+    <tag k='addr:street' v='Vicolo Deslona' />
   </node>
 </osm>
