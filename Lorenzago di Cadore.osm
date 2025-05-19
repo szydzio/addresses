@@ -1,0 +1,1929 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='false' generator='JOSM'>
+  <node id='-5374012' action='modify' lat='46.48001447533' lon='12.45939467361'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374013' action='modify' lat='46.47974554649' lon='12.45988879018'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374014' lat='46.479878' lon='12.459672'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374015' action='modify' lat='46.4797215465' lon='12.45993279018'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='119' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374016' lat='46.480112' lon='12.458889'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374017' lat='46.480055' lon='12.459256'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374018' lat='46.480246' lon='12.459535'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='115' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374019' lat='46.480033' lon='12.45929'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374020' lat='46.480012' lon='12.459057'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374021' lat='46.480032' lon='12.459029'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='126' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374022' lat='46.479988' lon='12.459093'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374023' lat='46.480161' lon='12.461077'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='253' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Cadorin' />
+  </node>
+  <node id='-5374024' lat='46.479508' lon='12.461114'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='267' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Cadorin' />
+  </node>
+  <node id='-5374025' lat='46.480057' lon='12.461074'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='254' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Cadorin' />
+  </node>
+  <node id='-5374026' lat='46.479812' lon='12.460914'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='257' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Cadorin' />
+  </node>
+  <node id='-5374027' action='modify' lat='46.475534' lon='12.462915'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='355a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374028' action='modify' lat='46.47558' lon='12.46275'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='355' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374029' action='modify' lat='46.475764' lon='12.462051'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='349' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374030' action='modify' lat='46.475745' lon='12.462116'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='350' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374031' action='modify' lat='46.475505' lon='12.463024'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='356' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374032' action='modify' lat='46.475477' lon='12.463107'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='357' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374033' action='modify' lat='46.475667' lon='12.462418'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='353' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374034' action='modify' lat='46.475604' lon='12.462652'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='354' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374035' action='modify' lat='46.475729' lon='12.462167'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='351' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374036' action='modify' lat='46.475782' lon='12.462'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='348' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374037' action='modify' lat='46.47566' lon='12.462325'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='352' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ramaiò' />
+  </node>
+  <node id='-5374038' action='modify' lat='46.479678' lon='12.460223'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374039' action='modify' lat='46.479383' lon='12.461052'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='269' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374040' action='modify' lat='46.479344' lon='12.461071'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='270' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374041' action='modify' lat='46.47949216964' lon='12.46003558895'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374042' action='modify' lat='46.47951416963' lon='12.46000558895'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374043' action='modify' lat='46.47954116961' lon='12.45997858895'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374044' action='modify' lat='46.479472' lon='12.461042'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='268' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374045' action='modify' lat='46.479301' lon='12.461097'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='271' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374046' action='modify' lat='46.478888' lon='12.460956'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='273' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374047' action='modify' lat='46.479606' lon='12.460852'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='266' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374048' lat='46.481021' lon='12.458723'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374049' lat='46.481072' lon='12.458487'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374050' lat='46.47949' lon='12.459116'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='166' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374051' lat='46.479307' lon='12.45824'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374052' lat='46.479583' lon='12.459237'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='167' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374053' lat='46.48065' lon='12.45864'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374054' lat='46.481163' lon='12.458825'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374055' lat='46.481325' lon='12.458925'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374056' lat='46.481473' lon='12.45905'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374057' lat='46.481202' lon='12.459088'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374058' lat='46.482027' lon='12.458934'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374059' lat='46.480981' lon='12.458973'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374060' lat='46.481438' lon='12.459243'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costola' />
+  </node>
+  <node id='-5374061' action='modify' lat='46.47999992621' lon='12.46053936748'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='200' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Mons. Giovanni De Donà' />
+  </node>
+  <node id='-5374062' action='modify' lat='46.48024901615' lon='12.4606134957'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='200a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Mons. Giovanni De Donà' />
+  </node>
+  <node id='-5374063' action='modify' lat='46.47994786607' lon='12.46061929754'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='199' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Mons. Giovanni De Donà' />
+  </node>
+  <node id='-5374064' action='modify' lat='46.47925608769' lon='12.45908355398'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374065' lat='46.479076' lon='12.458899'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374066' lat='46.479297' lon='12.459093'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='173' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374067' lat='46.478767' lon='12.458551'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='177' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374068' lat='46.478981' lon='12.458531'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374069' lat='46.478945' lon='12.458389'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='176' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374070' lat='46.478724' lon='12.458601'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374071' action='modify' lat='46.47937801115' lon='12.4592334957'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='171' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374072' lat='46.482565' lon='12.462131'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='40b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374073' lat='46.482346' lon='12.461132'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374074' lat='46.481885' lon='12.46086'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='41a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374075' lat='46.481729' lon='12.46036'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='38d' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374076' lat='46.482074' lon='12.460004'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374077' lat='46.481997' lon='12.460639'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374078' lat='46.481601' lon='12.461194'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374079' lat='46.481132' lon='12.460756'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='44a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374080' lat='46.481423' lon='12.461049'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374081' lat='46.482018' lon='12.460021'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374082' lat='46.481977' lon='12.45988'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374083' lat='46.481629' lon='12.46001'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='38a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374084' lat='46.481785' lon='12.46127'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374085' lat='46.481597' lon='12.460734'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374086' lat='46.481886' lon='12.463369'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='243a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374087' lat='46.481956' lon='12.462938'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='243' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374088' lat='46.481805' lon='12.462849'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='240b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374089' lat='46.481659' lon='12.462732'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='240c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374090' lat='46.480609' lon='12.462025'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='237a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374091' lat='46.480844' lon='12.461781'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='237' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374092' action='modify' lat='46.481787' lon='12.462178'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='241a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374093' lat='46.481616' lon='12.462266'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='241' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374094' lat='46.481152' lon='12.461905'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='238' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374095' lat='46.481204' lon='12.462463'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='239' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374096' lat='46.481529' lon='12.46265'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='240a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374097' action='modify' lat='46.47912662881' lon='12.45922751901'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='189' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374098' action='modify' lat='46.47916762879' lon='12.45927351901'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374099' action='modify' lat='46.47953701108' lon='12.45973344907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='196' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374100' lat='46.478629' lon='12.458816'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='185' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374101' action='modify' lat='46.47878411647' lon='12.45896279878'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='186' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374102' lat='46.478895' lon='12.458913'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='187' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374103' lat='46.479015' lon='12.459067'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374104' action='modify' lat='46.47938101115' lon='12.45954644907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='194' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374105' action='modify' lat='46.47941601113' lon='12.45959244907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='195' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374106' lat='46.479243' lon='12.459339'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='191' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374107' action='modify' lat='46.47927401119' lon='12.45941244907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374108' action='modify' lat='46.47863139963' lon='12.45867862698'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Riva' />
+  </node>
+  <node id='-5374109' action='modify' lat='46.47788362356' lon='12.46000956564'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='281' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374110' action='modify' lat='46.47784462357' lon='12.45998256564'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='282' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374111' action='modify' lat='46.47850190624' lon='12.45820746627'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='179' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale della Vittoria' />
+  </node>
+  <node id='-5374112' action='modify' lat='46.47847478789' lon='12.45854544907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='182' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale della Vittoria' />
+  </node>
+  <node id='-5374113' action='modify' lat='46.47850678787' lon='12.45857444907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale della Vittoria' />
+  </node>
+  <node id='-5374114' action='modify' lat='46.47791962355' lon='12.46003556564'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='280' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374115' action='modify' lat='46.478285' lon='12.460481'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='275' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374116' action='modify' lat='46.478375' lon='12.460541'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='274' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374117' action='modify' lat='46.47795862354' lon='12.46006156564'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='279' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale Città di Genova' />
+  </node>
+  <node id='-5374118' action='modify' lat='46.460295' lon='12.508402'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='368b' />
+    <tag k='addr:place' v='Località Passo Mauria' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374119' action='modify' lat='46.45415' lon='12.513562'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='369' />
+    <tag k='addr:place' v='Località Passo Mauria' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374120' action='modify' lat='46.454069' lon='12.514176'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='371' />
+    <tag k='addr:place' v='Località Passo Mauria' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374121' action='modify' lat='46.453993' lon='12.514362'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='372' />
+    <tag k='addr:place' v='Località Passo Mauria' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374122' action='modify' lat='46.454447' lon='12.513045'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='370' />
+    <tag k='addr:place' v='Località Passo Mauria' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374123' action='modify' lat='46.476634' lon='12.460032'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='329' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374124' action='modify' lat='46.476816' lon='12.459742'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='330' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374125' action='modify' lat='46.476535' lon='12.460698'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='319' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374126' action='modify' lat='46.47647' lon='12.460825'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='320' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374127' action='modify' lat='46.476902' lon='12.460034'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='316' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374128' action='modify' lat='46.476776' lon='12.460204'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='318' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374129' action='modify' lat='46.476323' lon='12.460965'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='323' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374130' action='modify' lat='46.476892' lon='12.45969'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='324' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374131' action='modify' lat='46.47633570047' lon='12.46057526257'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='326' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374132' action='modify' lat='46.47640070045' lon='12.46045526257'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='327' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374133' action='modify' lat='46.476316' lon='12.461304'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='321' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374134' action='modify' lat='46.476368' lon='12.46102'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='322' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374135' action='modify' lat='46.47668507645' lon='12.459939146'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='329a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374136' action='modify' lat='46.4765' lon='12.459922'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='331' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374137' action='modify' lat='46.476498' lon='12.460306'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='328' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374138' action='modify' lat='46.481541' lon='12.466294'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='231' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374139' action='modify' lat='46.48159' lon='12.466488'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='232' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374140' action='modify' lat='46.481689' lon='12.466763'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='233' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374141' action='modify' lat='46.481122' lon='12.465806'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='228' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374142' action='modify' lat='46.48161' lon='12.465392'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='229' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374143' action='modify' lat='46.481851' lon='12.466516'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='230' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374144' action='modify' lat='46.481552' lon='12.466721'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='234' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Parco dei Sogni' />
+  </node>
+  <node id='-5374145' lat='46.481833' lon='12.459291'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piate' />
+  </node>
+  <node id='-5374146' lat='46.481413' lon='12.463529'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='246' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374147' lat='46.481686' lon='12.46321'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='246b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374148' lat='46.481576' lon='12.463755'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='245' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Monteona' />
+  </node>
+  <node id='-5374149' lat='46.479113' lon='12.460605'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='260' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Val' />
+  </node>
+  <node id='-5374150' lat='46.479099' lon='12.460582'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='261' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Val' />
+  </node>
+  <node id='-5374151' lat='46.478883' lon='12.46038'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='262' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Val' />
+  </node>
+  <node id='-5374152' action='modify' lat='46.476942' lon='12.459901'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='315' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Villa Piccola' />
+  </node>
+  <node id='-5374153' lat='46.480981' lon='12.458005'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via V Novembre' />
+  </node>
+  <node id='-5374154' lat='46.481324' lon='12.457785'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via V Novembre' />
+  </node>
+  <node id='-5374155' lat='46.481207' lon='12.457795'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via V Novembre' />
+  </node>
+  <node id='-5374156' lat='46.477681' lon='12.459699'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='264a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Val' />
+  </node>
+  <node id='-5374157' lat='46.478153' lon='12.459537'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='264' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Val' />
+  </node>
+  <node id='-5374158' lat='46.477583' lon='12.470938'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='247' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Mirabello' />
+  </node>
+  <node id='-5374159' lat='46.48017' lon='12.46038'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374160' lat='46.480277' lon='12.461058'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='251' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374161' action='modify' lat='46.478707' lon='12.462089'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289l' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374162' action='modify' lat='46.48005193435' lon='12.45954342576'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='202' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374163' lat='46.479629' lon='12.45808'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='83a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374164' lat='46.48082' lon='12.464086'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='223c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374165' lat='46.47915' lon='12.456988'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374166' action='modify' lat='46.47963785252' lon='12.45772386012'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374167' action='modify' lat='46.48645654432' lon='12.46330569692'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:place' v='Località Noaia' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374168' action='modify' lat='46.476453' lon='12.46163'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='295' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374169' lat='46.479686' lon='12.457846'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374170' lat='46.479645' lon='12.457906'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374171' action='modify' lat='46.478146' lon='12.461667'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289h' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374172' lat='46.479123' lon='12.45664'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374173' lat='46.480897' lon='12.461445'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='217' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374174' action='modify' lat='46.478199' lon='12.462374'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289q' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374175' lat='46.480984' lon='12.461134'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='216' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374176' action='modify' lat='46.47838' lon='12.463175'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374177' action='modify' lat='46.478433' lon='12.462843'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374178' lat='46.480304' lon='12.461178'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='214' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374179' lat='46.480501' lon='12.461262'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='213' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374180' action='modify' lat='46.480236' lon='12.462704'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289n' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374181' action='modify' lat='46.478855' lon='12.462219'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289m' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374182' lat='46.480249' lon='12.462181'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='218a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374183' lat='46.480854' lon='12.46367'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='223' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374184' lat='46.480373' lon='12.460836'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='209' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374185' action='modify' lat='46.477948' lon='12.461231'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='287a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374186' lat='46.480252' lon='12.461382'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='214a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374187' lat='46.480838' lon='12.462927'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374188' lat='46.479919' lon='12.461983'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='218' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374189' lat='46.480631' lon='12.463767'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='224' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374190' action='modify' lat='46.478428' lon='12.461935'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289i' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374191' lat='46.480613' lon='12.464135'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='226' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374192' lat='46.480777' lon='12.461315'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='215' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374193' action='modify' lat='46.47942839917' lon='12.45735093006'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='87' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374194' action='modify' lat='46.478548' lon='12.462531'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289g' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374195' lat='46.480816' lon='12.464048'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='223b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374197' lat='46.479193' lon='12.457313'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374198' lat='46.480361' lon='12.460685'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='207' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374199' action='modify' lat='46.47829' lon='12.461273'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='288' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374200' lat='46.479221' lon='12.457005'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374201' lat='46.479036' lon='12.457162'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374202' action='modify' lat='46.47960878708' lon='12.45746296809'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Cesarol' />
+  </node>
+  <node id='-5374203' action='modify' lat='46.47799741176' lon='12.46161466501'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374204' action='modify' lat='46.47808' lon='12.462084'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289d' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Rivadò' />
+  </node>
+  <node id='-5374205' lat='46.480609' lon='12.463954'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374206' lat='46.480854' lon='12.462635'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374207' lat='46.480691' lon='12.462607'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='219' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374208' action='modify' lat='46.480099' lon='12.45878'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374209' action='modify' lat='46.480275' lon='12.458859'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374210' action='modify' lat='46.479931' lon='12.457473'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374211' action='modify' lat='46.480135' lon='12.458822'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374212' action='modify' lat='46.4804106624' lon='12.45789614634'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374213' action='modify' lat='46.472879' lon='12.461681'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='360' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pian de Sembole' />
+  </node>
+  <node id='-5374214' action='modify' lat='46.480482' lon='12.458929'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374215' action='modify' lat='46.472459' lon='12.460591'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='358' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pian de Sembole' />
+  </node>
+  <node id='-5374216' action='modify' lat='46.471445' lon='12.462024'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='362' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pian de Sembole' />
+  </node>
+  <node id='-5374217' action='modify' lat='46.480315' lon='12.458809'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374218' action='modify' lat='46.480479' lon='12.458627'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374219' action='modify' lat='46.480531' lon='12.458502'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374220' action='modify' lat='46.480438' lon='12.459026'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374221' action='modify' lat='46.480006' lon='12.458452'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374222' action='modify' lat='46.48015501081' lon='12.45752690675'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374223' action='modify' lat='46.48035859856' lon='12.4578163046'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374224' action='modify' lat='46.48057543885' lon='12.45814883743'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374225' action='modify' lat='46.48030848283' lon='12.45773945039'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374226' action='modify' lat='46.48022201078' lon='12.45761690675'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374227' action='modify' lat='46.47960279262' lon='12.45942061227'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='129' />
+    <tag k='addr:place' v='Piazza IV Novembre' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374228' action='modify' lat='46.47972010401' lon='12.45923456564'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:place' v='Piazza IV Novembre' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374229' action='modify' lat='46.480435' lon='12.458605'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374230' action='modify' lat='46.48047699319' lon='12.4579978671'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374231' action='modify' lat='46.479982' lon='12.458642'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374232' action='modify' lat='46.48051981309' lon='12.45806353308'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374233' action='modify' lat='46.48080529811' lon='12.46530464054'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='227' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Pecol' />
+  </node>
+  <node id='-5374234' action='modify' lat='46.479946' lon='12.458459'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:place' v='Piazza Pier Fortunato Calvi' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374235' action='modify' lat='46.47539809579' lon='12.45997539385'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='347' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374236' lat='46.475905' lon='12.460929'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='343' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374237' action='modify' lat='46.47983616395' lon='12.45918381349'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='132' />
+    <tag k='addr:place' v='Piazza IV Novembre' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374238' lat='46.475345' lon='12.459388'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='332a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374239' lat='46.475528' lon='12.459899'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='332c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374240' lat='46.476041' lon='12.460911'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='333' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374241' lat='46.475636' lon='12.461182'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='346' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374242' lat='46.475652' lon='12.460945'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='344' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374243' action='modify' lat='46.47989816392' lon='12.45925581349'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:place' v='Piazza IV Novembre' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374244' action='modify' lat='46.47986716394' lon='12.45921581349'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:place' v='Piazza IV Novembre' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374245' lat='46.475522' lon='12.46046'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='347a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374246' lat='46.476043' lon='12.460984'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='334' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374247' lat='46.475701' lon='12.460995'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='345' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374248' lat='46.474864' lon='12.459246'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='332' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374250' lat='46.475902' lon='12.461005'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='342' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374251' lat='46.475512' lon='12.459561'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='332b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via A. De Lorenzo' />
+  </node>
+  <node id='-5374252' lat='46.480539' lon='12.457357'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='48b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374253' lat='46.480703' lon='12.457931'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374254' lat='46.480551' lon='12.457717'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374255' lat='46.480061' lon='12.457308'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374256' lat='46.480591' lon='12.457768'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374257' lat='46.480942' lon='12.45744'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374258' lat='46.48067' lon='12.457295'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='48a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374259' lat='46.480738' lon='12.457601'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374260' lat='46.480213' lon='12.457187'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374261' lat='46.477393' lon='12.460424'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='285' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ciare' />
+  </node>
+  <node id='-5374262' lat='46.47726' lon='12.460281'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='283' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ciare' />
+  </node>
+  <node id='-5374263' lat='46.477263' lon='12.460565'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='289' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ciare' />
+  </node>
+  <node id='-5374264' lat='46.480899' lon='12.457483'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374265' lat='46.480456' lon='12.457308'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Centa' />
+  </node>
+  <node id='-5374266' lat='46.477667' lon='12.460709'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='286' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ciare' />
+  </node>
+  <node id='-5374267' lat='46.478072' lon='12.46098'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='287' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ciare' />
+  </node>
+  <node id='-5374268' lat='46.479558' lon='12.458473'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374269' lat='46.47974' lon='12.458972'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='149a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374270' lat='46.479574' lon='12.458564'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374271' lat='46.479683' lon='12.458339'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374272' lat='46.480055' lon='12.458787'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374273' lat='46.478936' lon='12.457926'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='145' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374274' lat='46.479838' lon='12.458522'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374275' lat='46.479674' lon='12.458705'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='147' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374276' lat='46.479809' lon='12.458884'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374277' lat='46.479932' lon='12.458618'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='138' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374278' lat='46.479712' lon='12.458739'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='148' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374279' lat='46.479941' lon='12.458962'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='135' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374280' lat='46.479787' lon='12.458856'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='149' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374281' action='modify' lat='46.479713164' lon='12.45902181349'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='156' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374282' lat='46.479401' lon='12.45852'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374283' lat='46.479448' lon='12.459061'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='165' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374284' lat='46.479483' lon='12.458636'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374285' lat='46.479522' lon='12.459012'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='159' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374286' lat='46.47985' lon='12.458922'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='151' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374287' lat='46.47952' lon='12.458686'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='152' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374288' action='modify' lat='46.47975516398' lon='12.45907481349'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='157' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374289' lat='46.479305' lon='12.45889'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374290' lat='46.479357' lon='12.458948'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='164' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374291' lat='46.479216' lon='12.458762'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='162' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374292' lat='46.479635' lon='12.459149'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='158' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Costa' />
+  </node>
+  <node id='-5374293' lat='46.478612' lon='12.456367'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374294' lat='46.478528' lon='12.455954'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374295' lat='46.478483' lon='12.456211'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374296' lat='46.478798' lon='12.455896'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='96a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374297' action='modify' lat='46.478889' lon='12.455249'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='147d' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374298' lat='46.478444' lon='12.455409'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374299' lat='46.478607' lon='12.455192'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374300' lat='46.476956' lon='12.454142'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Del Lago' />
+  </node>
+  <node id='-5374301' lat='46.476692' lon='12.453712'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='14a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Del Lago' />
+  </node>
+  <node id='-5374302' lat='46.476869' lon='12.453331'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='14b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Del Lago' />
+  </node>
+  <node id='-5374303' lat='46.480073' lon='12.459219'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374304' lat='46.480209' lon='12.459086'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Faureana' />
+  </node>
+  <node id='-5374305' lat='46.47804' lon='12.455334'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374306' lat='46.478244' lon='12.455751'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374307' lat='46.478504' lon='12.456168'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374308' lat='46.477308' lon='12.454124'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374309' lat='46.477224' lon='12.45417'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374310' lat='46.477704' lon='12.454204'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374312' lat='46.479884' lon='12.456517'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Del Lago' />
+  </node>
+  <node id='-5374313' lat='46.480572' lon='12.456935'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Del Lago' />
+  </node>
+  <node id='-5374314' lat='46.477951' lon='12.454873'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dera' />
+  </node>
+  <node id='-5374315' lat='46.47726' lon='12.460181'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='290' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374316' lat='46.477016' lon='12.460624'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='292' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374317' lat='46.476377' lon='12.461609'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='296' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374318' lat='46.475611' lon='12.461614'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='340' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374319' lat='46.47678' lon='12.460657'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='309' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374320' lat='46.476912' lon='12.460423'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='310' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374321' lat='46.477144' lon='12.459907'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='313' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374322' lat='46.477337' lon='12.459925'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='314' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374323' lat='46.476947' lon='12.460347'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='311' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374324' lat='46.477064' lon='12.460144'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='312' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374325' lat='46.476643' lon='12.460911'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='304' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374326' lat='46.476665' lon='12.460784'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='307' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374327' lat='46.476485' lon='12.461171'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='301' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374328' lat='46.476599' lon='12.460987'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='303' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374329' lat='46.47605' lon='12.461419'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='337' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374330' lat='46.476097' lon='12.461414'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='339' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374331' action='modify' lat='46.47627517166' lon='12.46166816625'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='297' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374332' lat='46.476345' lon='12.461361'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='299' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-5374333' action='modify' lat='46.463618' lon='12.48276'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='368' />
+    <tag k='addr:place' v='Località Ronco Gial' />
+    <tag k='addr:postcode' v='32040' />
+  </node>
+  <node id='-5374334' action='modify' lat='46.47941015649' lon='12.45927594535'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via G. Marconi' />
+  </node>
+  <node id='-5374335' action='modify' lat='46.47673885285' lon='12.47013017468'>
+    <tag k='addr:city' v='Lorenzago di Cadore' />
+    <tag k='addr:housenumber' v='249' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Mirabello' />
+  </node>
+</osm>
