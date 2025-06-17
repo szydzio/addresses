@@ -1,0 +1,3813 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-29888' action='modify' visible='true' lat='46.490054' lon='12.449738'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29889' action='modify' visible='true' lat='46.489089' lon='12.448058'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29890' action='modify' visible='true' lat='46.489996' lon='12.449723'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29891' action='modify' visible='true' lat='46.489344' lon='12.449369'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29892' action='modify' visible='true' lat='46.489467' lon='12.44802'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29893' action='modify' visible='true' lat='46.485366' lon='12.441794'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='373' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-29894' action='modify' visible='true' lat='46.485235' lon='12.441723'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='351' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-29895' action='modify' visible='true' lat='46.489228' lon='12.449131'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29896' action='modify' visible='true' lat='46.485269' lon='12.44159'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='370' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-29897' action='modify' visible='true' lat='46.483775' lon='12.440925'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ronzie' />
+  </node>
+  <node id='-29898' action='modify' visible='true' lat='46.489806' lon='12.449551'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29899' action='modify' visible='true' lat='46.48416' lon='12.442303'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='69' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Vittorio Veneto' />
+  </node>
+  <node id='-29900' action='modify' visible='true' lat='46.485503' lon='12.442422'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='379a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-29901' action='modify' visible='true' lat='46.490036' lon='12.449775'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29902' action='modify' visible='true' lat='46.4898' lon='12.449608'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29903' action='modify' visible='true' lat='46.483322' lon='12.441426'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ronzie' />
+  </node>
+  <node id='-29904' action='modify' visible='true' lat='46.474479' lon='12.437059'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Artigianato' />
+  </node>
+  <node id='-29905' action='modify' visible='true' lat='46.485643' lon='12.442287'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='377' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-29906' action='modify' visible='true' lat='46.489679' lon='12.447788'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29907' action='modify' visible='true' lat='46.489998' lon='12.449017'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29908' action='modify' visible='true' lat='46.489196' lon='12.449095'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29909' action='modify' visible='true' lat='46.484285' lon='12.441782'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Vittorio Veneto' />
+  </node>
+  <node id='-29910' action='modify' visible='true' lat='46.489814' lon='12.44949'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29911' action='modify' visible='true' lat='46.490013' lon='12.449762'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29912' action='modify' visible='true' lat='46.490373' lon='12.449345'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29913' action='modify' visible='true' lat='46.489949' lon='12.449022'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29914' action='modify' visible='true' lat='46.489432' lon='12.44939'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29915' action='modify' visible='true' lat='46.47375' lon='12.435858'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-29916' action='modify' visible='true' lat='46.484845' lon='12.444026'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='324' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-29917' action='modify' visible='true' lat='46.487023' lon='12.439982'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='517' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29918' action='modify' visible='true' lat='46.484479' lon='12.444932'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='129' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29919' action='modify' visible='true' lat='46.488325' lon='12.446506'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='283/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-29920' action='modify' visible='true' lat='46.485402' lon='12.445688'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='194' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-29921' action='modify' visible='true' lat='46.487304' lon='12.439202'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='560' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29922' action='modify' visible='true' lat='46.484334' lon='12.444562'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='127bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29923' action='modify' visible='true' lat='46.487051' lon='12.440032'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='518' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29924' action='modify' visible='true' lat='46.486326' lon='12.441225'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='423' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-29925' action='modify' visible='true' lat='46.490018' lon='12.449727'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-29926' action='modify' visible='true' lat='46.484309' lon='12.440634'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='261' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29927' action='modify' visible='true' lat='46.483856' lon='12.44218'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-29928' action='modify' visible='true' lat='46.485133' lon='12.442538'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='338' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-29929' action='modify' visible='true' lat='46.484119' lon='12.443716'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29930' action='modify' visible='true' lat='46.484814' lon='12.446739'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='125bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29931' action='modify' visible='true' lat='46.48535' lon='12.447545'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='145' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29932' action='modify' visible='true' lat='46.484494' lon='12.446276'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='137' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29933' action='modify' visible='true' lat='46.483939' lon='12.444444'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='117' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29934' action='modify' visible='true' lat='46.483681' lon='12.444101'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29935' action='modify' visible='true' lat='46.485204' lon='12.447483'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='139bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29936' action='modify' visible='true' lat='46.485153' lon='12.446855'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29937' action='modify' visible='true' lat='46.485126' lon='12.447082'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='138' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29938' action='modify' visible='true' lat='46.483667' lon='12.443955'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29939' action='modify' visible='true' lat='46.483962' lon='12.445119'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='121' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29940' action='modify' visible='true' lat='46.483676' lon='12.443679'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='109' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29941' action='modify' visible='true' lat='46.484305' lon='12.445798'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='123' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29942' action='modify' visible='true' lat='46.48376' lon='12.44422'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29943' action='modify' visible='true' lat='46.486592' lon='12.450269'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='145c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29944' action='modify' visible='true' lat='46.484409' lon='12.446118'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29945' action='modify' visible='true' lat='46.482386' lon='12.444737'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='122ter' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29946' action='modify' visible='true' lat='46.483639' lon='12.440982'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='14b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ronzie' />
+  </node>
+  <node id='-29947' action='modify' visible='true' lat='46.48355' lon='12.444014'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='111' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29948' action='modify' visible='true' lat='46.4854' lon='12.44736'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='144' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29949' action='modify' visible='true' lat='46.483923' lon='12.4446'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29950' action='modify' visible='true' lat='46.484775' lon='12.446488'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='125' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29951' action='modify' visible='true' lat='46.486077' lon='12.449272'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='145ter' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29952' action='modify' visible='true' lat='46.486544' lon='12.437902'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='563' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-29953' action='modify' visible='true' lat='46.484254' lon='12.443234'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29954' action='modify' visible='true' lat='46.485001' lon='12.442371'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='336' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-29955' action='modify' visible='true' lat='46.483854' lon='12.444045'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='107' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29956' action='modify' visible='true' lat='46.485268' lon='12.442328'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='344' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-29957' action='modify' visible='true' lat='46.484849' lon='12.445787'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29958' action='modify' visible='true' lat='46.484721' lon='12.444485'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='219' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-29959' action='modify' visible='true' lat='46.485265' lon='12.442685'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='339' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-29960' action='modify' visible='true' lat='46.484905' lon='12.444412'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='267' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-29961' action='modify' visible='true' lat='46.4847' lon='12.443697'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='264bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-29962' action='modify' visible='true' lat='46.484484' lon='12.443176'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='233' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-29963' action='modify' visible='true' lat='46.483938' lon='12.444895'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29964' action='modify' visible='true' lat='46.49045' lon='12.451232'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29965' action='modify' visible='true' lat='46.48723' lon='12.439995'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='528' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29966' action='modify' visible='true' lat='46.483933' lon='12.44639'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='124bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29967' action='modify' visible='true' lat='46.486385' lon='12.439449'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='500' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-29968' action='modify' visible='true' lat='46.483957' lon='12.443853'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29969' action='modify' visible='true' lat='46.485538' lon='12.446764'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='175' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-29970' action='modify' visible='true' lat='46.4868626994' lon='12.43846239633'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='549' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-29971' action='modify' visible='true' lat='46.484257' lon='12.446608'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='124ter' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-29972' action='modify' visible='true' lat='46.484816' lon='12.443781'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='326' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-29973' action='modify' visible='true' lat='46.486725' lon='12.440804'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='490' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-29974' action='modify' visible='true' lat='46.48548' lon='12.441348'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='386a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-29975' action='modify' visible='true' lat='46.48682' lon='12.43966'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='510' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-29976' action='modify' visible='true' lat='46.484139' lon='12.443155'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-29977' action='modify' visible='true' lat='46.485908' lon='12.441008'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='407' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-29978' action='modify' visible='true' lat='46.487658' lon='12.439228'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='579' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29979' action='modify' visible='true' lat='46.486674' lon='12.441198'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='461' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-29980' action='modify' visible='true' lat='46.485267' lon='12.446166'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29981' action='modify' visible='true' lat='46.487785' lon='12.445944'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='283/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-29982' action='modify' visible='true' lat='46.486286' lon='12.440203'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='473' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-29983' action='modify' visible='true' lat='46.485093' lon='12.440974'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='366' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-29984' action='modify' visible='true' lat='46.475619' lon='12.436689'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29985' action='modify' visible='true' lat='46.48552' lon='12.440909'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='394' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-29986' action='modify' visible='true' lat='46.486364' lon='12.448'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='164' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29987' action='modify' visible='true' lat='46.478736' lon='12.439617'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29988' action='modify' visible='true' lat='46.486948' lon='12.440197'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='494' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-29989' action='modify' visible='true' lat='46.485625' lon='12.441665'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='401' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-29990' action='modify' visible='true' lat='46.484669' lon='12.440954'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='253' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29991' action='modify' visible='true' lat='46.486891' lon='12.439787'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='513' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29992' action='modify' visible='true' lat='46.486411' lon='12.440934'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='458' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-29993' action='modify' visible='true' lat='46.486225' lon='12.441948'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='419' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-29994' action='modify' visible='true' lat='46.484337' lon='12.440627'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='260' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29995' action='modify' visible='true' lat='46.486495' lon='12.448166'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='163' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29996' action='modify' visible='true' lat='46.485909' lon='12.4478'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='171' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-29997' action='modify' visible='true' lat='46.487019' lon='12.439123'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='531' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-29998' action='modify' visible='true' lat='46.487415' lon='12.438503'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='581' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-29999' action='modify' visible='true' lat='46.484561' lon='12.443688'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='231' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30000' action='modify' visible='true' lat='46.48696024353' lon='12.43824443436'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='551' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30001' action='modify' visible='true' lat='46.486201' lon='12.442452'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='437' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30002' action='modify' visible='true' lat='46.486791' lon='12.441073'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='470' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30003' action='modify' visible='true' lat='46.48629' lon='12.442248'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='434' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30004' action='modify' visible='true' lat='46.486569' lon='12.440687'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='479' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30005' action='modify' visible='true' lat='46.485684' lon='12.442655'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='435' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30006' action='modify' visible='true' lat='46.486643' lon='12.442136'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='430' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30007' action='modify' visible='true' lat='46.486607' lon='12.440322'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='487' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30008' action='modify' visible='true' lat='46.483708' lon='12.443157'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30009' action='modify' visible='true' lat='46.484488' lon='12.440943'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='254' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30010' action='modify' visible='true' lat='46.485275' lon='12.444703'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='270' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30011' action='modify' visible='true' lat='46.484813' lon='12.44096'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='251' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30012' action='modify' visible='true' lat='46.484255' lon='12.442282'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30013' action='modify' visible='true' lat='46.487159' lon='12.43837'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='574' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30014' action='modify' visible='true' lat='46.486161' lon='12.438372'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='539' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30015' action='modify' visible='true' lat='46.484908' lon='12.444796'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='215b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30016' action='modify' visible='true' lat='46.486966' lon='12.439091'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='530' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30017' action='modify' visible='true' lat='46.48481' lon='12.445732'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='133' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30018' action='modify' visible='true' lat='46.484008' lon='12.441109'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30019' action='modify' visible='true' lat='46.487527' lon='12.44622'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='282' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30020' action='modify' visible='true' lat='46.484566' lon='12.444559'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30021' action='modify' visible='true' lat='46.484509' lon='12.442742'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='236' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30022' action='modify' visible='true' lat='46.484051' lon='12.44157'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30023' action='modify' visible='true' lat='46.484632' lon='12.441194'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='249' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30024' action='modify' visible='true' lat='46.485303' lon='12.447019'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30025' action='modify' visible='true' lat='46.484647' lon='12.445362'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30026' action='modify' visible='true' lat='46.487074' lon='12.440066'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='519' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30027' action='modify' visible='true' lat='46.484668' lon='12.441981'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='240' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30028' action='modify' visible='true' lat='46.486813' lon='12.441401'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='463' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30029' action='modify' visible='true' lat='46.484852' lon='12.443867'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='323' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30030' action='modify' visible='true' lat='46.484417' lon='12.444043'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='225' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30031' action='modify' visible='true' lat='46.485521' lon='12.4406'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='393' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30032' action='modify' visible='true' lat='46.484872' lon='12.442526'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='331' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30033' action='modify' visible='true' lat='46.488408' lon='12.446915'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='287' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30034' action='modify' visible='true' lat='46.486101' lon='12.443994'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='442' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30035' action='modify' visible='true' lat='46.486909' lon='12.437691'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='569' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30036' action='modify' visible='true' lat='46.485647' lon='12.444238'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='313' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30037' action='modify' visible='true' lat='46.486223' lon='12.445058'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='309' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30038' action='modify' visible='true' lat='46.485005' lon='12.444045'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='320' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30039' action='modify' visible='true' lat='46.486109' lon='12.445133'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='310' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30040' action='modify' visible='true' lat='46.485172' lon='12.444189'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='319' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30041' action='modify' visible='true' lat='46.485165' lon='12.443842'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='317' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30042' action='modify' visible='true' lat='46.486237' lon='12.43813'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='541' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30043' action='modify' visible='true' lat='46.484174' lon='12.442496'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30044' action='modify' visible='true' lat='46.484011' lon='12.442209'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30045' action='modify' visible='true' lat='46.485616' lon='12.440354'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='364' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30046' action='modify' visible='true' lat='46.48612' lon='12.439086'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='481' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30047' action='modify' visible='true' lat='46.483257' lon='12.442431'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30048' action='modify' visible='true' lat='46.48702' lon='12.439849'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='516' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30049' action='modify' visible='true' lat='46.484693' lon='12.44484'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='217' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30050' action='modify' visible='true' lat='46.485619' lon='12.441567'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='400' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30051' action='modify' visible='true' lat='46.48402' lon='12.443138'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30052' action='modify' visible='true' lat='46.487672' lon='12.438851'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='583' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30053' action='modify' visible='true' lat='46.484543' lon='12.44464'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='220b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30054' action='modify' visible='true' lat='46.487991' lon='12.447346'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='284/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30055' action='modify' visible='true' lat='46.486464' lon='12.440452'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='480' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30056' action='modify' visible='true' lat='46.48735' lon='12.449648'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30057' action='modify' visible='true' lat='46.48675' lon='12.438304'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='544' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30058' action='modify' visible='true' lat='46.484485' lon='12.44147'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30059' action='modify' visible='true' lat='46.485053' lon='12.441705'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='349' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Pietro Fortunato Calvi' />
+  </node>
+  <node id='-30060' action='modify' visible='true' lat='46.484827' lon='12.445669'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='132' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30061' action='modify' visible='true' lat='46.484459' lon='12.441481'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30062' action='modify' visible='true' lat='46.486433' lon='12.440566'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='476' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30063' action='modify' visible='true' lat='46.485822' lon='12.442264'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='392' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30064' action='modify' visible='true' lat='46.484238' lon='12.443471'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30065' action='modify' visible='true' lat='46.485138' lon='12.445927'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30066' action='modify' visible='true' lat='46.487632' lon='12.446941'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='280' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30067' action='modify' visible='true' lat='46.484685' lon='12.441305'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='248' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30068' action='modify' visible='true' lat='46.484775' lon='12.441126'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='250' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30069' action='modify' visible='true' lat='46.485555' lon='12.441848'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='388' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30070' action='modify' visible='true' lat='46.486229' lon='12.440676'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='456b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30071' action='modify' visible='true' lat='46.484646' lon='12.442848'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='235' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30072' action='modify' visible='true' lat='46.485109' lon='12.441273'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='368' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30073' action='modify' visible='true' lat='46.484265' lon='12.442112'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Vittorio Veneto' />
+  </node>
+  <node id='-30074' action='modify' visible='true' lat='46.485305' lon='12.441612'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='371' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30075' action='modify' visible='true' lat='46.485187' lon='12.441394'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='369' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30076' action='modify' visible='true' lat='46.484168' lon='12.441981'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Vittorio Veneto' />
+  </node>
+  <node id='-30077' action='modify' visible='true' lat='46.483983' lon='12.441916'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Vittorio Veneto' />
+  </node>
+  <node id='-30078' action='modify' visible='true' lat='46.485354' lon='12.441721'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='372' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30079' action='modify' visible='true' lat='46.487217' lon='12.438917'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='557' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30080' action='modify' visible='true' lat='46.483774' lon='12.443917'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30081' action='modify' visible='true' lat='46.485868' lon='12.440507'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='405' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30082' action='modify' visible='true' lat='46.48516' lon='12.445579'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='198' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30083' action='modify' visible='true' lat='46.48494' lon='12.44513'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='211' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30084' action='modify' visible='true' lat='46.485172' lon='12.442833'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='329' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30085' action='modify' visible='true' lat='46.48344' lon='12.441328'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ronzie' />
+  </node>
+  <node id='-30086' action='modify' visible='true' lat='46.486617' lon='12.442388'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='438' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30087' action='modify' visible='true' lat='46.484176' lon='12.442224'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Vittorio Veneto' />
+  </node>
+  <node id='-30088' action='modify' visible='true' lat='46.485518' lon='12.442086'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='375' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30089' action='modify' visible='true' lat='46.485464' lon='12.441976'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='374' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30090' action='modify' visible='true' lat='46.487888' lon='12.439052'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='589' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30091' action='modify' visible='true' lat='46.477394' lon='12.435429'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via degli Alpini' />
+  </node>
+  <node id='-30092' action='modify' visible='true' lat='46.484872' lon='12.442033'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='242' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30093' action='modify' visible='true' lat='46.485164' lon='12.442421'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='337' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30094' action='modify' visible='true' lat='46.484721' lon='12.440748'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='256' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30095' action='modify' visible='true' lat='46.487051' lon='12.449566'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='155' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30096' action='modify' visible='true' lat='46.484082' lon='12.443701'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30097' action='modify' visible='true' lat='46.487466' lon='12.438837'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='577' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30098' action='modify' visible='true' lat='46.486077' lon='12.440831'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='411' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30099' action='modify' visible='true' lat='46.483451' lon='12.441108'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ronzie' />
+  </node>
+  <node id='-30100' action='modify' visible='true' lat='46.48533' lon='12.447067'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='141' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30101' action='modify' visible='true' lat='46.488195' lon='12.446868'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='286' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30102' action='modify' visible='true' lat='46.484227' lon='12.444018'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='126' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30103' action='modify' visible='true' lat='46.483889' lon='12.44439'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30104' action='modify' visible='true' lat='46.484522' lon='12.443772'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='229' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza IV Novembre' />
+  </node>
+  <node id='-30105' action='modify' visible='true' lat='46.487123' lon='12.440168'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='521' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30106' action='modify' visible='true' lat='46.487179' lon='12.449708'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='156' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30107' action='modify' visible='true' lat='46.487852' lon='12.447056'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='280bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30108' action='modify' visible='true' lat='46.485579' lon='12.44233'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='378' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30109' action='modify' visible='true' lat='46.485284' lon='12.442593'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='340' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30110' action='modify' visible='true' lat='46.484683' lon='12.444563'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='218' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30111' action='modify' visible='true' lat='46.485234' lon='12.442876'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='330' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30112' action='modify' visible='true' lat='46.48453' lon='12.444033'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='226' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30113' action='modify' visible='true' lat='46.485204' lon='12.44226'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='343' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30114' action='modify' visible='true' lat='46.484049' lon='12.444155'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='105' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30115' action='modify' visible='true' lat='46.48599' lon='12.442642'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='436' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30116' action='modify' visible='true' lat='46.486591' lon='12.442166'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='431' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30117' action='modify' visible='true' lat='46.486842' lon='12.441087'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='471' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30118' action='modify' visible='true' lat='46.484094' lon='12.443882'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30119' action='modify' visible='true' lat='46.48508' lon='12.442684'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='333' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30120' action='modify' visible='true' lat='46.484148' lon='12.443919'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30121' action='modify' visible='true' lat='46.489262' lon='12.447339'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='291' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30122' action='modify' visible='true' lat='46.486702' lon='12.440284'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='491' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30123' action='modify' visible='true' lat='46.486762' lon='12.443412'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='447/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30124' action='modify' visible='true' lat='46.484017' lon='12.444216'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30125' action='modify' visible='true' lat='46.486333' lon='12.44248'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='440' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30126' action='modify' visible='true' lat='46.487718' lon='12.438731'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='587' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30127' action='modify' visible='true' lat='46.484228' lon='12.443133'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30128' action='modify' visible='true' lat='46.484936' lon='12.444743'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='215' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30129' action='modify' visible='true' lat='46.48552' lon='12.44513'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='272' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30130' action='modify' visible='true' lat='46.484016' lon='12.442492'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30131' action='modify' visible='true' lat='46.48488' lon='12.445241'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30132' action='modify' visible='true' lat='46.48505' lon='12.444326'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='268' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30133' action='modify' visible='true' lat='46.487619' lon='12.438332'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='590' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30134' action='modify' visible='true' lat='46.486953' lon='12.440531'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='496' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30135' action='modify' visible='true' lat='46.48426' lon='12.443357'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30136' action='modify' visible='true' lat='46.487475' lon='12.438379'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='584' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30137' action='modify' visible='true' lat='46.485173' lon='12.444884'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='208' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30138' action='modify' visible='true' lat='46.48697' lon='12.442564'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='450' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30139' action='modify' visible='true' lat='46.485182' lon='12.441757'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='350' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30140' action='modify' visible='true' lat='46.486087' lon='12.443429'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='441' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30141' action='modify' visible='true' lat='46.486622' lon='12.445398'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='305' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30142' action='modify' visible='true' lat='46.485011' lon='12.444821'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='209' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30143' action='modify' visible='true' lat='46.486523' lon='12.446415'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='182' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30144' action='modify' visible='true' lat='46.485043' lon='12.44533'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='203' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30145' action='modify' visible='true' lat='46.485589' lon='12.445773'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='189' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30146' action='modify' visible='true' lat='46.485101' lon='12.443621'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='322' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30147' action='modify' visible='true' lat='46.485496' lon='12.446646'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='179' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30148' action='modify' visible='true' lat='46.484859' lon='12.444105'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='325' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30149' action='modify' visible='true' lat='46.484994' lon='12.443778'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='321' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30150' action='modify' visible='true' lat='46.484959' lon='12.445008'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='213' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30151' action='modify' visible='true' lat='46.485096' lon='12.4457'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='196b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30152' action='modify' visible='true' lat='46.485786' lon='12.446006'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='186' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30153' action='modify' visible='true' lat='46.484923' lon='12.444938'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='212' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30154' action='modify' visible='true' lat='46.485205' lon='12.445212'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='204' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30155' action='modify' visible='true' lat='46.485345' lon='12.445565'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='195' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30156' action='modify' visible='true' lat='46.477362' lon='12.435336'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via degli Alpini' />
+  </node>
+  <node id='-30157' action='modify' visible='true' lat='46.485613' lon='12.445825'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30158' action='modify' visible='true' lat='46.485472' lon='12.443742'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='315' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30159' action='modify' visible='true' lat='46.486951' lon='12.437791'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='570' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30160' action='modify' visible='true' lat='46.485997' lon='12.444951'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='312' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30161' action='modify' visible='true' lat='46.486288' lon='12.445145'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='307' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30162' action='modify' visible='true' lat='46.485396' lon='12.446625'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='177' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30163' action='modify' visible='true' lat='46.487183' lon='12.439387'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='536' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30164' action='modify' visible='true' lat='46.485499' lon='12.441378'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='386' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30165' action='modify' visible='true' lat='46.486728' lon='12.437745'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='565' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30166' action='modify' visible='true' lat='46.485573' lon='12.442036'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='375' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30167' action='modify' visible='true' lat='46.486512' lon='12.441242'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='460' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30168' action='modify' visible='true' lat='46.485286' lon='12.446465'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30169' action='modify' visible='true' lat='46.486587' lon='12.43842'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='545' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30170' action='modify' visible='true' lat='46.486652' lon='12.441947'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='429' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30171' action='modify' visible='true' lat='46.484081' lon='12.441081'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30172' action='modify' visible='true' lat='46.486664' lon='12.43989'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='492' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30173' action='modify' visible='true' lat='46.484827' lon='12.441808'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='243' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30174' action='modify' visible='true' lat='46.486308' lon='12.445175'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='306' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30175' action='modify' visible='true' lat='46.49032985928' lon='12.44878031779'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30176' action='modify' visible='true' lat='46.486493' lon='12.442388'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='439' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30177' action='modify' visible='true' lat='46.484908' lon='12.445048'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='239' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30178' action='modify' visible='true' lat='46.485551' lon='12.446267'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='187' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30179' action='modify' visible='true' lat='46.485253' lon='12.445064'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='207' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30180' action='modify' visible='true' lat='46.486053' lon='12.446344'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='181' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30181' action='modify' visible='true' lat='46.485264' lon='12.445786'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='193' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30182' action='modify' visible='true' lat='46.49031' lon='12.44838'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30183' action='modify' visible='true' lat='46.485129' lon='12.445032'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='206' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30184' action='modify' visible='true' lat='46.485178' lon='12.444093'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='318' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30185' action='modify' visible='true' lat='46.485359' lon='12.447175'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='142' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30186' action='modify' visible='true' lat='46.484982' lon='12.444379'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='267a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30187' action='modify' visible='true' lat='46.484915' lon='12.440554'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='362' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30188' action='modify' visible='true' lat='46.48526' lon='12.445223'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='200' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30189' action='modify' visible='true' lat='46.483792' lon='12.443646'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30190' action='modify' visible='true' lat='46.484597' lon='12.442797'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='235' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30191' action='modify' visible='true' lat='46.48755' lon='12.438665'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='582' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30192' action='modify' visible='true' lat='46.47364' lon='12.433901'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30193' action='modify' visible='true' lat='46.486212' lon='12.440988'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='420' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30194' action='modify' visible='true' lat='46.486852' lon='12.44968'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='148' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30195' action='modify' visible='true' lat='46.484697' lon='12.441351'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='247' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30196' action='modify' visible='true' lat='46.485605' lon='12.447198'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='173' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30197' action='modify' visible='true' lat='46.485011' lon='12.445258'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='205' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30198' action='modify' visible='true' lat='46.487117' lon='12.445138'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='302' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30199' action='modify' visible='true' lat='46.483577' lon='12.442248'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30200' action='modify' visible='true' lat='46.489144' lon='12.446354'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='289/5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30201' action='modify' visible='true' lat='46.485641' lon='12.440646'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='395' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30202' action='modify' visible='true' lat='46.485773' lon='12.446234'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='185' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30203' action='modify' visible='true' lat='46.489795' lon='12.449511'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30204' action='modify' visible='true' lat='46.485239' lon='12.445176'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='201' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30205' action='modify' visible='true' lat='46.485267' lon='12.442248'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='343b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30206' action='modify' visible='true' lat='46.484781' lon='12.442964'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='327' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30207' action='modify' visible='true' lat='46.484053' lon='12.443859'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='103' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30208' action='modify' visible='true' lat='46.476893' lon='12.438812'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30209' action='modify' visible='true' lat='46.474178' lon='12.435265'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30210' action='modify' visible='true' lat='46.476559' lon='12.438027'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30211' action='modify' visible='true' lat='46.484202' lon='12.44365'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30212' action='modify' visible='true' lat='46.47643' lon='12.437266'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30213' action='modify' visible='true' lat='46.489964' lon='12.448981'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30214' action='modify' visible='true' lat='46.486083' lon='12.440477'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='454' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30215' action='modify' visible='true' lat='46.483789' lon='12.443581'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30216' action='modify' visible='true' lat='46.487105' lon='12.439483'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='534' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30217' action='modify' visible='true' lat='46.485728' lon='12.445413'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='276' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30218' action='modify' visible='true' lat='46.48656' lon='12.438354'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='543' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30219' action='modify' visible='true' lat='46.486434' lon='12.446959'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='183' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30220' action='modify' visible='true' lat='46.473005' lon='12.435221'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30221' action='modify' visible='true' lat='46.485356' lon='12.442152'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='347' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30222' action='modify' visible='true' lat='46.490345' lon='12.449336'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30223' action='modify' visible='true' lat='46.490038' lon='12.449732'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30224' action='modify' visible='true' lat='46.49005' lon='12.449775'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30225' action='modify' visible='true' lat='46.48458' lon='12.443542'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='232' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza IV Novembre' />
+  </node>
+  <node id='-30226' action='modify' visible='true' lat='46.485198' lon='12.44167'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='352' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30227' action='modify' visible='true' lat='46.48925' lon='12.449155'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30228' action='modify' visible='true' lat='46.485061' lon='12.447179'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='139' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30229' action='modify' visible='true' lat='46.481233' lon='12.440257'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30230' action='modify' visible='true' lat='46.486909' lon='12.439488'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='525' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30231' action='modify' visible='true' lat='46.485523' lon='12.442397'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='378a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30232' action='modify' visible='true' lat='46.483793' lon='12.444158'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='113' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30233' action='modify' visible='true' lat='46.486198' lon='12.44196'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='418' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30234' action='modify' visible='true' lat='46.486983' lon='12.438642'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='534' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30235' action='modify' visible='true' lat='46.486092' lon='12.441192'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='414' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30236' action='modify' visible='true' lat='46.473149' lon='12.433956'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30237' action='modify' visible='true' lat='46.48965' lon='12.450233'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30238' action='modify' visible='true' lat='46.490318' lon='12.450364'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30239' action='modify' visible='true' lat='46.489415' lon='12.44936'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30240' action='modify' visible='true' lat='46.489397' lon='12.449319'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30241' action='modify' visible='true' lat='46.489792' lon='12.44954'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30242' action='modify' visible='true' lat='46.47326' lon='12.43499'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30243' action='modify' visible='true' lat='46.473415' lon='12.434351'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30244' action='modify' visible='true' lat='46.475211' lon='12.437453'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30245' action='modify' visible='true' lat='46.473909' lon='12.434913'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30246' action='modify' visible='true' lat='46.49000909635' lon='12.45012359643'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30247' action='modify' visible='true' lat='46.490139' lon='12.449236'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30248' action='modify' visible='true' lat='46.489665' lon='12.450231'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30249' action='modify' visible='true' lat='46.490334' lon='12.450366'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30250' action='modify' visible='true' lat='46.48997232683' lon='12.45010991273'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30251' action='modify' visible='true' lat='46.474128' lon='12.436041'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30252' action='modify' visible='true' lat='46.484325' lon='12.440927'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30253' action='modify' visible='true' lat='46.489224' lon='12.448335'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30254' action='modify' visible='true' lat='46.485611' lon='12.442187'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='376' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30255' action='modify' visible='true' lat='46.484193' lon='12.443693'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30256' action='modify' visible='true' lat='46.485684' lon='12.445307'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='275' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30257' action='modify' visible='true' lat='46.485669' lon='12.445169'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='274' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30258' action='modify' visible='true' lat='46.488436' lon='12.447103'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='289' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30259' action='modify' visible='true' lat='46.486748' lon='12.443389'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='447/3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30260' action='modify' visible='true' lat='46.489802' lon='12.449579'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30261' action='modify' visible='true' lat='46.48482' lon='12.44274'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='328' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30262' action='modify' visible='true' lat='46.484716' lon='12.440694'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='257' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30263' action='modify' visible='true' lat='46.486361' lon='12.438029'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='542' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30264' action='modify' visible='true' lat='46.483939' lon='12.443325'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30265' action='modify' visible='true' lat='46.487012' lon='12.438455'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='552' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30266' action='modify' visible='true' lat='46.484615' lon='12.444222'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='222' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30267' action='modify' visible='true' lat='46.486558' lon='12.443086'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='440/1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30268' action='modify' visible='true' lat='46.484796' lon='12.441349'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='245' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30269' action='modify' visible='true' lat='46.48524' lon='12.44533'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='199' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30270' action='modify' visible='true' lat='46.485062' lon='12.442609'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='324' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30271' action='modify' visible='true' lat='46.483149' lon='12.441328'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Ronzie' />
+  </node>
+  <node id='-30272' action='modify' visible='true' lat='46.483984' lon='12.443691'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30273' action='modify' visible='true' lat='46.484848' lon='12.444615'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='216' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30274' action='modify' visible='true' lat='46.490404' lon='12.449336'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30275' action='modify' visible='true' lat='46.485367' lon='12.442372'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='345' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Milano' />
+  </node>
+  <node id='-30276' action='modify' visible='true' lat='46.48628' lon='12.447213'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='169' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30277' action='modify' visible='true' lat='46.486711' lon='12.439175'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='522' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30278' action='modify' visible='true' lat='46.484023' lon='12.441464'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30279' action='modify' visible='true' lat='46.473532' lon='12.4356'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30280' action='modify' visible='true' lat='46.48488' lon='12.443742'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='263' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30281' action='modify' visible='true' lat='46.486483' lon='12.442178'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='432' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30282' action='modify' visible='true' lat='46.484259' lon='12.444206'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='127' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30283' action='modify' visible='true' lat='46.486966' lon='12.449427'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='157' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30284' action='modify' visible='true' lat='46.485397' lon='12.442819'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='380' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30285' action='modify' visible='true' lat='46.484572' lon='12.445163'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='129bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30286' action='modify' visible='true' lat='46.48693' lon='12.439893'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='514' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30287' action='modify' visible='true' lat='46.485867' lon='12.441391'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='408' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30288' action='modify' visible='true' lat='46.485864' lon='12.449039'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='145bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30289' action='modify' visible='true' lat='46.486436' lon='12.441141'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='459' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30290' action='modify' visible='true' lat='46.484473' lon='12.444254'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='223' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30291' action='modify' visible='true' lat='46.483989' lon='12.441777'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30292' action='modify' visible='true' lat='46.48999064832' lon='12.45011673104'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30293' action='modify' visible='true' lat='46.482532' lon='12.445086'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='122bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30294' action='modify' visible='true' lat='46.484203' lon='12.440802'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30295' action='modify' visible='true' lat='46.485459' lon='12.446982'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30296' action='modify' visible='true' lat='46.489811' lon='12.44952'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30297' action='modify' visible='true' lat='46.476428' lon='12.437578'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30298' action='modify' visible='true' lat='46.484871' lon='12.441412'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='356' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30299' action='modify' visible='true' lat='46.485123' lon='12.446592'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='135' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30300' action='modify' visible='true' lat='46.48544' lon='12.442598'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='389' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Venezia' />
+  </node>
+  <node id='-30301' action='modify' visible='true' lat='46.485296' lon='12.44383'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='316' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30302' action='modify' visible='true' lat='46.484349' lon='12.442573'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30303' action='modify' visible='true' lat='46.484287' lon='12.443209'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30304' action='modify' visible='true' lat='46.488642' lon='12.446576'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='289/2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30305' action='modify' visible='true' lat='46.48438' lon='12.444054'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='224' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30306' action='modify' visible='true' lat='46.488117' lon='12.447541'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='284' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30307' action='modify' visible='true' lat='46.488112' lon='12.446865'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='285' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30308' action='modify' visible='true' lat='46.484444' lon='12.444872'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='128' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30309' action='modify' visible='true' lat='46.48635' lon='12.444754'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='308' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Dante Alighieri' />
+  </node>
+  <node id='-30310' action='modify' visible='true' lat='46.485544' lon='12.443381'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='314' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30311' action='modify' visible='true' lat='46.485778' lon='12.446323'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30312' action='modify' visible='true' lat='46.485678' lon='12.446586'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30313' action='modify' visible='true' lat='46.48701' lon='12.440782'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='497' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30314' action='modify' visible='true' lat='46.487393' lon='12.438154'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='580' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30315' action='modify' visible='true' lat='46.48636' lon='12.442223'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='433' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Marmarole' />
+  </node>
+  <node id='-30316' action='modify' visible='true' lat='46.484992' lon='12.445476'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='202' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Giouda' />
+  </node>
+  <node id='-30317' action='modify' visible='true' lat='46.475068' lon='12.434705'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30318' action='modify' visible='true' lat='46.484264' lon='12.441156'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30319' action='modify' visible='true' lat='46.49002857525' lon='12.45013084547'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dei Missionari' />
+  </node>
+  <node id='-30320' action='modify' visible='true' lat='46.484612' lon='12.442263'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='239' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30321' action='modify' visible='true' lat='46.486648' lon='12.441487'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='462' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30322' action='modify' visible='true' lat='46.47565361169' lon='12.43745271412'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30323' action='modify' visible='true' lat='46.48453' lon='12.443684'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='230' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza IV Novembre' />
+  </node>
+  <node id='-30324' action='modify' visible='true' lat='46.484796' lon='12.44128'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='246' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30325' action='modify' visible='true' lat='46.485416' lon='12.447298'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='143' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30326' action='modify' visible='true' lat='46.484066' lon='12.44553'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Piave' />
+  </node>
+  <node id='-30327' action='modify' visible='true' lat='46.487128' lon='12.440617'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='499' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Loreto' />
+  </node>
+  <node id='-30328' action='modify' visible='true' lat='46.484158' lon='12.441237'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30329' action='modify' visible='true' lat='46.483642' lon='12.442444'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30330' action='modify' visible='true' lat='46.486247' lon='12.439765'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='483' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30331' action='modify' visible='true' lat='46.484373' lon='12.440985'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30332' action='modify' visible='true' lat='46.486384' lon='12.440448'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='475' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30333' action='modify' visible='true' lat='46.484282' lon='12.441486'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30334' action='modify' visible='true' lat='46.484353' lon='12.443745'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='227' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30335' action='modify' visible='true' lat='46.484957' lon='12.44139'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='355' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30336' action='modify' visible='true' lat='46.485048' lon='12.445729'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='196' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30337' action='modify' visible='true' lat='46.485463' lon='12.441663'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='387' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30338' action='modify' visible='true' lat='46.484707' lon='12.445017'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='214' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30339' action='modify' visible='true' lat='46.486267' lon='12.440079'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='472' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30340' action='modify' visible='true' lat='46.486187' lon='12.448016'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='165' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30341' action='modify' visible='true' lat='46.488059' lon='12.436941'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='591' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30342' action='modify' visible='true' lat='46.486523' lon='12.447541'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30343' action='modify' visible='true' lat='46.485727' lon='12.440634'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='396' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30344' action='modify' visible='true' lat='46.487569' lon='12.439082'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='578' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30345' action='modify' visible='true' lat='46.487312' lon='12.438962'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='559' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30346' action='modify' visible='true' lat='46.486181' lon='12.440338'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='466' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30347' action='modify' visible='true' lat='46.484187' lon='12.443753'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30348' action='modify' visible='true' lat='46.484895' lon='12.442457'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='332' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30349' action='modify' visible='true' lat='46.4855' lon='12.441216'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='397' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30350' action='modify' visible='true' lat='46.486067' lon='12.441807'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='410' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30351' action='modify' visible='true' lat='46.484319' lon='12.443029'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30352' action='modify' visible='true' lat='46.484569' lon='12.442509'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='237' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30353' action='modify' visible='true' lat='46.48668' lon='12.440709'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='489' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30354' action='modify' visible='true' lat='46.483786' lon='12.44054'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30355' action='modify' visible='true' lat='46.485914' lon='12.441615'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='409' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30356' action='modify' visible='true' lat='46.486474' lon='12.440585'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='477' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30357' action='modify' visible='true' lat='46.484942' lon='12.440833'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='359' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30358' action='modify' visible='true' lat='46.490215' lon='12.451218'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='151' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30359' action='modify' visible='true' lat='46.485364' lon='12.441437'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='386' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30360' action='modify' visible='true' lat='46.486721' lon='12.449488'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='147' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30361' action='modify' visible='true' lat='46.48748' lon='12.450119'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='152' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30362' action='modify' visible='true' lat='46.487071' lon='12.438084'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='571' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30363' action='modify' visible='true' lat='46.484071' lon='12.44114'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30364' action='modify' visible='true' lat='46.484195' lon='12.443114'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30365' action='modify' visible='true' lat='46.484183' lon='12.442646'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30366' action='modify' visible='true' lat='46.485215' lon='12.444625'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='269' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30367' action='modify' visible='true' lat='46.484728' lon='12.443755'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='263bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30368' action='modify' visible='true' lat='46.484241' lon='12.44235'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30369' action='modify' visible='true' lat='46.487033' lon='12.439605'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='526' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30370' action='modify' visible='true' lat='46.487109' lon='12.439707'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='527' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30371' action='modify' visible='true' lat='46.486396' lon='12.440288'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='474' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30372' action='modify' visible='true' lat='46.486258' lon='12.441062'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='422' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30373' action='modify' visible='true' lat='46.481543' lon='12.440943'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30374' action='modify' visible='true' lat='46.486218' lon='12.447947'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='167' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30375' action='modify' visible='true' lat='46.48439' lon='12.443772'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='228' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30376' action='modify' visible='true' lat='46.484849' lon='12.442032'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='241' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30377' action='modify' visible='true' lat='46.475643' lon='12.435338'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30378' action='modify' visible='true' lat='46.485643' lon='12.447279'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='172bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30379' action='modify' visible='true' lat='46.484959' lon='12.442302'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='334' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30380' action='modify' visible='true' lat='46.484363' lon='12.440687'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='259' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30381' action='modify' visible='true' lat='46.48693263253' lon='12.4383148454'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='550' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30382' action='modify' visible='true' lat='46.484367' lon='12.441469'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30383' action='modify' visible='true' lat='46.486088' lon='12.441533'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='415' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30384' action='modify' visible='true' lat='46.484925' lon='12.441084'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='358' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30385' action='modify' visible='true' lat='46.485084' lon='12.442061'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='342' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Pietro Fortunato Calvi' />
+  </node>
+  <node id='-30386' action='modify' visible='true' lat='46.484597' lon='12.440777'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='255' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30387' action='modify' visible='true' lat='46.486206' lon='12.440599'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='456' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30388' action='modify' visible='true' lat='46.484188' lon='12.442957'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30389' action='modify' visible='true' lat='46.486264' lon='12.44729'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30390' action='modify' visible='true' lat='46.486399' lon='12.448494'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='160' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30391' action='modify' visible='true' lat='46.48616' lon='12.447938'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='166' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30392' action='modify' visible='true' lat='46.487393' lon='12.438746'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='576' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30393' action='modify' visible='true' lat='46.486499' lon='12.440731'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='478' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30394' action='modify' visible='true' lat='46.484573' lon='12.443049'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='234' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30395' action='modify' visible='true' lat='46.48387' lon='12.4434'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30396' action='modify' visible='true' lat='46.48393' lon='12.44222'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30397' action='modify' visible='true' lat='46.485207' lon='12.440784'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='383' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30398' action='modify' visible='true' lat='46.486146' lon='12.440531'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='455' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30399' action='modify' visible='true' lat='46.486267' lon='12.439926'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='484' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30400' action='modify' visible='true' lat='46.486952' lon='12.438597'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='533' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30401' action='modify' visible='true' lat='46.486756' lon='12.438601'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='547' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30402' action='modify' visible='true' lat='46.486821' lon='12.439442'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='524' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30403' action='modify' visible='true' lat='46.486702' lon='12.437634'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='566' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30404' action='modify' visible='true' lat='46.486978' lon='12.439488'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='553' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30405' action='modify' visible='true' lat='46.486785' lon='12.439563'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='511' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30406' action='modify' visible='true' lat='46.48688' lon='12.438867'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='538' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30407' action='modify' visible='true' lat='46.487065' lon='12.439312'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='532' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30408' action='modify' visible='true' lat='46.486767' lon='12.438465'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='548' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30409' action='modify' visible='true' lat='46.48688' lon='12.439045'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='529' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30410' action='modify' visible='true' lat='46.4866' lon='12.439314'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='506' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30411' action='modify' visible='true' lat='46.48687' lon='12.439291'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='523' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30412' action='modify' visible='true' lat='46.478808' lon='12.439642'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30413' action='modify' visible='true' lat='46.487112' lon='12.438608'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='554' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30414' action='modify' visible='true' lat='46.485171' lon='12.445993'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='191' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30415' action='modify' visible='true' lat='46.486414' lon='12.44149'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='427' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30416' action='modify' visible='true' lat='46.485225' lon='12.441875'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='346' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30417' action='modify' visible='true' lat='46.485069' lon='12.44454'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='268' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30418' action='modify' visible='true' lat='46.484687' lon='12.444044'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='265' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30419' action='modify' visible='true' lat='46.486388' lon='12.448393'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='161' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30420' action='modify' visible='true' lat='46.484152' lon='12.441058'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30421' action='modify' visible='true' lat='46.486734' lon='12.44182'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='453' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30422' action='modify' visible='true' lat='46.486231' lon='12.440369'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='467' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30423' action='modify' visible='true' lat='46.47603' lon='12.437009'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30424' action='modify' visible='true' lat='46.48726472038' lon='12.43837596809'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='572' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30425' action='modify' visible='true' lat='46.488719' lon='12.447058'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='289c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30426' action='modify' visible='true' lat='46.485564' lon='12.441496'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='399' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30427' action='modify' visible='true' lat='46.473419' lon='12.433696'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1a' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30428' action='modify' visible='true' lat='46.484435' lon='12.441099'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30429' action='modify' visible='true' lat='46.486314' lon='12.440623'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='468' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30430' action='modify' visible='true' lat='46.485378' lon='12.446835'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='176' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30431' action='modify' visible='true' lat='46.486298' lon='12.441793'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='417' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30432' action='modify' visible='true' lat='46.484825' lon='12.44062'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='361' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30433' action='modify' visible='true' lat='46.489728' lon='12.446941'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='298' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30434' action='modify' visible='true' lat='46.484209' lon='12.441859'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30435' action='modify' visible='true' lat='46.486579' lon='12.437942'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='564' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30436' action='modify' visible='true' lat='46.486248' lon='12.441455'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='424' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30437' action='modify' visible='true' lat='46.48688122811' lon='12.44934281234'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='158' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30438' action='modify' visible='true' lat='46.486565' lon='12.439637'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='508' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30439' action='modify' visible='true' lat='46.486696' lon='12.439655'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='509' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30440' action='modify' visible='true' lat='46.486502' lon='12.440881'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='469' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30441' action='modify' visible='true' lat='46.486913' lon='12.440089'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='493' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30442' action='modify' visible='true' lat='46.483666' lon='12.442298'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30443' action='modify' visible='true' lat='46.483957' lon='12.442479'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30444' action='modify' visible='true' lat='46.48337' lon='12.442124'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30445' action='modify' visible='true' lat='46.483816' lon='12.442363'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='57b' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30446' action='modify' visible='true' lat='46.484112' lon='12.442531'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30447' action='modify' visible='true' lat='46.486667' lon='12.441541'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='464' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30448' action='modify' visible='true' lat='46.487757' lon='12.438784'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='586' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30449' action='modify' visible='true' lat='46.486648' lon='12.440465'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='488' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30450' action='modify' visible='true' lat='46.484995' lon='12.442221'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='335' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30451' action='modify' visible='true' lat='46.487258' lon='12.439408'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='537' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30452' action='modify' visible='true' lat='46.486671' lon='12.441376'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='463' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30453' action='modify' visible='true' lat='46.484907' lon='12.44074'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='360' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30454' action='modify' visible='true' lat='46.486162' lon='12.440763'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='457' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30455' action='modify' visible='true' lat='46.483882' lon='12.442055'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30456' action='modify' visible='true' lat='46.486262' lon='12.441707'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='425' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30457' action='modify' visible='true' lat='46.485744' lon='12.441275'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='404' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30458' action='modify' visible='true' lat='46.48372' lon='12.442033'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30459' action='modify' visible='true' lat='46.485244' lon='12.440828'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='384' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30460' action='modify' visible='true' lat='46.483353' lon='12.442267'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30461' action='modify' visible='true' lat='46.484106' lon='12.442568'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30462' action='modify' visible='true' lat='46.484421' lon='12.440826'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='258' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30463' action='modify' visible='true' lat='46.485069' lon='12.441793'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='348' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Pietro Fortunato Calvi' />
+  </node>
+  <node id='-30464' action='modify' visible='true' lat='46.487572' lon='12.438446'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='585' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30465' action='modify' visible='true' lat='46.484937' lon='12.441606'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='354' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30466' action='modify' visible='true' lat='46.487155' lon='12.439539'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='535' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30467' action='modify' visible='true' lat='46.483874' lon='12.442386'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30468' action='modify' visible='true' lat='46.486326' lon='12.441416'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='426' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30469' action='modify' visible='true' lat='46.483856' lon='12.443355'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30470' action='modify' visible='true' lat='46.48658' lon='12.448922'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='159' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30471' action='modify' visible='true' lat='46.487105' lon='12.438753'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='555' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30472' action='modify' visible='true' lat='46.485189' lon='12.441183'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='367' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30473' action='modify' visible='true' lat='46.484684' lon='12.445443'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='131' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30474' action='modify' visible='true' lat='46.483723' lon='12.442315'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30475' action='modify' visible='true' lat='46.484542' lon='12.441035'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='252' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30476' action='modify' visible='true' lat='46.483775' lon='12.442525'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30477' action='modify' visible='true' lat='46.485687' lon='12.441757'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='402' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30478' action='modify' visible='true' lat='46.485618' lon='12.441955'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='389' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30479' action='modify' visible='true' lat='46.485733' lon='12.44149'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='403' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30480' action='modify' visible='true' lat='46.485238' lon='12.440544'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='365' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30481' action='modify' visible='true' lat='46.489479' lon='12.446507'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='299' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30482' action='modify' visible='true' lat='46.488779' lon='12.447112'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='289d' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30483' action='modify' visible='true' lat='46.485947' lon='12.445371'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='277' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30484' action='modify' visible='true' lat='46.487435' lon='12.447036'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='279' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30485' action='modify' visible='true' lat='46.488423' lon='12.446992'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='288' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30486' action='modify' visible='true' lat='46.48535' lon='12.444803'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='271' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30487' action='modify' visible='true' lat='46.484708' lon='12.442613'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='238' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30488' action='modify' visible='true' lat='46.473996' lon='12.434278'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30489' action='modify' visible='true' lat='46.484838' lon='12.441743'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='244' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30490' action='modify' visible='true' lat='46.487458' lon='12.446547'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='278' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30491' action='modify' visible='true' lat='46.486121' lon='12.448274'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30492' action='modify' visible='true' lat='46.4841' lon='12.441355'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30493' action='modify' visible='true' lat='46.484206' lon='12.441629'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30494' action='modify' visible='true' lat='46.484458' lon='12.442972'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='234' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30495' action='modify' visible='true' lat='46.47495' lon='12.435588'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30496' action='modify' visible='true' lat='46.485573' lon='12.441247'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='398' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30497' action='modify' visible='true' lat='46.484295' lon='12.442623'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30498' action='modify' visible='true' lat='46.484945' lon='12.44129'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='357' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Arcidiacono G. Monti' />
+  </node>
+  <node id='-30499' action='modify' visible='true' lat='46.487466' lon='12.439307'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='561' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30500' action='modify' visible='true' lat='46.483743' lon='12.441964'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Broilo' />
+  </node>
+  <node id='-30501' action='modify' visible='true' lat='46.485305' lon='12.441157'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='385' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30502' action='modify' visible='true' lat='46.484327' lon='12.440539'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='262' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30503' action='modify' visible='true' lat='46.486433' lon='12.441529'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='428' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Brodevin' />
+  </node>
+  <node id='-30504' action='modify' visible='true' lat='46.486459' lon='12.448356'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='162' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30505' action='modify' visible='true' lat='46.487354' lon='12.449836'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='153' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30506' action='modify' visible='true' lat='46.486154' lon='12.440294'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='465' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30507' action='modify' visible='true' lat='46.473231' lon='12.433573'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30508' action='modify' visible='true' lat='46.485792' lon='12.442184'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='390' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30509' action='modify' visible='true' lat='46.484501' lon='12.444544'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='220c' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Roma' />
+  </node>
+  <node id='-30510' action='modify' visible='true' lat='46.484632' lon='12.444282'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='221' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30511' action='modify' visible='true' lat='46.487137' lon='12.438433'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='573' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Da Rin' />
+  </node>
+  <node id='-30512' action='modify' visible='true' lat='46.485774' lon='12.442296'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='391' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Trieste' />
+  </node>
+  <node id='-30513' action='modify' visible='true' lat='46.487257' lon='12.438544'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='575' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30514' action='modify' visible='true' lat='46.487687' lon='12.439723'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='562' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30515' action='modify' visible='true' lat='46.486305' lon='12.439972'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='485' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Padre Marino da Cadore' />
+  </node>
+  <node id='-30516' action='modify' visible='true' lat='46.487118' lon='12.440067'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='520' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via San Rocco' />
+  </node>
+  <node id='-30517' action='modify' visible='true' lat='46.484787' lon='12.444239'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='266' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30518' action='modify' visible='true' lat='46.484017' lon='12.441079'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Piazza Tiziano Vecellio' />
+  </node>
+  <node id='-30519' action='modify' visible='true' lat='46.484659' lon='12.44377'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='264' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30520' action='modify' visible='true' lat='46.487222' lon='12.446167'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='278bis' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Via Col Vidal' />
+  </node>
+  <node id='-30521' action='modify' visible='true' lat='46.47554196592' lon='12.43700981776'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+  <node id='-30522' action='modify' visible='true' lat='46.47431602221' lon='12.43584796994'>
+    <tag k='addr:city' v='Lozzo di Cadore' />
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:postcode' v='32040' />
+    <tag k='addr:street' v='Viale dell&apos;Industria' />
+  </node>
+</osm>
