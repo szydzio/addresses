@@ -1,0 +1,1655 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-20447296' action='modify' visible='true' lat='45.50727245652' lon='12.45678204737'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:place' v='Isola Santa Cristina' />
+  </node>
+  <node id='-20447297' action='modify' visible='true' lat='45.50918958768' lon='12.45817705788'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola Santa Cristina' />
+  </node>
+  <node id='-20447298' action='modify' visible='true' lat='45.50737495046' lon='12.45727604051'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:place' v='Isola Santa Cristina' />
+  </node>
+  <node id='-20447299' action='modify' visible='true' lat='45.50340022175' lon='12.4721914542'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola La Salina' />
+  </node>
+  <node id='-20447301' action='modify' visible='true' lat='45.49518921369' lon='12.41228747354'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447302' action='modify' visible='true' lat='45.49633264206' lon='12.41138500698'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447305' action='modify' visible='true' lat='45.49642230799' lon='12.4117938054'>
+    <tag k='addr:housenumber' v='3e' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447306' action='modify' visible='true' lat='45.49761899465' lon='12.41756060764'>
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447307' action='modify' visible='true' lat='45.49687164341' lon='12.41605310546'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447308' action='modify' visible='true' lat='45.49800011267' lon='12.41719415074'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447309' action='modify' visible='true' lat='45.49802784335' lon='12.41892658001'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447310' action='modify' visible='true' lat='45.49804418931' lon='12.41730289171'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447311' action='modify' visible='true' lat='45.49843278558' lon='12.41824934197'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447312' action='modify' visible='true' lat='45.4972974562' lon='12.41677897769'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447313' action='modify' visible='true' lat='45.49665023768' lon='12.41546402404'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447314' action='modify' visible='true' lat='45.49411080026' lon='12.41493053625'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447315' action='modify' visible='true' lat='45.49637057672' lon='12.41667997561'>
+    <tag k='addr:housenumber' v='8a' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447316' action='modify' visible='true' lat='45.49724197686' lon='12.4167082474'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447317' action='modify' visible='true' lat='45.49668358306' lon='12.4156426706'>
+    <tag k='addr:housenumber' v='7a' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447318' action='modify' visible='true' lat='45.49879232377' lon='12.41790952884'>
+    <tag k='addr:housenumber' v='21a' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447319' action='modify' visible='true' lat='45.49649010815' lon='12.41492801033'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447320' action='modify' visible='true' lat='45.49648219923' lon='12.41500621306'>
+    <tag k='addr:housenumber' v='5a' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447321' action='modify' visible='true' lat='45.49848401116' lon='12.4183088513'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447322' action='modify' visible='true' lat='45.49836637876' lon='12.41808872633'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447323' action='modify' visible='true' lat='45.49865570925' lon='12.41815382604'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447324' action='modify' visible='true' lat='45.4982204132' lon='12.41903284243'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447325' action='modify' visible='true' lat='45.49705824873' lon='12.41641252061'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447326' action='modify' visible='true' lat='45.49782625786' lon='12.41791833546'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447327' action='modify' visible='true' lat='45.49665031253' lon='12.41556669494'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447328' action='modify' visible='true' lat='45.49857353655' lon='12.41812048164'>
+    <tag k='addr:housenumber' v='20a' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447329' action='modify' visible='true' lat='45.49517515861' lon='12.41585487772'>
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447330' action='modify' visible='true' lat='45.49851146618' lon='12.41884782587'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447331' action='modify' visible='true' lat='45.49657667433' lon='12.4150828692'>
+    <tag k='addr:housenumber' v='5b' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447332' action='modify' visible='true' lat='45.50044888181' lon='12.42568183411'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola San Pieretto' />
+  </node>
+  <node id='-20447333' action='modify' visible='true' lat='45.49437335876' lon='12.41537472835'>
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447334' action='modify' visible='true' lat='45.4982058312' lon='12.41913720729'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447335' action='modify' visible='true' lat='45.49756912906' lon='12.4176080517'>
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:place' v='Isola Torcello' />
+  </node>
+  <node id='-20447336' action='modify' visible='true' lat='45.47318225787' lon='12.41709199726'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola San Francesco Del Deserto' />
+  </node>
+  <node id='-20447337' action='modify' visible='true' lat='45.46726464489' lon='12.4197884848'>
+    <tag k='addr:housenumber' v='224' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447338' action='modify' visible='true' lat='45.4684920211' lon='12.42262718639'>
+    <tag k='addr:housenumber' v='238m' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447339' action='modify' visible='true' lat='45.46844427691' lon='12.42249785751'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20447340' action='modify' visible='true' lat='45.47095222241' lon='12.4243716792'>
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447341' action='modify' visible='true' lat='45.47083323685' lon='12.42454038486'>
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447342' action='modify' visible='true' lat='45.47087853675' lon='12.42444793536'>
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447343' action='modify' visible='true' lat='45.46779581064' lon='12.42332438109'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20447345' action='modify' visible='true' lat='45.46928837526' lon='12.42371475804'>
+    <tag k='addr:housenumber' v='240' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447346' action='modify' visible='true' lat='45.46765759047' lon='12.42355164377'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20447347' action='modify' visible='true' lat='45.46736383451' lon='12.41960924976'>
+    <tag k='addr:housenumber' v='226' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447349' action='modify' visible='true' lat='45.46765556471' lon='12.41956265202'>
+    <tag k='addr:housenumber' v='230' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447351' action='modify' visible='true' lat='45.46937160063' lon='12.42364322117'>
+    <tag k='addr:housenumber' v='242' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447353' action='modify' visible='true' lat='45.47104142653' lon='12.4243493868'>
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447354' action='modify' visible='true' lat='45.47117050666' lon='12.42500575586'>
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447355' action='modify' visible='true' lat='45.46819698851' lon='12.42047952822'>
+    <tag k='addr:housenumber' v='236' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447356' action='modify' visible='true' lat='45.46836746249' lon='12.42061636578'>
+    <tag k='addr:housenumber' v='238' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447357' action='modify' visible='true' lat='45.46696816214' lon='12.4201275706'>
+    <tag k='addr:housenumber' v='222' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447358' action='modify' visible='true' lat='45.46748333143' lon='12.41978416711'>
+    <tag k='addr:housenumber' v='228' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447359' action='modify' visible='true' lat='45.47116886859' lon='12.42451918857'>
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447360' action='modify' visible='true' lat='45.46784787901' lon='12.41981086705'>
+    <tag k='addr:housenumber' v='234' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447361' action='modify' visible='true' lat='45.47104636875' lon='12.4245519612'>
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447363' action='modify' visible='true' lat='45.46736957681' lon='12.42368353402'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20447366' action='modify' visible='true' lat='45.47105846379' lon='12.42473415163'>
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447367' action='modify' visible='true' lat='45.46756180528' lon='12.41977754003'>
+    <tag k='addr:housenumber' v='232' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447368' action='modify' visible='true' lat='45.46835874543' lon='12.42224117392'>
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20447369' action='modify' visible='true' lat='45.46838001268' lon='12.42217690637'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20447372' action='modify' visible='true' lat='45.46885815734' lon='12.42819527757'>
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447373' action='modify' visible='true' lat='45.46898520453' lon='12.42665898458'>
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447374' action='modify' visible='true' lat='45.46878703026' lon='12.42836124546'>
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447375' action='modify' visible='true' lat='45.4643285055' lon='12.41905864859'>
+    <tag k='addr:housenumber' v='184r' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447376' action='modify' visible='true' lat='45.46580806066' lon='12.42068422498'>
+    <tag k='addr:housenumber' v='208' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447377' action='modify' visible='true' lat='45.46587770948' lon='12.42119826546'>
+    <tag k='addr:housenumber' v='212' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447378' action='modify' visible='true' lat='45.46548998086' lon='12.42183274176'>
+    <tag k='addr:housenumber' v='210' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447379' action='modify' visible='true' lat='45.46556690226' lon='12.42075059654'>
+    <tag k='addr:housenumber' v='204' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447380' action='modify' visible='true' lat='45.46575761738' lon='12.4207408134'>
+    <tag k='addr:housenumber' v='206' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447381' action='modify' visible='true' lat='45.46524364885' lon='12.41872749042'>
+    <tag k='addr:housenumber' v='192' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447382' action='modify' visible='true' lat='45.46656599892' lon='12.42076334647'>
+    <tag k='addr:housenumber' v='218' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447383' action='modify' visible='true' lat='45.46535458331' lon='12.41894098763'>
+    <tag k='addr:housenumber' v='194' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447384' action='modify' visible='true' lat='45.46613726091' lon='12.421303424'>
+    <tag k='addr:housenumber' v='214' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447385' action='modify' visible='true' lat='45.46434821521' lon='12.41886538978'>
+    <tag k='addr:housenumber' v='188' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447386' action='modify' visible='true' lat='45.46238699001' lon='12.41455525876'>
+    <tag k='addr:housenumber' v='170' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447387' action='modify' visible='true' lat='45.46232154902' lon='12.4147752425'>
+    <tag k='addr:housenumber' v='172' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447388' action='modify' visible='true' lat='45.46403400216' lon='12.41935253074'>
+    <tag k='addr:housenumber' v='184' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447389' action='modify' visible='true' lat='45.46429994823' lon='12.41892561898'>
+    <tag k='addr:housenumber' v='186' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447390' action='modify' visible='true' lat='45.46344449136' lon='12.41664142216'>
+    <tag k='addr:housenumber' v='182' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447391' action='modify' visible='true' lat='45.46446562655' lon='12.41872978653'>
+    <tag k='addr:housenumber' v='190' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447392' action='modify' visible='true' lat='45.46651053742' lon='12.42086598665'>
+    <tag k='addr:housenumber' v='216' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447393' action='modify' visible='true' lat='45.46504124763' lon='12.41992551329'>
+    <tag k='addr:housenumber' v='196' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447395' action='modify' visible='true' lat='45.46677343031' lon='12.42064025953'>
+    <tag k='addr:housenumber' v='220' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447396' action='modify' visible='true' lat='45.46553017458' lon='12.42081664186'>
+    <tag k='addr:housenumber' v='202' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447397' action='modify' visible='true' lat='45.46538574511' lon='12.41985538749'>
+    <tag k='addr:housenumber' v='198' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447398' action='modify' visible='true' lat='45.46540692257' lon='12.41988918915'>
+    <tag k='addr:housenumber' v='200' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447399' action='modify' visible='true' lat='45.46236942012' lon='12.41427621457'>
+    <tag k='addr:housenumber' v='168a' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447400' action='modify' visible='true' lat='45.46142871044' lon='12.41334805144'>
+    <tag k='addr:housenumber' v='158' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447403' action='modify' visible='true' lat='45.46233142359' lon='12.41441459482'>
+    <tag k='addr:housenumber' v='174' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447404' action='modify' visible='true' lat='45.46250105021' lon='12.41447993226'>
+    <tag k='addr:housenumber' v='176' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447405' action='modify' visible='true' lat='45.46197263947' lon='12.41501748437'>
+    <tag k='addr:housenumber' v='168' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447406' action='modify' visible='true' lat='45.46208411614' lon='12.41400886758'>
+    <tag k='addr:housenumber' v='160' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447407' action='modify' visible='true' lat='45.46254991438' lon='12.41442760191'>
+    <tag k='addr:housenumber' v='178' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447408' action='modify' visible='true' lat='45.46194550917' lon='12.41519001065'>
+    <tag k='addr:housenumber' v='166' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447409' action='modify' visible='true' lat='45.46186570508' lon='12.41491115322'>
+    <tag k='addr:housenumber' v='164' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447410' action='modify' visible='true' lat='45.45791987309' lon='12.40197156818'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447411' action='modify' visible='true' lat='45.45872559487' lon='12.40867033999'>
+    <tag k='addr:housenumber' v='106' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447412' action='modify' visible='true' lat='45.46006880081' lon='12.41203314321'>
+    <tag k='addr:housenumber' v='126' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447413' action='modify' visible='true' lat='45.46002407102' lon='12.41165184264'>
+    <tag k='addr:housenumber' v='130' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447414' action='modify' visible='true' lat='45.45868383501' lon='12.41025371918'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447415' action='modify' visible='true' lat='45.46105421902' lon='12.41301935218'>
+    <tag k='addr:housenumber' v='148' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447416' action='modify' visible='true' lat='45.45901817244' lon='12.41024318125'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447417' action='modify' visible='true' lat='45.45876826658' lon='12.41034261796'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447418' action='modify' visible='true' lat='45.45842182373' lon='12.41022198256'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447419' action='modify' visible='true' lat='45.45846490919' lon='12.41017753184'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447420' action='modify' visible='true' lat='45.46011092437' lon='12.41222489321'>
+    <tag k='addr:housenumber' v='124' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447421' action='modify' visible='true' lat='45.45964159703' lon='12.41199474365'>
+    <tag k='addr:housenumber' v='118' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447422' action='modify' visible='true' lat='45.45892329609' lon='12.4101248948'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447423' action='modify' visible='true' lat='45.45947695385' lon='12.41218121925'>
+    <tag k='addr:housenumber' v='120' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447424' action='modify' visible='true' lat='45.46108750715' lon='12.41364492498'>
+    <tag k='addr:housenumber' v='154' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447425' action='modify' visible='true' lat='45.4601661073' lon='12.41192098029'>
+    <tag k='addr:housenumber' v='134' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447426' action='modify' visible='true' lat='45.45896082756' lon='12.41062991482'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447427' action='modify' visible='true' lat='45.46118175374' lon='12.4134892271'>
+    <tag k='addr:housenumber' v='156' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447428' action='modify' visible='true' lat='45.46033471727' lon='12.41223615523'>
+    <tag k='addr:housenumber' v='136' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447429' action='modify' visible='true' lat='45.45883104068' lon='12.41043688972'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447430' action='modify' visible='true' lat='45.46090291346' lon='12.41285444264'>
+    <tag k='addr:housenumber' v='146' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447431' action='modify' visible='true' lat='45.46029483027' lon='12.41371937965'>
+    <tag k='addr:housenumber' v='140' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447432' action='modify' visible='true' lat='45.45865900224' lon='12.40979216845'>
+    <tag k='addr:housenumber' v='114' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447433' action='modify' visible='true' lat='45.46085991798' lon='12.41277838763'>
+    <tag k='addr:housenumber' v='144' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447434' action='modify' visible='true' lat='45.46006939061' lon='12.4119351756'>
+    <tag k='addr:housenumber' v='128' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447435' action='modify' visible='true' lat='45.46021306935' lon='12.41382811733'>
+    <tag k='addr:housenumber' v='138' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447436' action='modify' visible='true' lat='45.46072237035' lon='12.41399942443'>
+    <tag k='addr:housenumber' v='150' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447437' action='modify' visible='true' lat='45.45884041306' lon='12.4098857022'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447438' action='modify' visible='true' lat='45.46121086366' lon='12.41316781982'>
+    <tag k='addr:housenumber' v='152' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447439' action='modify' visible='true' lat='45.46015824193' lon='12.41173794037'>
+    <tag k='addr:housenumber' v='132' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447440' action='modify' visible='true' lat='45.45862010278' lon='12.40971455546'>
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447441' action='modify' visible='true' lat='45.45927174743' lon='12.41048575923'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447442' action='modify' visible='true' lat='45.45895723052' lon='12.4101760456'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447443' action='modify' visible='true' lat='45.46069713071' lon='12.41296244067'>
+    <tag k='addr:housenumber' v='142' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447444' action='modify' visible='true' lat='45.45986796642' lon='12.41154060325'>
+    <tag k='addr:housenumber' v='116' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447445' action='modify' visible='true' lat='45.4602026037' lon='12.41235628147'>
+    <tag k='addr:housenumber' v='122' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447446' action='modify' visible='true' lat='45.45883357841' lon='12.41009562602'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447447' action='modify' visible='true' lat='45.458866557' lon='12.41030659575'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447448' action='modify' visible='true' lat='45.4588203357' lon='12.41022912967'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Campo de San Rasmo' />
+  </node>
+  <node id='-20447449' action='modify' visible='true' lat='45.45863864452' lon='12.40910863106'>
+    <tag k='addr:housenumber' v='108' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447451' action='modify' visible='true' lat='45.45783741871' lon='12.41153858329'>
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447452' action='modify' visible='true' lat='45.45796963762' lon='12.41077087534'>
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447453' action='modify' visible='true' lat='45.45850842676' lon='12.40963803639'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447454' action='modify' visible='true' lat='45.45767588664' lon='12.41090775228'>
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447455' action='modify' visible='true' lat='45.45841776252' lon='12.41073219595'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447456' action='modify' visible='true' lat='45.45822502031' lon='12.41127756539'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447457' action='modify' visible='true' lat='45.45856387728' lon='12.41096628919'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447458' action='modify' visible='true' lat='45.45844002865' lon='12.41077669121'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447459' action='modify' visible='true' lat='45.45827363948' lon='12.4113938043'>
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447461' action='modify' visible='true' lat='45.45760264239' lon='12.41110565985'>
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447462' action='modify' visible='true' lat='45.45823607269' lon='12.41143242111'>
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447463' action='modify' visible='true' lat='45.45835877217' lon='12.41062689394'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447464' action='modify' visible='true' lat='45.45793788284' lon='12.41079240916'>
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447465' action='modify' visible='true' lat='45.45798141397' lon='12.41158624618'>
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447466' action='modify' visible='true' lat='45.45805004289' lon='12.40972060233'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447467' action='modify' visible='true' lat='45.45837108036' lon='12.41027567879'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447468' action='modify' visible='true' lat='45.45785770518' lon='12.41157985932'>
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447469' action='modify' visible='true' lat='45.4585137536' lon='12.40916584228'>
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447470' action='modify' visible='true' lat='45.45851097255' lon='12.40974966069'>
+    <tag k='addr:housenumber' v='1a' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447471' action='modify' visible='true' lat='45.45792126749' lon='12.41012793672'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447472' action='modify' visible='true' lat='45.45795893976' lon='12.40968221594'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447473' action='modify' visible='true' lat='45.45785123177' lon='12.40993143287'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447474' action='modify' visible='true' lat='45.45801691516' lon='12.41084817893'>
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447475' action='modify' visible='true' lat='45.45786370186' lon='12.41088123576'>
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447476' action='modify' visible='true' lat='45.45825600181' lon='12.40950545058'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447477' action='modify' visible='true' lat='45.45828040679' lon='12.40946090989'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447479' action='modify' visible='true' lat='45.45787932784' lon='12.41161551604'>
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447481' action='modify' visible='true' lat='45.45819550374' lon='12.4114742158'>
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447482' action='modify' visible='true' lat='45.45810529586' lon='12.40965580812'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447483' action='modify' visible='true' lat='45.45807825255' lon='12.40968539495'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447484' action='modify' visible='true' lat='45.45799361866' lon='12.4097428141'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447485' action='modify' visible='true' lat='45.45768183482' lon='12.41123451256'>
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447486' action='modify' visible='true' lat='45.45789872103' lon='12.41083960753'>
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447487' action='modify' visible='true' lat='45.45798078558' lon='12.41079910399'>
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447488' action='modify' visible='true' lat='45.45838856213' lon='12.41068461791'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447489' action='modify' visible='true' lat='45.4585262295' lon='12.41090021171'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447490' action='modify' visible='true' lat='45.45795914606' lon='12.41076780053'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447491' action='modify' visible='true' lat='45.45821823089' lon='12.41123240969'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447492' action='modify' visible='true' lat='45.45860379639' lon='12.41103676718'>
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Via dei Spironi' />
+  </node>
+  <node id='-20447493' action='modify' visible='true' lat='45.45810778016' lon='12.40957739617'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447494' action='modify' visible='true' lat='45.45810769629' lon='12.40908525709'>
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447495' action='modify' visible='true' lat='45.45795588164' lon='12.40880471425'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447496' action='modify' visible='true' lat='45.45842333472' lon='12.40802374136'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447497' action='modify' visible='true' lat='45.45807472064' lon='12.40860462497'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447498' action='modify' visible='true' lat='45.45576297709' lon='12.40422578182'>
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447499' action='modify' visible='true' lat='45.45597171215' lon='12.40367338829'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447500' action='modify' visible='true' lat='45.45725559872' lon='12.40798214384'>
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447501' action='modify' visible='true' lat='45.4568087939' lon='12.40830497611'>
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447502' action='modify' visible='true' lat='45.4562037677' lon='12.40448592399'>
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447503' action='modify' visible='true' lat='45.45857083563' lon='12.40833836893'>
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447504' action='modify' visible='true' lat='45.45862008208' lon='12.40842147729'>
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447505' action='modify' visible='true' lat='45.45731773437' lon='12.40766198913'>
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447506' action='modify' visible='true' lat='45.45722807556' lon='12.40772993248'>
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447507' action='modify' visible='true' lat='45.45580453478' lon='12.40420251822'>
+    <tag k='addr:housenumber' v='52a' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447508' action='modify' visible='true' lat='45.4563348364' lon='12.40798513852'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447509' action='modify' visible='true' lat='45.45799651181' lon='12.40864120879'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447510' action='modify' visible='true' lat='45.45727389329' lon='12.40705130547'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447511' action='modify' visible='true' lat='45.45722281624' lon='12.4075773657'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447512' action='modify' visible='true' lat='45.45787702947' lon='12.40882077079'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447513' action='modify' visible='true' lat='45.45767759026' lon='12.40905159802'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447514' action='modify' visible='true' lat='45.45834576097' lon='12.40805988575'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447515' action='modify' visible='true' lat='45.45773185701' lon='12.40783015314'>
+    <tag k='addr:housenumber' v='86' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447516' action='modify' visible='true' lat='45.45602630104' lon='12.40814123775'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447517' action='modify' visible='true' lat='45.45778308225' lon='12.40837505386'>
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447518' action='modify' visible='true' lat='45.45785884344' lon='12.40825688813'>
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447519' action='modify' visible='true' lat='45.45816917061' lon='12.40828136976'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447520' action='modify' visible='true' lat='45.45811427004' lon='12.40843574384'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447521' action='modify' visible='true' lat='45.45665364668' lon='12.40763075601'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447522' action='modify' visible='true' lat='45.45718223067' lon='12.40817575555'>
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447523' action='modify' visible='true' lat='45.45600395565' lon='12.40376806446'>
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447524' action='modify' visible='true' lat='45.45861450668' lon='12.40857231164'>
+    <tag k='addr:housenumber' v='104' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447525' action='modify' visible='true' lat='45.45624250431' lon='12.40796792171'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447526' action='modify' visible='true' lat='45.45764357193' lon='12.40861510364'>
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447527' action='modify' visible='true' lat='45.45722398266' lon='12.40709444791'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447528' action='modify' visible='true' lat='45.45789600472' lon='12.4086601184'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447529' action='modify' visible='true' lat='45.45830170101' lon='12.40822644938'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447530' action='modify' visible='true' lat='45.4567002644' lon='12.40640529294'>
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447531' action='modify' visible='true' lat='45.45620520254' lon='12.40810990943'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447532' action='modify' visible='true' lat='45.45587960718' lon='12.40428179923'>
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447533' action='modify' visible='true' lat='45.4582270857' lon='12.40825318992'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447534' action='modify' visible='true' lat='45.45748836834' lon='12.4074341024'>
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447535' action='modify' visible='true' lat='45.45817996483' lon='12.40840361084'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Via de la Passaora' />
+  </node>
+  <node id='-20447536' action='modify' visible='true' lat='45.45822936341' lon='12.40897902541'>
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447537' action='modify' visible='true' lat='45.45819005698' lon='12.40892367353'>
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447538' action='modify' visible='true' lat='45.45533353808' lon='12.40503355791'>
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447539' action='modify' visible='true' lat='45.45138836346' lon='12.40648139201'>
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447540' action='modify' visible='true' lat='45.45125375388' lon='12.40595626825'>
+    <tag k='addr:housenumber' v='55a' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447541' action='modify' visible='true' lat='45.45504345628' lon='12.41296085115'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Via de La Toreta' />
+  </node>
+  <node id='-20447542' action='modify' visible='true' lat='45.45551102743' lon='12.40494629373'>
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447543' action='modify' visible='true' lat='45.45152570847' lon='12.40857947009'>
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447545' action='modify' visible='true' lat='45.45582414601' lon='12.40834230801'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447546' action='modify' visible='true' lat='45.45163501488' lon='12.40740916199'>
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447547' action='modify' visible='true' lat='45.45563083418' lon='12.40551015883'>
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447548' action='modify' visible='true' lat='45.45144113743' lon='12.40834843968'>
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447549' action='modify' visible='true' lat='45.45496061756' lon='12.40932006943'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447550' action='modify' visible='true' lat='45.45441532606' lon='12.40945577899'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447551' action='modify' visible='true' lat='45.45540707776' lon='12.40872870883'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447552' action='modify' visible='true' lat='45.45093223127' lon='12.40725980163'>
+    <tag k='addr:housenumber' v='52' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447553' action='modify' visible='true' lat='45.45199867124' lon='12.40822728672'>
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447554' action='modify' visible='true' lat='45.45405089498' lon='12.41261871126'>
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447555' action='modify' visible='true' lat='45.45064157177' lon='12.4063373685'>
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447556' action='modify' visible='true' lat='45.45538989179' lon='12.40573039494'>
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447557' action='modify' visible='true' lat='45.45215643781' lon='12.40861729031'>
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447558' action='modify' visible='true' lat='45.45451484866' lon='12.41411328886'>
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447559' action='modify' visible='true' lat='45.45200484861' lon='12.4065647859'>
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447560' action='modify' visible='true' lat='45.45343080277' lon='12.41268185373'>
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447561' action='modify' visible='true' lat='45.45133409616' lon='12.408228456'>
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447562' action='modify' visible='true' lat='45.45135295387' lon='12.40595836299'>
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447563' action='modify' visible='true' lat='45.45497254584' lon='12.40412802558'>
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447564' action='modify' visible='true' lat='45.45436691433' lon='12.40949579667'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Strada Camarele' />
+  </node>
+  <node id='-20447565' action='modify' visible='true' lat='45.45593428088' lon='12.40491420919'>
+    <tag k='addr:housenumber' v='64m' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447566' action='modify' visible='true' lat='45.45258242154' lon='12.3943668475'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447567' action='modify' visible='true' lat='45.45543122658' lon='12.39593939614'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447568' action='modify' visible='true' lat='45.45438551939' lon='12.39924926175'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447569' action='modify' visible='true' lat='45.45330777789' lon='12.39638830328'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447570' action='modify' visible='true' lat='45.45287655822' lon='12.39418625621'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447571' action='modify' visible='true' lat='45.45425249527' lon='12.39948616549'>
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447572' action='modify' visible='true' lat='45.45402712971' lon='12.39941555135'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447573' action='modify' visible='true' lat='45.45502916549' lon='12.40126314381'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447574' action='modify' visible='true' lat='45.45525339385' lon='12.40119256854'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447575' action='modify' visible='true' lat='45.45341922744' lon='12.39305649312'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Arzere de la Vigna' />
+  </node>
+  <node id='-20447576' action='modify' visible='true' lat='45.45492196605' lon='12.40077117995'>
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447577' action='modify' visible='true' lat='45.45391506201' lon='12.39953476884'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447578' action='modify' visible='true' lat='45.45335204548' lon='12.39309531086'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Arzere de la Vigna' />
+  </node>
+  <node id='-20447579' action='modify' visible='true' lat='45.45321519449' lon='12.39345595341'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Arzere de la Vigna' />
+  </node>
+  <node id='-20447580' action='modify' visible='true' lat='45.45292576461' lon='12.3932991072'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Arzere de la Vigna' />
+  </node>
+  <node id='-20447581' action='modify' visible='true' lat='45.45508832231' lon='12.40068371527'>
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447582' action='modify' visible='true' lat='45.45497751655' lon='12.40003012229'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447583' action='modify' visible='true' lat='45.45321781603' lon='12.39321462137'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Arzere de la Vigna' />
+  </node>
+  <node id='-20447584' action='modify' visible='true' lat='45.45320733312' lon='12.39535628814'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447585' action='modify' visible='true' lat='45.45268926507' lon='12.39492886291'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447587' action='modify' visible='true' lat='45.45515216838' lon='12.40237552906'>
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447588' action='modify' visible='true' lat='45.45269442853' lon='12.39441735443'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447589' action='modify' visible='true' lat='45.45515102327' lon='12.40037484056'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447590' action='modify' visible='true' lat='45.45525919298' lon='12.39862485579'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447591' action='modify' visible='true' lat='45.4530918403' lon='12.39591784052'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447592' action='modify' visible='true' lat='45.45483020523' lon='12.40149600298'>
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447593' action='modify' visible='true' lat='45.4554104674' lon='12.40171022305'>
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447594' action='modify' visible='true' lat='45.45426951062' lon='12.39931734055'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447595' action='modify' visible='true' lat='45.45471721441' lon='12.4012227245'>
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447596' action='modify' visible='true' lat='45.45279525582' lon='12.39319122083'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447597' action='modify' visible='true' lat='45.45418925993' lon='12.39876596537'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447598' action='modify' visible='true' lat='45.45253430176' lon='12.39335175491'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447599' action='modify' visible='true' lat='45.45239957988' lon='12.39346445112'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447600' action='modify' visible='true' lat='45.45424586479' lon='12.39816008906'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447601' action='modify' visible='true' lat='45.45319251308' lon='12.39602610146'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447602' action='modify' visible='true' lat='45.45539314066' lon='12.41516095119'>
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447603' action='modify' visible='true' lat='45.45670846395' lon='12.41593206069'>
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447604' action='modify' visible='true' lat='45.45547728581' lon='12.41558953175'>
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447605' action='modify' visible='true' lat='45.45462181276' lon='12.41493126358'>
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447606' action='modify' visible='true' lat='45.45796873175' lon='12.41811719369'>
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447607' action='modify' visible='true' lat='45.45668659423' lon='12.41722393782'>
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447608' action='modify' visible='true' lat='45.45808956438' lon='12.41824228256'>
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447609' action='modify' visible='true' lat='45.45469980653' lon='12.41486574914'>
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447610' action='modify' visible='true' lat='45.44667473079' lon='12.39703580163'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447611' action='modify' visible='true' lat='45.44975284361' lon='12.40015193843'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447612' action='modify' visible='true' lat='45.44893616063' lon='12.39882458353'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447613' action='modify' visible='true' lat='45.44920250419' lon='12.39559022028'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447614' action='modify' visible='true' lat='45.44766057459' lon='12.4005453053'>
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447615' action='modify' visible='true' lat='45.44917795372' lon='12.39542650515'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447616' action='modify' visible='true' lat='45.44583863747' lon='12.39388663037'>
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447617' action='modify' visible='true' lat='45.44776655197' lon='12.39858723161'>
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447618' action='modify' visible='true' lat='45.446770924' lon='12.39957474939'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447619' action='modify' visible='true' lat='45.44812211981' lon='12.39980574676'>
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447620' action='modify' visible='true' lat='45.44790106296' lon='12.40149229662'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447621' action='modify' visible='true' lat='45.44791578234' lon='12.39956737618'>
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447622' action='modify' visible='true' lat='45.44911285413' lon='12.40315442235'>
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447623' action='modify' visible='true' lat='45.44811864548' lon='12.39955857538'>
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447624' action='modify' visible='true' lat='45.44973245684' lon='12.40441306423'>
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447625' action='modify' visible='true' lat='45.44604457769' lon='12.39839556307'>
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447626' action='modify' visible='true' lat='45.45009817624' lon='12.40576108427'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447627' action='modify' visible='true' lat='45.44691041197' lon='12.39884591648'>
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447628' action='modify' visible='true' lat='45.44984742455' lon='12.40110260856'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447629' action='modify' visible='true' lat='45.45005734592' lon='12.4007913785'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447630' action='modify' visible='true' lat='45.44871507281' lon='12.39394985079'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447631' action='modify' visible='true' lat='45.44779072936' lon='12.39917576243'>
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447632' action='modify' visible='true' lat='45.4499076381' lon='12.4010685643'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447633' action='modify' visible='true' lat='45.44842547616' lon='12.399024016'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447634' action='modify' visible='true' lat='45.44924230718' lon='12.39541704091'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447635' action='modify' visible='true' lat='45.44862845928' lon='12.39889732241'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447636' action='modify' visible='true' lat='45.44854662558' lon='12.39903955637'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447637' action='modify' visible='true' lat='45.44661710237' lon='12.39939832946'>
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447638' action='modify' visible='true' lat='45.45065204678' lon='12.40429844086'>
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447639' action='modify' visible='true' lat='45.44994668454' lon='12.39764632351'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447640' action='modify' visible='true' lat='45.44863474099' lon='12.39375515033'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447641' action='modify' visible='true' lat='45.44803176805' lon='12.40161494965'>
+    <tag k='addr:housenumber' v='40a' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447642' action='modify' visible='true' lat='45.44854252849' lon='12.4022454148'>
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447643' action='modify' visible='true' lat='45.44995415164' lon='12.40138463779'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447644' action='modify' visible='true' lat='45.44925378472' lon='12.39572516588'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Via de la Boaria Vecia' />
+  </node>
+  <node id='-20447645' action='modify' visible='true' lat='45.44875079802' lon='12.3955389623'>
+    <tag k='addr:housenumber' v='19b' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447646' action='modify' visible='true' lat='45.44836028684' lon='12.40028631757'>
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447647' action='modify' visible='true' lat='45.44629417711' lon='12.39650498137'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447648' action='modify' visible='true' lat='45.45284204546' lon='12.39253167712'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447649' action='modify' visible='true' lat='45.45420479198' lon='12.39141870073'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447650' action='modify' visible='true' lat='45.45231641028' lon='12.38749172235'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447651' action='modify' visible='true' lat='45.45476492635' lon='12.39234719128'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447652' action='modify' visible='true' lat='45.45455163861' lon='12.39208158919'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Arzere de la Vigna' />
+  </node>
+  <node id='-20447653' action='modify' visible='true' lat='45.45285988102' lon='12.39242124755'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447654' action='modify' visible='true' lat='45.45427505504' lon='12.39012774157'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20447655' action='modify' visible='true' lat='45.45222220355' lon='12.38758023085'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447656' action='modify' visible='true' lat='45.45040253075' lon='12.39021553152'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447657' action='modify' visible='true' lat='45.45063680359' lon='12.39119835572'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447658' action='modify' visible='true' lat='45.45065944616' lon='12.39095061069'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447659' action='modify' visible='true' lat='45.45410864013' lon='12.38724610954'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447660' action='modify' visible='true' lat='45.44569925065' lon='12.37998843591'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447661' action='modify' visible='true' lat='45.44567754088' lon='12.38005911517'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447662' action='modify' visible='true' lat='45.44396438855' lon='12.38342544777'>
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447663' action='modify' visible='true' lat='45.43831064314' lon='12.37417979431'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447664' action='modify' visible='true' lat='45.44530064423' lon='12.39232726134'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447665' action='modify' visible='true' lat='45.44310610868' lon='12.376841429'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447666' action='modify' visible='true' lat='45.44326365957' lon='12.37985742662'>
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447667' action='modify' visible='true' lat='45.45022241284' lon='12.38884471272'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447668' action='modify' visible='true' lat='45.44471795544' lon='12.39260659749'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447669' action='modify' visible='true' lat='45.44564065836' lon='12.38028671916'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447670' action='modify' visible='true' lat='45.44843443031' lon='12.3915708901'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447671' action='modify' visible='true' lat='45.44563508057' lon='12.38011178467'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447672' action='modify' visible='true' lat='45.44245615591' lon='12.37766098318'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447673' action='modify' visible='true' lat='45.44539890694' lon='12.39195152722'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447674' action='modify' visible='true' lat='45.44618454844' lon='12.38200162241'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447675' action='modify' visible='true' lat='45.44228158249' lon='12.37764954597'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447676' action='modify' visible='true' lat='45.44923582636' lon='12.39018882137'>
+    <tag k='addr:housenumber' v='14e' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447677' action='modify' visible='true' lat='45.43899585318' lon='12.37426259392'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447678' action='modify' visible='true' lat='45.44677936813' lon='12.39249957366'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447679' action='modify' visible='true' lat='45.44534481195' lon='12.37999000432'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447680' action='modify' visible='true' lat='45.45008144134' lon='12.39004459514'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447681' action='modify' visible='true' lat='45.44221942547' lon='12.37801006597'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447682' action='modify' visible='true' lat='45.44994664588' lon='12.38986929554'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447683' action='modify' visible='true' lat='45.44665289442' lon='12.39253085343'>
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447684' action='modify' visible='true' lat='45.4454920843' lon='12.39238852885'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447685' action='modify' visible='true' lat='45.44239508982' lon='12.37766036575'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447686' action='modify' visible='true' lat='45.44482368055' lon='12.37852556317'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447687' action='modify' visible='true' lat='45.44163189786' lon='12.37846692796'>
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447688' action='modify' visible='true' lat='45.44156155156' lon='12.37848956238'>
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447689' action='modify' visible='true' lat='45.44987923979' lon='12.38976975762'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447690' action='modify' visible='true' lat='45.43900011633' lon='12.37437011303'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447691' action='modify' visible='true' lat='45.44821648057' lon='12.3922696068'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447692' action='modify' visible='true' lat='45.44930232404' lon='12.39019265223'>
+    <tag k='addr:housenumber' v='14d' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447693' action='modify' visible='true' lat='45.44222312642' lon='12.37775992963'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447694' action='modify' visible='true' lat='45.44655780141' lon='12.39257174796'>
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447695' action='modify' visible='true' lat='45.44003910725' lon='12.37381083363'>
+    <tag k='addr:housenumber' v='12a' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447696' action='modify' visible='true' lat='45.4399500567' lon='12.37402489217'>
+    <tag k='addr:housenumber' v='12b' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447697' action='modify' visible='true' lat='45.43987718022' lon='12.37535339186'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447698' action='modify' visible='true' lat='45.44348247936' lon='12.3757133954'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447699' action='modify' visible='true' lat='45.44232840594' lon='12.37325520709'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447700' action='modify' visible='true' lat='45.43974394054' lon='12.37870283356'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447701' action='modify' visible='true' lat='45.44168411537' lon='12.37747384288'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447702' action='modify' visible='true' lat='45.44164119024' lon='12.37724405294'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447703' action='modify' visible='true' lat='45.44002158446' lon='12.37365869403'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447704' action='modify' visible='true' lat='45.4494367099' lon='12.38981718882'>
+    <tag k='addr:housenumber' v='14c' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20447705' action='modify' visible='true' lat='45.44611242546' lon='12.38089106376'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447706' action='modify' visible='true' lat='45.44368096988' lon='12.37672512439'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447707' action='modify' visible='true' lat='45.44141492282' lon='12.37850626926'>
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:place' v='Isola Le Vignole' />
+  </node>
+  <node id='-20447708' action='modify' visible='true' lat='45.43262741843' lon='12.36877248392'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola La Certosa' />
+  </node>
+  <node id='-20447709' action='modify' visible='true' lat='45.41966380487' lon='12.35568460132'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola San Servolo' />
+  </node>
+  <node id='-20447710' action='modify' visible='true' lat='45.41226964356' lon='12.36089258576'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola San Lazzaro Degli Armeni' />
+  </node>
+  <node id='-20447711' action='modify' visible='true' lat='45.41197310914' lon='12.33510479648'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola San Clemente' />
+  </node>
+  <node id='-20447712' action='modify' visible='true' lat='45.40642469192' lon='12.31948377902'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:place' v='Isola Sacca Sessola' />
+  </node>
+  <node id='-20447713' action='modify' visible='true' lat='45.40643851399' lon='12.32172292542'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Isola Sacca Sessola' />
+  </node>
+  <node id='-20447714' action='modify' visible='true' lat='45.3481049202' lon='12.30708926905'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:place' v='Ottagono Alberoni' />
+  </node>
+  <node id='-20747738' action='modify' visible='true' lat='45.47209255509' lon='12.42446264712'>
+    <tag k='addr:housenumber' v='112' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+  <node id='-20747745' action='modify' visible='true' lat='45.46838941268' lon='12.42261156409'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20747746' action='modify' visible='true' lat='45.46835900824' lon='12.4226876142'>
+    <tag k='addr:housenumber' v='3a' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20747753' action='modify' visible='true' lat='45.4683004985' lon='12.42281953346'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Punta Crevan' />
+  </node>
+  <node id='-20747755' action='modify' visible='true' lat='45.46895240762' lon='12.42277057742'>
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20747757' action='modify' visible='true' lat='45.4691243633' lon='12.42152300815'>
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20747765' action='modify' visible='true' lat='45.46859746218' lon='12.42083974523'>
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20747785' action='modify' visible='true' lat='45.46702167134' lon='12.41907065294'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20747797' action='modify' visible='true' lat='45.46297509509' lon='12.41429462981'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20747805' action='modify' visible='true' lat='45.46262704519' lon='12.41435821888'>
+    <tag k='addr:housenumber' v='180' />
+    <tag k='addr:street' v='Via de le Motte' />
+  </node>
+  <node id='-20747861' action='modify' visible='true' lat='45.4576291802' lon='12.40953861106'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Via de la Cavana' />
+  </node>
+  <node id='-20747862' action='modify' visible='true' lat='45.45789937667' lon='12.40940370242'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Via de la Cavana' />
+  </node>
+  <node id='-20747863' action='modify' visible='true' lat='45.45778335777' lon='12.40936979837'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Via de la Cavana' />
+  </node>
+  <node id='-20747864' action='modify' visible='true' lat='45.45793128237' lon='12.40920750652'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Via de la Cavana' />
+  </node>
+  <node id='-20791972' action='modify' visible='true' lat='45.47277043937' lon='12.42580600604'>
+    <tag k='addr:housenumber' v='110' />
+    <tag k='addr:street' v='Via dei Forti' />
+  </node>
+</osm>
