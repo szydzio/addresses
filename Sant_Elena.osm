@@ -1,0 +1,1971 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' generator='JOSM'>
+  <node id='-26773458' action='modify' visible='true' lat='45.43010267531' lon='12.36053567838'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773459' action='modify' visible='true' lat='45.42857404468' lon='12.36256733024'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773460' action='modify' visible='true' lat='45.42873104095' lon='12.36238237396'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773461' action='modify' visible='true' lat='45.42896916207' lon='12.3623859104'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773462' action='modify' visible='true' lat='45.42948453608' lon='12.36257403804'>
+    <tag k='addr:housenumber' v='1a' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773463' action='modify' visible='true' lat='45.42899810856' lon='12.36259137776'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773464' action='modify' visible='true' lat='45.42878222098' lon='12.36256622351'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773465' action='modify' visible='true' lat='45.42926977716' lon='12.36239159887'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Doberdò' />
+  </node>
+  <node id='-26773466' action='modify' visible='true' lat='45.42886724161' lon='12.36266123216'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773467' action='modify' visible='true' lat='45.42937519974' lon='12.36236694418'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Doberdò' />
+  </node>
+  <node id='-26773468' action='modify' visible='true' lat='45.42909487634' lon='12.3626367713'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773469' action='modify' visible='true' lat='45.42882828623' lon='12.36268288822'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773470' action='modify' visible='true' lat='45.42890736356' lon='12.36241482768'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773471' action='modify' visible='true' lat='45.42892017831' lon='12.36266861123'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773472' action='modify' visible='true' lat='45.42932985866' lon='12.36260563622'>
+    <tag k='addr:housenumber' v='1b' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773473' action='modify' visible='true' lat='45.42919926262' lon='12.36054810182'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Nervesa' />
+  </node>
+  <node id='-26773474' action='modify' visible='true' lat='45.42965957057' lon='12.3606882476'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773475' action='modify' visible='true' lat='45.42983744064' lon='12.360775699'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773476' action='modify' visible='true' lat='45.42934761033' lon='12.36090505779'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Montello' />
+  </node>
+  <node id='-26773477' action='modify' visible='true' lat='45.42931174851' lon='12.36076729695'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Nervesa' />
+  </node>
+  <node id='-26773478' action='modify' visible='true' lat='45.42917816874' lon='12.36080911389'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Nervesa' />
+  </node>
+  <node id='-26773479' action='modify' visible='true' lat='45.42938511944' lon='12.36098322062'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Montello' />
+  </node>
+  <node id='-26773480' action='modify' visible='true' lat='45.42915515237' lon='12.36050120605'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773481' action='modify' visible='true' lat='45.42975986994' lon='12.36156674306'>
+    <tag k='addr:housenumber' v='13a' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773482' action='modify' visible='true' lat='45.42956954853' lon='12.36114857433'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Asiago' />
+  </node>
+  <node id='-26773483' action='modify' visible='true' lat='45.42971383788' lon='12.36132004468'>
+    <tag k='addr:housenumber' v='3b' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773484' action='modify' visible='true' lat='45.42980007397' lon='12.36124596896'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773485' action='modify' visible='true' lat='45.42953420799' lon='12.36160148473'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Prima de l&apos;Arco' />
+  </node>
+  <node id='-26773486' action='modify' visible='true' lat='45.42978747249' lon='12.36152355423'>
+    <tag k='addr:housenumber' v='12a' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773487' action='modify' visible='true' lat='45.42956362433' lon='12.36156662753'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773488' action='modify' visible='true' lat='45.4296220827' lon='12.36156639387'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773489' action='modify' visible='true' lat='45.42972195468' lon='12.36113868918'>
+    <tag k='addr:housenumber' v='3a' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773490' action='modify' visible='true' lat='45.42958684915' lon='12.36193608479'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773491' action='modify' visible='true' lat='45.42975808931' lon='12.36170209509'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773492' action='modify' visible='true' lat='45.42961467456' lon='12.36177280338'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773493' action='modify' visible='true' lat='45.42959147265' lon='12.36201001278'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773494' action='modify' visible='true' lat='45.42976348354' lon='12.36165850785'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773495' action='modify' visible='true' lat='45.42949418209' lon='12.36187394681'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773496' action='modify' visible='true' lat='45.42959229708' lon='12.36210449142'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773497' action='modify' visible='true' lat='45.42952431806' lon='12.36233424171'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Doberdò' />
+  </node>
+  <node id='-26773498' action='modify' visible='true' lat='45.42949558804' lon='12.36172759364'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Prima de l&apos;Arco' />
+  </node>
+  <node id='-26773499' action='modify' visible='true' lat='45.42952599956' lon='12.36179782194'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Prima de l&apos;Arco' />
+  </node>
+  <node id='-26773500' action='modify' visible='true' lat='45.42958192013' lon='12.36224943396'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773501' action='modify' visible='true' lat='45.42969589524' lon='12.36187071736'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773502' action='modify' visible='true' lat='45.42966264476' lon='12.3623590558'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773503' action='modify' visible='true' lat='45.42937254198' lon='12.36198174762'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Campiello del Pozzo' />
+  </node>
+  <node id='-26773504' action='modify' visible='true' lat='45.42933059488' lon='12.3619229663'>
+    <tag k='addr:housenumber' v='5a' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773505' action='modify' visible='true' lat='45.42926475661' lon='12.36186552643'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773506' action='modify' visible='true' lat='45.42914673083' lon='12.36205582199'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773507' action='modify' visible='true' lat='45.42948957167' lon='12.36193091845'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773508' action='modify' visible='true' lat='45.42944438429' lon='12.36198672969'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Campiello del Pozzo' />
+  </node>
+  <node id='-26773509' action='modify' visible='true' lat='45.4291392857' lon='12.36232791805'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773510' action='modify' visible='true' lat='45.4292978058' lon='12.36223311844'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Storta' />
+  </node>
+  <node id='-26773511' action='modify' visible='true' lat='45.42935711814' lon='12.36214765349'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Sotoportego del Pozzo' />
+  </node>
+  <node id='-26773512' action='modify' visible='true' lat='45.42943820388' lon='12.36187215456'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773513' action='modify' visible='true' lat='45.42944309631' lon='12.36206732826'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Campiello del Pozzo' />
+  </node>
+  <node id='-26773514' action='modify' visible='true' lat='45.4293037718' lon='12.3618073878'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Seconda de l&apos;Arco' />
+  </node>
+  <node id='-26773515' action='modify' visible='true' lat='45.42915272524' lon='12.36177446009'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773516' action='modify' visible='true' lat='45.4292667897' lon='12.3619198087'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773517' action='modify' visible='true' lat='45.4293053085' lon='12.36174474041'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Seconda de l&apos;Arco' />
+  </node>
+  <node id='-26773518' action='modify' visible='true' lat='45.42919727841' lon='12.36199467312'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773519' action='modify' visible='true' lat='45.4292625262' lon='12.36219001888'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Storta' />
+  </node>
+  <node id='-26773520' action='modify' visible='true' lat='45.42938943057' lon='12.36168949694'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Seconda de l&apos;Arco' />
+  </node>
+  <node id='-26773521' action='modify' visible='true' lat='45.42937549577' lon='12.36186966173'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773522' action='modify' visible='true' lat='45.42944195456' lon='12.36218039033'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle del Pozzo' />
+  </node>
+  <node id='-26773523' action='modify' visible='true' lat='45.42935759257' lon='12.36218771115'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Storta' />
+  </node>
+  <node id='-26773524' action='modify' visible='true' lat='45.42936438772' lon='12.36192460272'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Forner' />
+  </node>
+  <node id='-26773525' action='modify' visible='true' lat='45.42919797353' lon='12.36196280742'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773526' action='modify' visible='true' lat='45.42926595372' lon='12.36229697579'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Storta' />
+  </node>
+  <node id='-26773527' action='modify' visible='true' lat='45.42932582784' lon='12.36214391514'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Sotoportego del Pozzo' />
+  </node>
+  <node id='-26773528' action='modify' visible='true' lat='45.42934395927' lon='12.36161108162'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Seconda de l&apos;Arco' />
+  </node>
+  <node id='-26773529' action='modify' visible='true' lat='45.42918152957' lon='12.3611239088'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Sotoportego del Montello' />
+  </node>
+  <node id='-26773530' action='modify' visible='true' lat='45.42922453423' lon='12.36109378403'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Montello' />
+  </node>
+  <node id='-26773531' action='modify' visible='true' lat='45.42941042001' lon='12.36149611047'>
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773532' action='modify' visible='true' lat='45.42931010475' lon='12.36159852303'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Seconda de l&apos;Arco' />
+  </node>
+  <node id='-26773533' action='modify' visible='true' lat='45.42921512752' lon='12.36163833069'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773534' action='modify' visible='true' lat='45.4292796131' lon='12.36156785579'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773535' action='modify' visible='true' lat='45.42919232213' lon='12.36132930732'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Corte del Pasubio' />
+  </node>
+  <node id='-26773536' action='modify' visible='true' lat='45.42948404059' lon='12.36148758586'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773537' action='modify' visible='true' lat='45.42921906859' lon='12.36124162973'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Corte del Pasubio' />
+  </node>
+  <node id='-26773538' action='modify' visible='true' lat='45.42943763622' lon='12.36156606048'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773539' action='modify' visible='true' lat='45.42921656218' lon='12.36158028785'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle de la Congregazione' />
+  </node>
+  <node id='-26773540' action='modify' visible='true' lat='45.42929698834' lon='12.36156792194'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773541' action='modify' visible='true' lat='45.4293378397' lon='12.36137659909'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773542' action='modify' visible='true' lat='45.42913154625' lon='12.36156774143'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773543' action='modify' visible='true' lat='45.42930748291' lon='12.36167113223'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Seconda de l&apos;Arco' />
+  </node>
+  <node id='-26773544' action='modify' visible='true' lat='45.42848329206' lon='12.36198479312'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Campiello Monte San Michele' />
+  </node>
+  <node id='-26773545' action='modify' visible='true' lat='45.42851095865' lon='12.36156825993'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773546' action='modify' visible='true' lat='45.42890476005' lon='12.36236875009'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773547' action='modify' visible='true' lat='45.42910535239' lon='12.36156775922'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773548' action='modify' visible='true' lat='45.42892338328' lon='12.36237376308'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773549' action='modify' visible='true' lat='45.42879790389' lon='12.36199347977'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773550' action='modify' visible='true' lat='45.42907083468' lon='12.36187509543'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle de l&apos;Asilo' />
+  </node>
+  <node id='-26773551' action='modify' visible='true' lat='45.42907029842' lon='12.36107082389'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Corte del Pasubio' />
+  </node>
+  <node id='-26773552' action='modify' visible='true' lat='45.42852232617' lon='12.361870836'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773553' action='modify' visible='true' lat='45.42885973155' lon='12.36132488458'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773554' action='modify' visible='true' lat='45.4287948224' lon='12.36208515839'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773555' action='modify' visible='true' lat='45.42882429908' lon='12.36234370247'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773556' action='modify' visible='true' lat='45.42873094655' lon='12.36115732688'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773557' action='modify' visible='true' lat='45.42879793281' lon='12.36211658858'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773558' action='modify' visible='true' lat='45.42892576193' lon='12.36156686347'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773559' action='modify' visible='true' lat='45.42908008934' lon='12.36135659893'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Ramo Monte Cengio' />
+  </node>
+  <node id='-26773560' action='modify' visible='true' lat='45.42900138935' lon='12.36196242121'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle de l&apos;Asilo' />
+  </node>
+  <node id='-26773561' action='modify' visible='true' lat='45.42887477974' lon='12.36156735059'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773562' action='modify' visible='true' lat='45.42879328181' lon='12.36228222578'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773563' action='modify' visible='true' lat='45.428528464' lon='12.36106033057'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773564' action='modify' visible='true' lat='45.42905004205' lon='12.36156790998'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773565' action='modify' visible='true' lat='45.42879539962' lon='12.36221028221'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773566' action='modify' visible='true' lat='45.42889876286' lon='12.36156711631'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773567' action='modify' visible='true' lat='45.42843897108' lon='12.36143147264'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773568' action='modify' visible='true' lat='45.42879690753' lon='12.36202241833'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773569' action='modify' visible='true' lat='45.42844327713' lon='12.36103841781'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773570' action='modify' visible='true' lat='45.42901993374' lon='12.36156796264'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773571' action='modify' visible='true' lat='45.42870368747' lon='12.36178641646'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773572' action='modify' visible='true' lat='45.42897902762' lon='12.36106958478'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Corte del Pasubio' />
+  </node>
+  <node id='-26773573' action='modify' visible='true' lat='45.42881899126' lon='12.36165686246'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773574' action='modify' visible='true' lat='45.42877889282' lon='12.3613508951'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773575' action='modify' visible='true' lat='45.42902380672' lon='12.36196258989'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle de l&apos;Asilo' />
+  </node>
+  <node id='-26773576' action='modify' visible='true' lat='45.42886318614' lon='12.36234977919'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773577' action='modify' visible='true' lat='45.42907817099' lon='12.36156787675'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Calle Monte Cengio' />
+  </node>
+  <node id='-26773578' action='modify' visible='true' lat='45.42859901986' lon='12.36187329737'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773579' action='modify' visible='true' lat='45.42877048157' lon='12.36157602189'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773580' action='modify' visible='true' lat='45.42882360589' lon='12.36157348307'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773581' action='modify' visible='true' lat='45.42873403558' lon='12.36109431855'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Pasubio' />
+  </node>
+  <node id='-26773582' action='modify' visible='true' lat='45.42861068392' lon='12.36135374158'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773583' action='modify' visible='true' lat='45.42892559305' lon='12.36188098898'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle de l&apos;Asilo' />
+  </node>
+  <node id='-26773584' action='modify' visible='true' lat='45.42895290172' lon='12.36238157541'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle del Laboratorio' />
+  </node>
+  <node id='-26773585' action='modify' visible='true' lat='45.42906413833' lon='12.36196281824'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle de l&apos;Asilo' />
+  </node>
+  <node id='-26773586' action='modify' visible='true' lat='45.42845285696' lon='12.36037215511'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773587' action='modify' visible='true' lat='45.42853059402' lon='12.36096286597'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773588' action='modify' visible='true' lat='45.42894972375' lon='12.36073147097'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Corte del Montello' />
+  </node>
+  <node id='-26773589' action='modify' visible='true' lat='45.42842731451' lon='12.36099721624'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773590' action='modify' visible='true' lat='45.42854216902' lon='12.3609604428'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773591' action='modify' visible='true' lat='45.42856977166' lon='12.3609561766'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773592' action='modify' visible='true' lat='45.42892671007' lon='12.36044791942'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773593' action='modify' visible='true' lat='45.42865661406' lon='12.36096328836'>
+    <tag k='addr:housenumber' v='4a' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773594' action='modify' visible='true' lat='45.4290851491' lon='12.360488816'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773595' action='modify' visible='true' lat='45.42895650809' lon='12.36060219062'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Corte del Montello' />
+  </node>
+  <node id='-26773596' action='modify' visible='true' lat='45.4288005256' lon='12.36086506125'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle del Montello' />
+  </node>
+  <node id='-26773597' action='modify' visible='true' lat='45.42873097668' lon='12.36046561647'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773598' action='modify' visible='true' lat='45.42878470643' lon='12.36065120916'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773599' action='modify' visible='true' lat='45.4291190439' lon='12.36049484116'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773600' action='modify' visible='true' lat='45.42859212102' lon='12.36095797988'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773601' action='modify' visible='true' lat='45.4284498426' lon='12.36032309241'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773602' action='modify' visible='true' lat='45.42910232577' lon='12.36071877917'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Corte del Montello' />
+  </node>
+  <node id='-26773603' action='modify' visible='true' lat='45.42845585409' lon='12.36034273325'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773604' action='modify' visible='true' lat='45.42906665027' lon='12.36062924533'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Corte del Montello' />
+  </node>
+  <node id='-26773605' action='modify' visible='true' lat='45.42911188476' lon='12.36100228512'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Montello' />
+  </node>
+  <node id='-26773606' action='modify' visible='true' lat='45.42862628043' lon='12.36096083925'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773607' action='modify' visible='true' lat='45.42873995476' lon='12.36096668385'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle del Montello' />
+  </node>
+  <node id='-26773608' action='modify' visible='true' lat='45.42804078464' lon='12.36022264288'>
+    <tag k='addr:housenumber' v='1a' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773609' action='modify' visible='true' lat='45.4278447644' lon='12.36090946755'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773610' action='modify' visible='true' lat='45.42823022668' lon='12.36091374752'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773611' action='modify' visible='true' lat='45.4280145751' lon='12.36034327822'>
+    <tag k='addr:housenumber' v='1b' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773612' action='modify' visible='true' lat='45.42794625301' lon='12.36020570706'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773613' action='modify' visible='true' lat='45.42838078615' lon='12.36063552495'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773614' action='modify' visible='true' lat='45.42785794534' lon='12.36018413273'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773615' action='modify' visible='true' lat='45.42797594064' lon='12.36022326939'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773616' action='modify' visible='true' lat='45.42840164811' lon='12.36093818774'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773617' action='modify' visible='true' lat='45.428415274' lon='12.36096953715'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Campo Monte Grappa' />
+  </node>
+  <node id='-26773618' action='modify' visible='true' lat='45.42793448396' lon='12.36101306157'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773619' action='modify' visible='true' lat='45.4283840705' lon='12.36091800593'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773620' action='modify' visible='true' lat='45.42804742572' lon='12.36087626274'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773621' action='modify' visible='true' lat='45.42792026805' lon='12.36019933488'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773622' action='modify' visible='true' lat='45.42819686187' lon='12.3609368373'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773623' action='modify' visible='true' lat='45.42805080341' lon='12.36059193249'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773624' action='modify' visible='true' lat='45.42799084438' lon='12.36069804227'>
+    <tag k='addr:housenumber' v='3a' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773625' action='modify' visible='true' lat='45.42796476472' lon='12.3602102125'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773626' action='modify' visible='true' lat='45.42812626177' lon='12.36024030199'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773627' action='modify' visible='true' lat='45.42794177007' lon='12.3604037692'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773628' action='modify' visible='true' lat='45.42824260399' lon='12.36027331682'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773629' action='modify' visible='true' lat='45.42783703375' lon='12.36017903618'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773630' action='modify' visible='true' lat='45.42789609981' lon='12.36019171427'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773631' action='modify' visible='true' lat='45.42840689639' lon='12.3603129515'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773632' action='modify' visible='true' lat='45.42835107952' lon='12.36094673448'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773633' action='modify' visible='true' lat='45.42833126413' lon='12.36029463012'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773634' action='modify' visible='true' lat='45.42782432467' lon='12.3607170596'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Generale Antonio Cantore' />
+  </node>
+  <node id='-26773635' action='modify' visible='true' lat='45.42821485881' lon='12.3609243827'>
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773636' action='modify' visible='true' lat='45.42794067218' lon='12.36085557085'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773637' action='modify' visible='true' lat='45.42817187671' lon='12.36025102076'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773638' action='modify' visible='true' lat='45.428277501' lon='12.36028163187'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773639' action='modify' visible='true' lat='45.42797047681' lon='12.36025202748'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773640' action='modify' visible='true' lat='45.42808088562' lon='12.36023006488'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773641' action='modify' visible='true' lat='45.42776591927' lon='12.36050035848'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773642' action='modify' visible='true' lat='45.42802695091' lon='12.36027775293'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Carso' />
+  </node>
+  <node id='-26773643' action='modify' visible='true' lat='45.42780259167' lon='12.36017065658'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773644' action='modify' visible='true' lat='45.42842342' lon='12.36131620944'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773645' action='modify' visible='true' lat='45.42792586052' lon='12.36161660779'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773646' action='modify' visible='true' lat='45.42830030111' lon='12.36107929692'>
+    <tag k='addr:housenumber' v='5a' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773647' action='modify' visible='true' lat='45.42794302673' lon='12.36134404964'>
+    <tag k='addr:housenumber' v='11a' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773648' action='modify' visible='true' lat='45.42789186834' lon='12.36121059691'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773649' action='modify' visible='true' lat='45.42811059484' lon='12.36101262222'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773650' action='modify' visible='true' lat='45.42843273776' lon='12.36108992563'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773651' action='modify' visible='true' lat='45.42790150975' lon='12.36178264948'>
+    <tag k='addr:housenumber' v='1c' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773652' action='modify' visible='true' lat='45.42782325702' lon='12.36161891339'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773653' action='modify' visible='true' lat='45.42780555701' lon='12.36122616337'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773654' action='modify' visible='true' lat='45.42783123944' lon='12.36153442893'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773655' action='modify' visible='true' lat='45.42801628284' lon='12.36128237136'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773656' action='modify' visible='true' lat='45.42788953573' lon='12.36147468434'>
+    <tag k='addr:housenumber' v='11b' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773657' action='modify' visible='true' lat='45.42842777132' lon='12.36111530341'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773658' action='modify' visible='true' lat='45.42787214283' lon='12.36182360771'>
+    <tag k='addr:housenumber' v='1b' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773659' action='modify' visible='true' lat='45.42841764686' lon='12.36120861262'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle del Montesanto' />
+  </node>
+  <node id='-26773660' action='modify' visible='true' lat='45.42782809012' lon='12.36181038798'>
+    <tag k='addr:housenumber' v='1a' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773661' action='modify' visible='true' lat='45.42831747381' lon='12.361031289'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773662' action='modify' visible='true' lat='45.42811141547' lon='12.36115894504'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773663' action='modify' visible='true' lat='45.42831168918' lon='12.36097633428'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Monte Sabotino' />
+  </node>
+  <node id='-26773664' action='modify' visible='true' lat='45.42747907682' lon='12.36177805581'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773665' action='modify' visible='true' lat='45.42720088043' lon='12.36158955363'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773666' action='modify' visible='true' lat='45.42710256161' lon='12.36139183243'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773667' action='modify' visible='true' lat='45.4272297079' lon='12.36116030015'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773668' action='modify' visible='true' lat='45.42765952305' lon='12.36183897338'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773669' action='modify' visible='true' lat='45.42718762492' lon='12.3612711779'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773670' action='modify' visible='true' lat='45.42717951184' lon='12.36129207323'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773671' action='modify' visible='true' lat='45.42729470972' lon='12.36177672969'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773672' action='modify' visible='true' lat='45.42725071962' lon='12.36110389822'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773673' action='modify' visible='true' lat='45.42755317348' lon='12.36233543937'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773674' action='modify' visible='true' lat='45.42711600888' lon='12.361519939'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773675' action='modify' visible='true' lat='45.42726451189' lon='12.36105775118'>
+    <tag k='addr:housenumber' v='5b' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773676' action='modify' visible='true' lat='45.42715543013' lon='12.36135423713'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773677' action='modify' visible='true' lat='45.4273138789' lon='12.3616842467'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773678' action='modify' visible='true' lat='45.42712479247' lon='12.36221796584'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773679' action='modify' visible='true' lat='45.42715252373' lon='12.36154974703'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773680' action='modify' visible='true' lat='45.42727946822' lon='12.36165395626'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773681' action='modify' visible='true' lat='45.42753884331' lon='12.36214285262'>
+    <tag k='addr:housenumber' v='1a' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773682' action='modify' visible='true' lat='45.42712084686' lon='12.36140636812'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773683' action='modify' visible='true' lat='45.42731929005' lon='12.36171083477'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773684' action='modify' visible='true' lat='45.42748815026' lon='12.36223375307'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773685' action='modify' visible='true' lat='45.42720536377' lon='12.36199753419'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773686' action='modify' visible='true' lat='45.42769670809' lon='12.36158429924'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773687' action='modify' visible='true' lat='45.42722557761' lon='12.36190160187'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773688' action='modify' visible='true' lat='45.42728587905' lon='12.36179970377'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773689' action='modify' visible='true' lat='45.42733378289' lon='12.36195302134'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773690' action='modify' visible='true' lat='45.42757329261' lon='12.36118666412'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773691' action='modify' visible='true' lat='45.42721452354' lon='12.36120075805'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773692' action='modify' visible='true' lat='45.42723789938' lon='12.36162005707'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773693' action='modify' visible='true' lat='45.42728198519' lon='12.36225461743'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773694' action='modify' visible='true' lat='45.42723781033' lon='12.36113826575'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773695' action='modify' visible='true' lat='45.42709285907' lon='12.362294125'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773696' action='modify' visible='true' lat='45.42727506392' lon='12.36102876475'>
+    <tag k='addr:housenumber' v='5a' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773697' action='modify' visible='true' lat='45.42746771383' lon='12.36052020816'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773698' action='modify' visible='true' lat='45.42739393793' lon='12.36093189271'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773699' action='modify' visible='true' lat='45.42727886324' lon='12.36029528429'>
+    <tag k='addr:housenumber' v='31' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773700' action='modify' visible='true' lat='45.42735784273' lon='12.36036129259'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773701' action='modify' visible='true' lat='45.42738271521' lon='12.36054734618'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773702' action='modify' visible='true' lat='45.42731954763' lon='12.36096361033'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773703' action='modify' visible='true' lat='45.42745755755' lon='12.36044071932'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773704' action='modify' visible='true' lat='45.42749361004' lon='12.36022625354'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773705' action='modify' visible='true' lat='45.42770765791' lon='12.36085015269'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Generale Antonio Cantore' />
+  </node>
+  <node id='-26773706' action='modify' visible='true' lat='45.42734976038' lon='12.3603017795'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773707' action='modify' visible='true' lat='45.42730029567' lon='12.36097848842'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773708' action='modify' visible='true' lat='45.42770070103' lon='12.36016176111'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773709' action='modify' visible='true' lat='45.42743355765' lon='12.36026319037'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773710' action='modify' visible='true' lat='45.42743183112' lon='12.36091043417'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773711' action='modify' visible='true' lat='45.42753697654' lon='12.36021192791'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773712' action='modify' visible='true' lat='45.42745024384' lon='12.36038915983'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773713' action='modify' visible='true' lat='45.42736440546' lon='12.3609491173'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Campo Marco Stringari' />
+  </node>
+  <node id='-26773714' action='modify' visible='true' lat='45.42775458564' lon='12.36074489166'>
+    <tag k='addr:housenumber' v='2a' />
+    <tag k='addr:street' v='Calle Generale Antonio Cantore' />
+  </node>
+  <node id='-26773715' action='modify' visible='true' lat='45.42742671184' lon='12.36087634735'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773716' action='modify' visible='true' lat='45.42743837064' lon='12.36029971594'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773717' action='modify' visible='true' lat='45.42776582718' lon='12.36016324756'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773718' action='modify' visible='true' lat='45.42740988412' lon='12.36079086625'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773719' action='modify' visible='true' lat='45.42744353819' lon='12.36033859466'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773720' action='modify' visible='true' lat='45.42735657909' lon='12.36069070924'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773721' action='modify' visible='true' lat='45.42733252897' lon='12.36028039716'>
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773722' action='modify' visible='true' lat='45.42739108598' lon='12.3606782695'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773723' action='modify' visible='true' lat='45.42735383176' lon='12.36080210568'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773724' action='modify' visible='true' lat='45.42726225593' lon='12.36083940778'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773725' action='modify' visible='true' lat='45.42711030956' lon='12.36034283832'>
+    <tag k='addr:housenumber' v='33' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773726' action='modify' visible='true' lat='45.42757352752' lon='12.36020017461'>
+    <tag k='addr:housenumber' v='24' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773727' action='modify' visible='true' lat='45.42738966095' lon='12.36060179589'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773728' action='modify' visible='true' lat='45.42721892282' lon='12.36031103295'>
+    <tag k='addr:housenumber' v='32' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773729' action='modify' visible='true' lat='45.42755511705' lon='12.36020617037'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773730' action='modify' visible='true' lat='45.42747047099' lon='12.36023400897'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773731' action='modify' visible='true' lat='45.42751066854' lon='12.36022058095'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773732' action='modify' visible='true' lat='45.42759951641' lon='12.36019157153'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773733' action='modify' visible='true' lat='45.42728261334' lon='12.36083433198'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773734' action='modify' visible='true' lat='45.42732202039' lon='12.36070680666'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773735' action='modify' visible='true' lat='45.42739514864' lon='12.36064474957'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773736' action='modify' visible='true' lat='45.42741828716' lon='12.36081622299'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Calle Generale Antonio Chinotto' />
+  </node>
+  <node id='-26773737' action='modify' visible='true' lat='45.42743988105' lon='12.36520218492'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Campo de la Chiesa' />
+  </node>
+  <node id='-26773738' action='modify' visible='true' lat='45.42713923489' lon='12.36282964118'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773739' action='modify' visible='true' lat='45.42714179708' lon='12.36242772292'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773740' action='modify' visible='true' lat='45.42754889102' lon='12.36249869216'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773741' action='modify' visible='true' lat='45.42741531848' lon='12.36291582799'>
+    <tag k='addr:housenumber' v='18a' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773742' action='modify' visible='true' lat='45.42754160478' lon='12.36260999011'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773743' action='modify' visible='true' lat='45.42774485059' lon='12.36285118341'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773744' action='modify' visible='true' lat='45.42742844564' lon='12.36241127462'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773745' action='modify' visible='true' lat='45.42765848551' lon='12.36337610209'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Fondamenta Sant&apos;Elena' />
+  </node>
+  <node id='-26773746' action='modify' visible='true' lat='45.42765559446' lon='12.36286833973'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773747' action='modify' visible='true' lat='45.42746861288' lon='12.36260390059'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773748' action='modify' visible='true' lat='45.42711904015' lon='12.36263167258'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773749' action='modify' visible='true' lat='45.42749129342' lon='12.36246280821'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Ramo Coni Zugna' />
+  </node>
+  <node id='-26773750' action='modify' visible='true' lat='45.42822451982' lon='12.36271853484'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773751' action='modify' visible='true' lat='45.42585676052' lon='12.36264128469'>
+    <tag k='addr:housenumber' v='80' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773752' action='modify' visible='true' lat='45.42702981626' lon='12.36290478163'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773753' action='modify' visible='true' lat='45.42669754878' lon='12.3624094138'>
+    <tag k='addr:housenumber' v='15a' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773754' action='modify' visible='true' lat='45.42702183664' lon='12.36272661818'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Calle Coni Zugna' />
+  </node>
+  <node id='-26773755' action='modify' visible='true' lat='45.42612091021' lon='12.36318240737'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773756' action='modify' visible='true' lat='45.42578912477' lon='12.36279726461'>
+    <tag k='addr:housenumber' v='83' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773757' action='modify' visible='true' lat='45.42633546651' lon='12.362465956'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773758' action='modify' visible='true' lat='45.4268330963' lon='12.36303806584'>
+    <tag k='addr:housenumber' v='20' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773759' action='modify' visible='true' lat='45.42596274834' lon='12.362388687'>
+    <tag k='addr:housenumber' v='72' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773760' action='modify' visible='true' lat='45.42597132114' lon='12.36236699875'>
+    <tag k='addr:housenumber' v='71' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773761' action='modify' visible='true' lat='45.42642784058' lon='12.36245322363'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773762' action='modify' visible='true' lat='45.42579256488' lon='12.36325551156'>
+    <tag k='addr:housenumber' v='27' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773763' action='modify' visible='true' lat='45.42583676795' lon='12.36268826351'>
+    <tag k='addr:housenumber' v='81' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773764' action='modify' visible='true' lat='45.42587364066' lon='12.36323875879'>
+    <tag k='addr:housenumber' v='26' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773765' action='modify' visible='true' lat='45.42595939207' lon='12.36240172866'>
+    <tag k='addr:housenumber' v='73' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773766' action='modify' visible='true' lat='45.42589436822' lon='12.36254704586'>
+    <tag k='addr:housenumber' v='79' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773767' action='modify' visible='true' lat='45.42580981295' lon='12.36274829138'>
+    <tag k='addr:housenumber' v='82' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773768' action='modify' visible='true' lat='45.42572294498' lon='12.36326558132'>
+    <tag k='addr:housenumber' v='28' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773769' action='modify' visible='true' lat='45.42572170048' lon='12.36295891006'>
+    <tag k='addr:housenumber' v='93' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773770' action='modify' visible='true' lat='45.42670459975' lon='12.36298353558'>
+    <tag k='addr:housenumber' v='20a' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773771' action='modify' visible='true' lat='45.42591354957' lon='12.36250193651'>
+    <tag k='addr:housenumber' v='78' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773772' action='modify' visible='true' lat='45.42588833441' lon='12.36323572916'>
+    <tag k='addr:housenumber' v='25' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773773' action='modify' visible='true' lat='45.42646743268' lon='12.36311278426'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773774' action='modify' visible='true' lat='45.42602565872' lon='12.36246776938'>
+    <tag k='addr:housenumber' v='74' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773775' action='modify' visible='true' lat='45.42695470184' lon='12.36047841775'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773776' action='modify' visible='true' lat='45.42673225663' lon='12.36056938897'>
+    <tag k='addr:housenumber' v='42' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773777' action='modify' visible='true' lat='45.42705982593' lon='12.36071807053'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773778' action='modify' visible='true' lat='45.42660772376' lon='12.36090452763'>
+    <tag k='addr:housenumber' v='45' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773779' action='modify' visible='true' lat='45.42705280004' lon='12.36066918234'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773780' action='modify' visible='true' lat='45.42694425026' lon='12.36040342702'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773781' action='modify' visible='true' lat='45.42701078464' lon='12.36037610064'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773782' action='modify' visible='true' lat='45.42702159831' lon='12.36043555368'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773783' action='modify' visible='true' lat='45.42695251395' lon='12.36095503629'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773784' action='modify' visible='true' lat='45.4270870869' lon='12.36034882451'>
+    <tag k='addr:housenumber' v='34' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773785' action='modify' visible='true' lat='45.42703144189' lon='12.36051996706'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773786' action='modify' visible='true' lat='45.42703845048' lon='12.36056905857'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773787' action='modify' visible='true' lat='45.42664546385' lon='12.3607973568'>
+    <tag k='addr:housenumber' v='43' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773788' action='modify' visible='true' lat='45.42687769884' lon='12.36041217'>
+    <tag k='addr:housenumber' v='38' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773789' action='modify' visible='true' lat='45.4269645439' lon='12.3605569674'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773790' action='modify' visible='true' lat='45.42673972724' lon='12.36054961585'>
+    <tag k='addr:housenumber' v='41' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773791' action='modify' visible='true' lat='45.42690046383' lon='12.36040598521'>
+    <tag k='addr:housenumber' v='37' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773792' action='modify' visible='true' lat='45.42692515215' lon='12.36039927366'>
+    <tag k='addr:housenumber' v='36' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773793' action='modify' visible='true' lat='45.42705586012' lon='12.36035687597'>
+    <tag k='addr:housenumber' v='35' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773794' action='modify' visible='true' lat='45.42694450791' lon='12.3609744621'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773795' action='modify' visible='true' lat='45.42663534555' lon='12.36083055908'>
+    <tag k='addr:housenumber' v='44' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773796' action='modify' visible='true' lat='45.42684494046' lon='12.3611790988'>
+    <tag k='addr:housenumber' v='7a' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773797' action='modify' visible='true' lat='45.42691192012' lon='12.36106149806'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773798' action='modify' visible='true' lat='45.42695040975' lon='12.36152481221'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773799' action='modify' visible='true' lat='45.42694956492' lon='12.36112391041'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773800' action='modify' visible='true' lat='45.42703312431' lon='12.3613367961'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773801' action='modify' visible='true' lat='45.4267962441' lon='12.36114014015'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773802' action='modify' visible='true' lat='45.42705205545' lon='12.36135177226'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773803' action='modify' visible='true' lat='45.42692496715' lon='12.36135886302'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773804' action='modify' visible='true' lat='45.42691734481' lon='12.36133398975'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773805' action='modify' visible='true' lat='45.4269152969' lon='12.36138733077'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773806' action='modify' visible='true' lat='45.4269368166' lon='12.36160585951'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773807' action='modify' visible='true' lat='45.42685747118' lon='12.36128495786'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773808' action='modify' visible='true' lat='45.4269038846' lon='12.36108686986'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773809' action='modify' visible='true' lat='45.42680068576' lon='12.36172472801'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773810' action='modify' visible='true' lat='45.42680090733' lon='12.36200838948'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773811' action='modify' visible='true' lat='45.42676153934' lon='12.36183996877'>
+    <tag k='addr:housenumber' v='12' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773812' action='modify' visible='true' lat='45.42678932141' lon='12.36175818282'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773813' action='modify' visible='true' lat='45.42681209521' lon='12.36169114041'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773814' action='modify' visible='true' lat='45.42683564052' lon='12.36204816636'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773815' action='modify' visible='true' lat='45.42701781515' lon='12.36227486884'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773816' action='modify' visible='true' lat='45.42680537179' lon='12.36227481676'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773817' action='modify' visible='true' lat='45.42692208683' lon='12.36210983809'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773818' action='modify' visible='true' lat='45.4269003147' lon='12.36208503042'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773819' action='modify' visible='true' lat='45.42686008203' lon='12.36207678693'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773820' action='modify' visible='true' lat='45.42706782085' lon='12.36232955323'>
+    <tag k='addr:housenumber' v='23' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773821' action='modify' visible='true' lat='45.42647796176' lon='12.3618802278'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773822' action='modify' visible='true' lat='45.4266112468' lon='12.3618493984'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773823' action='modify' visible='true' lat='45.42664201412' lon='12.36197691662'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773824' action='modify' visible='true' lat='45.42646072451' lon='12.36172582949'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773825' action='modify' visible='true' lat='45.42647654669' lon='12.36184261313'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773826' action='modify' visible='true' lat='45.42668557701' lon='12.36190889385'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773827' action='modify' visible='true' lat='45.42641490657' lon='12.36179704593'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773828' action='modify' visible='true' lat='45.4265416222' lon='12.36179361926'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773829' action='modify' visible='true' lat='45.42657735213' lon='12.36114306285'>
+    <tag k='addr:housenumber' v='47' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773830' action='modify' visible='true' lat='45.42672963656' lon='12.36108339777'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773831' action='modify' visible='true' lat='45.42658791075' lon='12.36111502173'>
+    <tag k='addr:housenumber' v='46' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773832' action='modify' visible='true' lat='45.42653987235' lon='12.36123474574'>
+    <tag k='addr:housenumber' v='48' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773833' action='modify' visible='true' lat='45.42669828237' lon='12.36105727067'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773834' action='modify' visible='true' lat='45.42645459942' lon='12.36146728229'>
+    <tag k='addr:housenumber' v='50' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773835' action='modify' visible='true' lat='45.42664146296' lon='12.36111564626'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773836' action='modify' visible='true' lat='45.42674329176' lon='12.36154073541'>
+    <tag k='addr:housenumber' v='49' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773837' action='modify' visible='true' lat='45.4266943169' lon='12.36115913739'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773838' action='modify' visible='true' lat='45.42665304207' lon='12.36102138968'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Franco Passarella' />
+  </node>
+  <node id='-26773839' action='modify' visible='true' lat='45.42642178827' lon='12.36155594501'>
+    <tag k='addr:housenumber' v='51' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773840' action='modify' visible='true' lat='45.42601192454' lon='12.36226455647'>
+    <tag k='addr:housenumber' v='68' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773841' action='modify' visible='true' lat='45.42621409363' lon='12.36236372898'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773842' action='modify' visible='true' lat='45.42628474612' lon='12.36201607593'>
+    <tag k='addr:housenumber' v='61' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773843' action='modify' visible='true' lat='45.42599261694' lon='12.36231084662'>
+    <tag k='addr:housenumber' v='70' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773844' action='modify' visible='true' lat='45.4260305561' lon='12.36223028481'>
+    <tag k='addr:housenumber' v='67' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773845' action='modify' visible='true' lat='45.42634354985' lon='12.36180665663'>
+    <tag k='addr:housenumber' v='55' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773846' action='modify' visible='true' lat='45.42605024295' lon='12.36223618618'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773847' action='modify' visible='true' lat='45.42626161516' lon='12.3620698361'>
+    <tag k='addr:housenumber' v='62' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773848' action='modify' visible='true' lat='45.42629993474' lon='12.36197524412'>
+    <tag k='addr:housenumber' v='60' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773849' action='modify' visible='true' lat='45.42636103306' lon='12.36175936619'>
+    <tag k='addr:housenumber' v='53' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773850' action='modify' visible='true' lat='45.42623273157' lon='12.362142698'>
+    <tag k='addr:housenumber' v='64' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773851' action='modify' visible='true' lat='45.42631613819' lon='12.36185372247'>
+    <tag k='addr:housenumber' v='57' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773852' action='modify' visible='true' lat='45.42606334978' lon='12.36224711812'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773853' action='modify' visible='true' lat='45.4262926664' lon='12.36191898617'>
+    <tag k='addr:housenumber' v='59' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773854' action='modify' visible='true' lat='45.42622371227' lon='12.36229218513'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773855' action='modify' visible='true' lat='45.42634985649' lon='12.36178961278'>
+    <tag k='addr:housenumber' v='54' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773856' action='modify' visible='true' lat='45.4261001726' lon='12.3622782449'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773857' action='modify' visible='true' lat='45.42620830658' lon='12.36220514111'>
+    <tag k='addr:housenumber' v='66' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773858' action='modify' visible='true' lat='45.42630852694' lon='12.36187491484'>
+    <tag k='addr:housenumber' v='58' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773859' action='modify' visible='true' lat='45.42624860633' lon='12.3621028486'>
+    <tag k='addr:housenumber' v='63' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773860' action='modify' visible='true' lat='45.42639054958' lon='12.36177769021'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773861' action='modify' visible='true' lat='45.4262208309' lon='12.36217266129'>
+    <tag k='addr:housenumber' v='65' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773862' action='modify' visible='true' lat='45.42633621052' lon='12.36182648494'>
+    <tag k='addr:housenumber' v='56' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773863' action='modify' visible='true' lat='45.42625657263' lon='12.36231802704'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773864' action='modify' visible='true' lat='45.42628013855' lon='12.3623366085'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773865' action='modify' visible='true' lat='45.42721525814' lon='12.3653385278'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Campo de la Chiesa' />
+  </node>
+  <node id='-26773866' action='modify' visible='true' lat='45.42567109992' lon='12.3630753585'>
+    <tag k='addr:housenumber' v='97' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773867' action='modify' visible='true' lat='45.42565101802' lon='12.36313714453'>
+    <tag k='addr:housenumber' v='99' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773868' action='modify' visible='true' lat='45.42571176793' lon='12.36298245635'>
+    <tag k='addr:housenumber' v='94' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773869' action='modify' visible='true' lat='45.42568823853' lon='12.36303470394'>
+    <tag k='addr:housenumber' v='96' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773870' action='modify' visible='true' lat='45.42566132287' lon='12.36310548266'>
+    <tag k='addr:housenumber' v='98' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773871' action='modify' visible='true' lat='45.42564633855' lon='12.36319565544'>
+    <tag k='addr:housenumber' v='102' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773872' action='modify' visible='true' lat='45.42569367125' lon='12.36326274097'>
+    <tag k='addr:housenumber' v='30' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773873' action='modify' visible='true' lat='45.42564495403' lon='12.36318006753'>
+    <tag k='addr:housenumber' v='101' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773874' action='modify' visible='true' lat='45.42569713173' lon='12.36301362063'>
+    <tag k='addr:housenumber' v='95' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773875' action='modify' visible='true' lat='45.42564736196' lon='12.36315406427'>
+    <tag k='addr:housenumber' v='100' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773876' action='modify' visible='true' lat='45.42570931485' lon='12.36326573831'>
+    <tag k='addr:housenumber' v='29' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773877' action='modify' visible='true' lat='45.43084827513' lon='12.36069864343'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773878' action='modify' visible='true' lat='45.43084924183' lon='12.36067341894'>
+    <tag k='addr:housenumber' v='18' />
+    <tag k='addr:street' v='Viale Ventiquattro Maggio' />
+  </node>
+  <node id='-26773879' action='modify' visible='true' lat='45.42854208201' lon='12.36237345519'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Monte San Michele' />
+  </node>
+  <node id='-26773880' action='modify' visible='true' lat='45.42853985748' lon='12.36243327043'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Monte San Michele' />
+  </node>
+  <node id='-26773881' action='modify' visible='true' lat='45.42940690043' lon='12.36068161643'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Ramo del Montello' />
+  </node>
+  <node id='-26773882' action='modify' visible='true' lat='45.42955983688' lon='12.36077741702'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Ramo del Montello' />
+  </node>
+  <node id='-26773883' action='modify' visible='true' lat='45.42948538952' lon='12.36060984208'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Ramo del Montello' />
+  </node>
+  <node id='-26773884' action='modify' visible='true' lat='45.4293771048' lon='12.36054987436'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773885' action='modify' visible='true' lat='45.42846450663' lon='12.36207872054'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Campiello Monte San Michele' />
+  </node>
+  <node id='-26773886' action='modify' visible='true' lat='45.42791581421' lon='12.35931419862'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Viale Vittorio Veneto' />
+  </node>
+  <node id='-26773887' action='modify' visible='true' lat='45.42842619234' lon='12.36226810013'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Monte San Michele' />
+  </node>
+  <node id='-26773888' action='modify' visible='true' lat='45.42823990349' lon='12.36189638071'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773889' action='modify' visible='true' lat='45.42832168026' lon='12.36178500341'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773890' action='modify' visible='true' lat='45.42822491383' lon='12.36179661733'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773891' action='modify' visible='true' lat='45.42838880603' lon='12.36171386457'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773892' action='modify' visible='true' lat='45.42813307958' lon='12.36179964347'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773893' action='modify' visible='true' lat='45.42841364533' lon='12.36202360845'>
+    <tag k='addr:housenumber' v='4a' />
+    <tag k='addr:street' v='Campiello Monte San Michele' />
+  </node>
+  <node id='-26773894' action='modify' visible='true' lat='45.42806510726' lon='12.36190853732'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773895' action='modify' visible='true' lat='45.4279486192' lon='12.36205218961'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773896' action='modify' visible='true' lat='45.42800301437' lon='12.36191317956'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773897' action='modify' visible='true' lat='45.42810554541' lon='12.36190558596'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773898' action='modify' visible='true' lat='45.42794170482' lon='12.36219786134'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773899' action='modify' visible='true' lat='45.42787586303' lon='12.36225533974'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773900' action='modify' visible='true' lat='45.42803329652' lon='12.36191089343'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773901' action='modify' visible='true' lat='45.42788431936' lon='12.36203664975'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773902' action='modify' visible='true' lat='45.42804495011' lon='12.3618110758'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Oslavia' />
+  </node>
+  <node id='-26773903' action='modify' visible='true' lat='45.42794597511' lon='12.36212172654'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773904' action='modify' visible='true' lat='45.42717638831' lon='12.36075936007'>
+    <tag k='addr:housenumber' v='4' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773905' action='modify' visible='true' lat='45.42715042263' lon='12.36076146717'>
+    <tag k='addr:housenumber' v='6' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773906' action='modify' visible='true' lat='45.42721348889' lon='12.36074446306'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773907' action='modify' visible='true' lat='45.42796727079' lon='12.36274382188'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+  <node id='-26773908' action='modify' visible='true' lat='45.42806011364' lon='12.36269678421'>
+    <tag k='addr:housenumber' v='2' />
+    <tag k='addr:street' v='Calle Vittorio Locchi' />
+  </node>
+  <node id='-26773909' action='modify' visible='true' lat='45.4278436433' lon='12.36261559986'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773910' action='modify' visible='true' lat='45.42806636302' lon='12.36245309214'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle Vittorio Locchi' />
+  </node>
+  <node id='-26773911' action='modify' visible='true' lat='45.42835664453' lon='12.36265036374'>
+    <tag k='addr:housenumber' v='1' />
+    <tag k='addr:street' v='Calle de l&apos;Hermada' />
+  </node>
+  <node id='-26773912' action='modify' visible='true' lat='45.42821205936' lon='12.36238130647'>
+    <tag k='addr:housenumber' v='3' />
+    <tag k='addr:street' v='Calle Vittorio Locchi' />
+  </node>
+  <node id='-26773913' action='modify' visible='true' lat='45.42842032145' lon='12.36252032444'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Monte San Michele' />
+  </node>
+  <node id='-26773914' action='modify' visible='true' lat='45.42786689972' lon='12.36245127497'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle del Podgora' />
+  </node>
+  <node id='-26773915' action='modify' visible='true' lat='45.42846335401' lon='12.36251193082'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Monte San Michele' />
+  </node>
+  <node id='-26773916' action='modify' visible='true' lat='45.42653306769' lon='12.36262162136'>
+    <tag k='addr:housenumber' v='10a' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773917' action='modify' visible='true' lat='45.42671656115' lon='12.36284467631'>
+    <tag k='addr:housenumber' v='21' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773918' action='modify' visible='true' lat='45.42663613134' lon='12.36270550928'>
+    <tag k='addr:housenumber' v='19' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773919' action='modify' visible='true' lat='45.42665932987' lon='12.36252577243'>
+    <tag k='addr:housenumber' v='17' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773920' action='modify' visible='true' lat='45.42638307317' lon='12.36240909955'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Buccari' />
+  </node>
+  <node id='-26773921' action='modify' visible='true' lat='45.42587813188' lon='12.36307364306'>
+    <tag k='addr:housenumber' v='90' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773922' action='modify' visible='true' lat='45.42602909159' lon='12.36253402638'>
+    <tag k='addr:housenumber' v='75' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773923' action='modify' visible='true' lat='45.42601754485' lon='12.36255397027'>
+    <tag k='addr:housenumber' v='76' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773924' action='modify' visible='true' lat='45.42596006227' lon='12.36255181815'>
+    <tag k='addr:housenumber' v='77' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773925' action='modify' visible='true' lat='45.42589236496' lon='12.36295227703'>
+    <tag k='addr:housenumber' v='89' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773926' action='modify' visible='true' lat='45.42587244659' lon='12.36293542673'>
+    <tag k='addr:housenumber' v='88' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773927' action='modify' visible='true' lat='45.42582928312' lon='12.36287956611'>
+    <tag k='addr:housenumber' v='85' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773928' action='modify' visible='true' lat='45.42579362153' lon='12.36299382014'>
+    <tag k='addr:housenumber' v='91' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773929' action='modify' visible='true' lat='45.42574883329' lon='12.36295626619'>
+    <tag k='addr:housenumber' v='92' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773930' action='modify' visible='true' lat='45.42584267928' lon='12.36289057557'>
+    <tag k='addr:housenumber' v='86' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773931' action='modify' visible='true' lat='45.42581241985' lon='12.36286587531'>
+    <tag k='addr:housenumber' v='84' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773932' action='modify' visible='true' lat='45.42585756839' lon='12.36292283988'>
+    <tag k='addr:housenumber' v='87' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773933' action='modify' visible='true' lat='45.42699557509' lon='12.36075351796'>
+    <tag k='addr:housenumber' v='10' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773934' action='modify' visible='true' lat='45.42705074392' lon='12.36090404884'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773935' action='modify' visible='true' lat='45.42680526922' lon='12.36051607749'>
+    <tag k='addr:housenumber' v='40' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773936' action='modify' visible='true' lat='45.42697287706' lon='12.36066317452'>
+    <tag k='addr:housenumber' v='8' />
+    <tag k='addr:street' v='Calle Bainsizza' />
+  </node>
+  <node id='-26773937' action='modify' visible='true' lat='45.42681494953' lon='12.36045363553'>
+    <tag k='addr:housenumber' v='39' />
+    <tag k='addr:street' v='Viale Quattro Novembre' />
+  </node>
+  <node id='-26773938' action='modify' visible='true' lat='45.42651285066' lon='12.35988633051'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Viale Vittorio Veneto' />
+  </node>
+  <node id='-26773939' action='modify' visible='true' lat='45.42706733064' lon='12.36103699741'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle Gorizia' />
+  </node>
+  <node id='-26773940' action='modify' visible='true' lat='45.42689922016' lon='12.36166955332'>
+    <tag k='addr:housenumber' v='5' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773941' action='modify' visible='true' lat='45.42680566049' lon='12.36194057587'>
+    <tag k='addr:housenumber' v='13' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773942' action='modify' visible='true' lat='45.42690529795' lon='12.36229066918'>
+    <tag k='addr:housenumber' v='22' />
+    <tag k='addr:street' v='Calle Rovereto' />
+  </node>
+  <node id='-26773943' action='modify' visible='true' lat='45.4268248217' lon='12.36188497988'>
+    <tag k='addr:housenumber' v='11' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773944' action='modify' visible='true' lat='45.42684086609' lon='12.36183590154'>
+    <tag k='addr:housenumber' v='9' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773945' action='modify' visible='true' lat='45.42686965464' lon='12.36176514457'>
+    <tag k='addr:housenumber' v='7' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773946' action='modify' visible='true' lat='45.42657733512' lon='12.36227922362'>
+    <tag k='addr:housenumber' v='14' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773947' action='modify' visible='true' lat='45.42658255905' lon='12.36236298412'>
+    <tag k='addr:housenumber' v='16' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773948' action='modify' visible='true' lat='45.4266935688' lon='12.36237136499'>
+    <tag k='addr:housenumber' v='15' />
+    <tag k='addr:street' v='Calle del Carnaro' />
+  </node>
+  <node id='-26773949' action='modify' visible='true' lat='45.42548876508' lon='12.36532265993'>
+    <tag k='addr:housenumber' v='30a' />
+    <tag k='addr:street' v='Viale Piave' />
+  </node>
+</osm>
